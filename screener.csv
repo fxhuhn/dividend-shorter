@@ -1,26 +1,22 @@
 Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond
-2024-06-27,SIX,Six Flags Entertainment Corporation New Common Stock,5.09,2051000,30.05,1.53,False,True,False,False,False
-2024-06-28,BURBY,Burberry Group ADR,4.13,221100,12.48,0.515834,False,False,False,True,False
-2024-06-28,PUBGY,Publicis Groupe SA ADR,3.12,53000,27.81,0.8671297,True,False,False,True,False
-2024-06-28,CMTG,"Claros Mortgage Trust, Inc. Common Stock",3.02,238781,8.28,0.25,True,False,False,False,False
-2024-06-28,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,3.86,298320,3.89,0.15,True,True,False,False,False
-2024-06-28,RC,Ready Capital Corproation Common Stock,3.55,1164974,8.44,0.3,True,False,False,False,False
-2024-06-28,ACRE,Ares Commercial Real Estate Corporation Common Stock,3.57,444180,7.01,0.25,False,True,False,False,False
-2024-06-28,ARI,"Apollo Commercial Real Estate Finance, Inc",3.48,538700,10.06,0.35,False,False,False,False,False
-2024-06-28,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",3.4,435620,5.89,0.2,False,False,False,False,False
-2024-06-28,NLY,Annaly Capital Management Inc. Common Stock,3.24,4053200,20.05,0.65,True,True,False,False,False
-2024-06-28,FUN,"Cedar Fair, L.P. Common Stock",3.11,291300,49.25,1.53,False,True,False,False,False
-2024-06-28,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",3.45,1590800,17.98,0.62,True,True,False,False,False
-2024-06-28,TRIN,Trinity Capital Inc. Common Stock,3.49,864045,14.6,0.51,False,False,False,False,False
-2024-06-28,NYMT,"New York Mortgage Trust, Inc. Common Stock",3.24,319900,6.18,0.2,True,False,False,False,False
-2024-06-28,HIMX,"Himax Technologies, Inc. American Depositary Shares",3.48,1777400,8.34,0.29,True,True,False,False,False
-2024-06-28,MFA,"MFA Financial, Inc.",3.2,493700,10.94,0.35,False,True,False,False,False
-2024-07-01,GBOOY,Grupo Financiero Banorte ADR,5.32,33900,42.02,2.234831,True,False,False,True,False
-2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",8.46,530180,5.91,0.5,False,False,False,False,False
-2024-07-02,UMC,United Microelectronics Corporation (NEW) Common Stock,5.26,7285100,8.81,0.4634975,False,True,False,False,False
-2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.39,1555500,4.43,0.15,False,False,False,False,False
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.34,161700,10.28,1.062465,False,False,False,False,False
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.34,161700,10.28,1.062464,False,False,False,False,False
-2024-07-03,ENGGY,Enagas SA ADR,5.3,132900,7.64,0.404869,False,True,False,True,False
-2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.32,803400,9.25,0.4,False,True,False,False,False
-2024-07-05,TWO,Two Harbors Investment Corp,3.39,720700,13.27,0.45,True,True,False,False,False
+2024-06-27,SIX,Six Flags Entertainment Corporation New Common Stock,4.91,3364200,31.14,1.53,False,True,False,False,False
+2024-06-28,BURBY,Burberry Group ADR,4.16,291300,12.41,0.515834,False,False,False,True,False
+2024-06-28,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",3.41,505000,5.87,0.2,False,False,False,False,False
+2024-06-28,RC,Ready Capital Corproation Common Stock,3.53,852900,8.5,0.3,True,False,False,False,False
+2024-06-28,ACRE,Ares Commercial Real Estate Corporation Common Stock,3.52,435400,7.1,0.25,False,True,False,False,False
+2024-06-28,ARI,"Apollo Commercial Real Estate Finance, Inc",3.47,610500,10.09,0.35,False,False,False,False,False
+2024-06-28,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,3.78,288000,3.97,0.15,True,True,False,False,False
+2024-06-28,NLY,Annaly Capital Management Inc. Common Stock,3.26,3751100,19.92,0.65,False,True,False,False,False
+2024-06-28,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",3.41,1783000,18.19,0.62,True,True,False,False,False
+2024-06-28,TRIN,Trinity Capital Inc. Common Stock,3.48,654300,14.64,0.51,False,False,False,False,False
+2024-06-28,NYMT,"New York Mortgage Trust, Inc. Common Stock",3.27,732900,6.11,0.2,False,False,False,False,False
+2024-06-28,HIMX,"Himax Technologies, Inc. American Depositary Shares",3.5,1093300,8.28,0.29,False,True,False,False,False
+2024-06-28,MFA,"MFA Financial, Inc.",3.21,473800,10.9,0.35,False,True,False,False,False
+2024-07-01,GBOOY,Grupo Financiero Banorte ADR,5.46,40800,40.96,2.234831,True,False,False,True,False
+2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",8.52,692200,5.87,0.5,False,False,False,False,False
+2024-07-02,UMC,United Microelectronics Corporation (NEW) Common Stock,5.29,6233000,8.77,0.4634975,False,True,False,False,False
+2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.39,2054000,4.43,0.15,False,False,False,False,False
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.24,167800,10.38,1.062465,False,False,False,False,False
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.24,167800,10.38,1.062464,False,False,False,False,False
+2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.31,971000,9.27,0.4,True,True,False,False,False
+2024-07-05,TWO,Two Harbors Investment Corp,3.42,510100,13.17,0.45,False,True,False,False,False
