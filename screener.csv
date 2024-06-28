@@ -1,8 +1,19 @@
 Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond
 2024-06-28,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",3.02,137100,15.56,0.47,False,False,False,False,False
-2024-06-28,HIMX,"Himax Technologies, Inc. American Depositary Shares",3.49,841300,8.32,0.29,True,True,False,False,False
-2024-06-28,NYMT,"New York Mortgage Trust, Inc. Common Stock",3.38,933900,5.91,0.2,False,False,False,False,False
+2024-06-28,BURBY,Burberry Group ADR,4.24,209800,12.18,0.515834,False,False,False,True,False
+2024-06-28,PUBGY,Publicis Groupe SA ADR,3.24,121400,26.76,0.8671297,False,False,False,True,False
+2024-06-28,CMTG,"Claros Mortgage Trust, Inc. Common Stock",3.09,253700,8.1,0.25,False,False,False,False,False
+2024-06-28,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,3.86,359800,3.89,0.15,False,True,False,False,False
+2024-06-28,RC,Ready Capital Corproation Common Stock,3.58,1581900,8.39,0.3,False,False,False,False,False
+2024-06-28,ACRE,Ares Commercial Real Estate Corporation Common Stock,3.75,1335900,6.67,0.25,False,False,False,False,False
+2024-06-28,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",3.44,556000,5.81,0.2,False,False,False,False,False
+2024-06-28,MFA,"MFA Financial, Inc.",3.22,1295600,10.87,0.35,False,True,False,False,False
+2024-06-28,NLY,Annaly Capital Management Inc. Common Stock,3.3,5678500,19.68,0.65,False,True,False,False,False
+2024-06-28,BXMT,"Blackstone Mortgage Trust, Inc. Common Stock",3.47,2384300,17.89,0.62,False,True,False,False,False
 2024-06-28,TRIN,Trinity Capital Inc. Common Stock,3.51,914100,14.54,0.51,False,False,False,False,False
+2024-06-28,NYMT,"New York Mortgage Trust, Inc. Common Stock",3.38,933900,5.91,0.2,False,False,False,False,False
+2024-06-28,HIMX,"Himax Technologies, Inc. American Depositary Shares",3.49,841300,8.32,0.29,True,True,False,False,False
+2024-06-28,ARI,"Apollo Commercial Real Estate Finance, Inc",3.52,1108300,9.93,0.35,False,False,False,False,False
 2024-07-01,GBOOY,Grupo Financiero Banorte ADR,5.44,164700,41.1,2.234831,False,False,False,True,False
 2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",8.47,598400,5.9,0.5,False,False,False,False,False
 2024-07-02,UMC,United Microelectronics Corporation (NEW) Common Stock,5.32,6724900,8.71,0.4634975,False,True,False,False,False
@@ -11,4 +22,3 @@ Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,
 2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.5,297000,10.12,1.062464,False,False,False,False,False
 2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.32,771600,9.25,0.4,False,True,False,False,False
 2024-07-05,TWO,Two Harbors Investment Corp,3.43,752500,13.13,0.45,False,True,False,False,False
-2024-07-08,SGHC,Super Group (SGHC) Limited Ordinary Shares,3.14,622000,3.18,0.1,False,False,False,False,False
