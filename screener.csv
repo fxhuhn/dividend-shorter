@@ -1,11 +1,9 @@
 Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond
-2024-07-01,IWMY,Defiance R2000 Enhanced Options Income ETF,4.8,575700,14.55,0.6983,True,False,True,False,False
-2024-07-01,GBOOY,Grupo Financiero Banorte ADR,5.4,34300,41.41,2.234831,False,False,False,True,False
-2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",8.35,1472400,5.99,0.5,True,False,False,False,False
-2024-07-02,UMC,United Microelectronics Corporation (NEW) Common Stock,5.29,11357800,8.76,0.4634975,False,True,False,False,False
-2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.35,2335300,4.48,0.15,False,False,False,False,False
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,11.01,389800,9.65,1.062465,False,False,False,False,False
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,11.01,389800,9.65,1.062464,False,False,False,False,False
-2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.27,1536700,9.37,0.4,True,True,False,False,False
-2024-07-05,TWO,Two Harbors Investment Corp,3.41,1510000,13.21,0.45,False,True,False,False,False
-2024-07-08,SGHC,Super Group (SGHC) Limited Ordinary Shares,3.1,3003900,3.23,0.1,True,False,False,False,False
+2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",9.01,1155300,5.55,0.5,False,False,False,False,False
+2024-07-02,UMC,United Microelectronics Corporation (NEW) Common Stock,5.29,9157200,8.77,0.4634975,False,True,False,False,False
+2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.42,1670700,4.39,0.15,False,False,False,False,False
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,1.062465,False,False,False,False,False
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,1.062464,False,False,False,False,False
+2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.31,1817500,9.28,0.4,True,True,False,False,False
+2024-07-05,TWO,Two Harbors Investment Corp,3.46,1203500,12.99,0.45,False,True,False,False,False
+2024-07-08,SGHC,Super Group (SGHC) Limited Ordinary Shares,3.02,673200,3.31,0.1,True,False,False,False,False
