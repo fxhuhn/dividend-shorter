@@ -202,7 +202,7 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
             continue  # Skip symbols with not enough data
 
         df.at[index, "Close"] = round(hist.Close.iloc[-1], 2)
-        df.at[index, "Divid Rate"] = round(hist.Close.iloc[-1], 2)
+        df.at[index, "dividend_Rate"] = round(hist.Close.iloc[-1], 2)
         df.at[index, "Volume"] = round(hist.Volume.iloc[-1])
         df.at[index, "SMA_50"] = round(hist.Close.rolling(50).mean().iloc[-1], 2)
         df.at[index, "dividend_percentage"] = round(
