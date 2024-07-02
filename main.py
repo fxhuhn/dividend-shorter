@@ -1,10 +1,15 @@
+import os
+import time
 from datetime import datetime, timedelta
 
 import pandas as pd
 import requests
 import yfinance as yf
+from polygon import RESTClient
 
 # Dividenden Screener
+
+API_POLYGON = os.environ.get("API_POLYGON")
 
 
 def add_business_days(start_date: datetime, business_days: int) -> datetime:
@@ -27,6 +32,15 @@ def add_business_days(start_date: datetime, business_days: int) -> datetime:
             days_added += 1
 
     return current_date
+
+
+def get_dividend_stocks(day: str) -> pd.DataFrame:
+    client = RESTClient(api_key=API_POLYGON)
+    df = pd.DataFrame.from_dict(
+        client.list_dividends(ex_dividend_date=day, limit=1_000)
+    )
+    time.sleep(20)
+    return df[df.currency == "USD"]
 
 
 def get_dividend_day(div_date: datetime = None) -> pd.DataFrame:
@@ -68,6 +82,14 @@ def get_dividend_day(div_date: datetime = None) -> pd.DataFrame:
             df["etf"] = df.companyName.str.contains("ETF")
             df["bond"] = df.companyName.str.contains("Bond")
 
+            df2 = get_dividend_stocks(div_date)
+            df = pd.merge(
+                df,
+                df2[["dividend_type", "ticker"]],
+                left_on="symbol",
+                right_on="ticker",
+                how="left",
+            )
             return df
 
     return pd.DataFrame()
@@ -133,6 +155,7 @@ def export_screener(df: pd.DataFrame) -> None:
                 "etf",
                 "adr",
                 "bond",
+                "dividend_type",
             ]
         ].to_string()
     )
@@ -150,6 +173,7 @@ def export_screener(df: pd.DataFrame) -> None:
             "etf",
             "adr",
             "bond",
+            "dividend_type",
         ]
     ].to_csv("./screener.csv")
 
@@ -178,6 +202,7 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
             continue  # Skip symbols with not enough data
 
         df.at[index, "Close"] = round(hist.Close.iloc[-1], 2)
+        df.at[index, "Divid Rate"] = round(hist.Close.iloc[-1], 2)
         df.at[index, "Volume"] = round(hist.Volume.iloc[-1])
         df.at[index, "SMA_50"] = round(hist.Close.rolling(50).mean().iloc[-1], 2)
         df.at[index, "dividend_percentage"] = round(
@@ -205,7 +230,7 @@ def main() -> None:
 
     df = get_dividend_days(
         start_date=(today).date(),
-        end_date=add_business_days(today, 10).date(),
+        end_date=add_business_days(today, 7).date(),
     )
     df = update_stock_data(df)
     export_screener(df)

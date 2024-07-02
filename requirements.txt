@@ -1,2 +1,4 @@
-pandas==2.2.2
-yfinance==0.2.40
+pandas
+polygon-api-client
+requests
+yfinance
