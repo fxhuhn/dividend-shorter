@@ -1,10 +1,10 @@
-Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",9.01,1155300,5.55,0.5,5.55,False,False,False,False,False,SC
-2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",9.01,1155300,5.55,0.5,5.55,False,False,False,False,False,CD
-2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.42,1670700,4.39,0.15,4.39,False,False,False,False,False,CD
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,1.062465,9.75,False,False,False,False,False,CD
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,1.062464,9.75,False,False,False,False,False,CD
-2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.31,1817500,9.28,0.4,9.28,True,True,False,False,False,CD
-2024-07-05,TWO,Two Harbors Investment Corp,3.46,1203500,12.99,0.45,12.99,False,True,False,False,False,CD
-2024-07-08,SGHC,Super Group (SGHC) Limited Ordinary Shares,3.02,673200,3.31,0.1,3.31,True,False,False,False,False,
-2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",3.77,1575800,7.3,0.275,7.3,True,False,False,False,False,
+Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
+2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",9.01,1155300,5.55,5.55,False,False,False,False,False,SC
+2024-07-02,CRCT,"Cricut, Inc. Class A Common Stock",9.01,1155300,5.55,5.55,False,False,False,False,False,CD
+2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.42,1670700,4.39,4.39,False,False,False,False,False,CD
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,9.75,False,False,False,False,False,CD
+2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.9,186100,9.75,9.75,False,False,False,False,False,CD
+2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.31,1817500,9.28,9.28,True,True,False,False,False,CD
+2024-07-05,TWO,Two Harbors Investment Corp,3.46,1203500,12.99,12.99,False,True,False,False,False,CD
+2024-07-08,SGHC,Super Group (SGHC) Limited Ordinary Shares,3.02,673200,3.31,3.31,True,False,False,False,False,
+2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",3.77,1575800,7.3,7.3,True,False,False,False,False,
