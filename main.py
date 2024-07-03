@@ -85,7 +85,7 @@ def get_dividend_day(div_date: datetime = None) -> pd.DataFrame:
             df2 = get_dividend_stocks(div_date)
             df = pd.merge(
                 df,
-                df2[["dividend_type", "ticker"]],
+                df2[["cash_amount", "dividend_type", "ticker"]],
                 left_on="symbol",
                 right_on="ticker",
                 how="left",
@@ -125,6 +125,7 @@ def export_screener(df: pd.DataFrame) -> None:
     """
 
     pd.options.display.float_format = "{:.2f}".format
+    df.replace({True: "X", False: ""}, inplace=True)
     df.Volume = df.Volume.astype(int)
 
     df.rename(
@@ -146,10 +147,11 @@ def export_screener(df: pd.DataFrame) -> None:
             [
                 "Ticker",
                 # "Date",
-                "Divid %",
                 "Volume",
                 "Close",
                 "Divid Rate",
+                "Divid %",
+                "cash_amount",
                 "5_Days_pos",
                 "above_SMA_50",
                 "etf",
@@ -164,10 +166,10 @@ def export_screener(df: pd.DataFrame) -> None:
         [
             "Ticker",
             "companyName",
-            "Divid %",
             "Volume",
             "Close",
             "Divid Rate",
+            "Divid %",
             "5_Days_pos",
             "above_SMA_50",
             "etf",
@@ -202,7 +204,6 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
             continue  # Skip symbols with not enough data
 
         df.at[index, "Close"] = round(hist.Close.iloc[-1], 2)
-        df.at[index, "dividend_Rate"] = round(hist.Close.iloc[-1], 2)
         df.at[index, "Volume"] = round(hist.Volume.iloc[-1])
         df.at[index, "SMA_50"] = round(hist.Close.rolling(50).mean().iloc[-1], 2)
         df.at[index, "dividend_percentage"] = round(
@@ -213,6 +214,7 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
         )
         df.at[index, "close_5_days_ago"] = hist.Close.iloc[-5]
 
+    df["dividend_Rate"] = df.dividend_Rate.round(2)
     df["roc_5_pos"] = df["Close"] > df["close_5_days_ago"]
     df["above_SMA_50"] = df["Close"] > df["SMA_50"]
 
