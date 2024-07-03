@@ -1,9 +1,5 @@
-Date,Ticker,companyName,Divid %,Volume,Close,Divid Rate,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-03,BDN,Brandywine Realty Trust Common Stock,3.33,1770400,4.51,4.51,True,False,False,False,False,CD
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.32,640100,10.3,10.3,False,False,False,False,False,CD
-2024-07-03,NOAH,Noah Holdings Limited American Depositary Shares,10.32,640100,10.3,10.3,False,False,False,False,False,CD
-2024-07-03,ENGGY,Enagas SA ADR,5.62,212300,7.21,7.21,False,False,False,True,False,CD
-2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,4.26,1268300,9.39,9.39,True,True,False,False,False,CD
-2024-07-05,TWO,Two Harbors Investment Corp,3.41,1516900,13.18,13.18,True,True,False,False,False,CD
-2024-07-05,CICHY,China Construction Bank Corp. ADR,6.14,96200,15.02,15.02,True,True,False,True,False,CD
-2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",3.69,1306100,7.45,7.45,True,True,False,False,False,
+Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
+2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1268300,9.39,0.4,4.26,X,X,,,,CD
+2024-07-05,TWO,Two Harbors Investment Corp,1516900,13.18,0.45,3.41,X,X,,,,CD
+2024-07-05,CICHY,China Construction Bank Corp. ADR,96200,15.02,0.92,6.14,X,X,,X,,CD
+2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",1306100,7.45,0.28,3.69,X,X,,,,
