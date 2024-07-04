@@ -1,5 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1268300,9.39,0.4,4.26,X,X,,,,CD
-2024-07-05,TWO,Two Harbors Investment Corp,1516900,13.18,0.45,3.41,X,X,,,,CD
-2024-07-05,CICHY,China Construction Bank Corp. ADR,96200,15.02,0.92,6.14,X,X,,X,,CD
-2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",1306100,7.45,0.28,3.69,X,X,,,,
+2024-07-05,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1168300,9.33,0.4,4.29,X,X,,,,CD
+2024-07-05,TWO,Two Harbors Investment Corp,1043500,13.14,0.45,3.42,X,X,,,,CD
+2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",479300,7.4,0.28,3.72,X,X,,,,
