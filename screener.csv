@@ -1,3 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",1619600,7.48,0.28,3.68,X,X,,,,
-2024-07-15,BBAR,Banco BBVA Argentina S.A. ADS,444100,9.51,0.47,4.96,X,,,,,
+2024-07-11,GNL,"Global Net Lease, Inc. Common Stock",1987100,7.57,0.28,3.63,X,X,,,,CD
+2024-07-15,BBAR,Banco BBVA Argentina S.A. ADS,726800,9.73,0.47,4.84,X,,,,,SC
+2024-07-15,MVO,MV Oil Trust Units of Beneficial Interests,113100,9.48,0.41,4.32,X,X,,,,CD
