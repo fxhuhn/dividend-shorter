@@ -1,5 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-15,BBAR,Banco BBVA Argentina S.A. ADS,369700,9.53,0.47,4.95,X,,,,,SC
-2024-07-15,MVO,MV Oil Trust Units of Beneficial Interests,369100,9.92,0.41,4.13,X,X,,,,CD
-2024-07-15,BDCX,"UBS AG ETRACS Quarterly Pay 1.5x Leveraged MVIS BDC Index ETN due June 10, 2050",47300,35.07,1.25,3.56,X,X,,,,CD
-2024-07-22,SVC,Service Properties Trust Common Stock,1448200,5.41,0.2,3.7,X,X,,,,CD
+2024-07-19,MEDS,"TRxADE HEALTH, Inc. Common Stock",153241,20.99,1.5,7.15,X,X,,,,SC
+2024-07-22,SVC,Service Properties Trust Common Stock,1821280,5.68,0.2,3.52,X,X,,,,CD
+2024-07-22,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),198899,52.23,1.74,3.34,,,,X,,CD
