@@ -1,6 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-17,YMAX,YieldMax Universe Fund of Option Income ETFs,969700,20.18,0.65,3.23,X,X,X,,,CD
-2024-07-17,ULTY,YieldMax Ultra Option Income Strategy ETF,1930500,14.4,0.99,6.91,X,,X,,,CD
-2024-07-19,MEDS,"TRxADE HEALTH, Inc. Common Stock",149800,20.18,1.5,7.43,X,X,,,,SC
-2024-07-22,SVC,Service Properties Trust Common Stock,1647000,5.89,0.2,3.4,X,X,,,,CD
-2024-07-22,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),435600,54.17,1.74,3.22,,,,X,,CD
+2024-07-19,MEDS,"TRxADE HEALTH, Inc. Common Stock",115900,21.36,1.5,7.02,X,X,,,,SC
+2024-07-22,SVC,Service Properties Trust Common Stock,2389000,6.1,0.2,3.28,X,X,,,,CD
+2024-07-22,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),231000,52.41,1.74,3.33,,,,X,,CD
