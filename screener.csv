@@ -1,4 +1,2 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-07-22,SVC,Service Properties Trust Common Stock,2292000,5.93,0.2,3.37,X,X,,,,CD
-2024-07-22,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),187200,54.81,1.74,3.18,X,,,X,,CD
-2024-07-29,SACH,Sachem Capital Corp. Common Shares,1200300,2.61,0.08,3.07,,,,,,CD
+2024-07-26,PEGRY,Pennon Group ADR,527900,17.12,0.72,4.2,X,X,,X,,CD
