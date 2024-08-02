@@ -1,5 +1,6 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-05,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,32710200,10.85,0.37,3.41,X,,,,,SC
-2024-08-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",2791600,25.55,0.9,3.54,,,,,,CD
-2024-08-08,FEIM,"Frequency Electronics, Inc. Common Stock",222000,13.6,1.0,7.35,X,X,,,,SC
-2024-08-08,PSZKY,Powszechna Kasa Oszczednosci Bank Polski SA ADR,84200,14.95,0.47,3.17,,,,X,,CD
+2024-08-02,BBAR,Banco BBVA Argentina S.A. ADS,579800,9.02,0.51,5.69,X,,,,,SC
+2024-08-05,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,34367600,10.48,0.37,3.53,,,,,,SC
+2024-08-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",1527600,26.34,0.9,3.44,X,,,,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,261600,11.8,0.45,3.81,,,,,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,261600,11.8,0.45,3.81,,,,,,CD
