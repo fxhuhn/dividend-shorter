@@ -1,8 +1,6 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",2117700,25.11,0.9,3.6,,,,,,CD
-2024-08-07,ARLP,"Alliance Resource Partners, L.P. Common Units representing Limited Partners Interests",809200,23.02,0.7,3.04,,,,,,CD
-2024-08-08,KARO,Karooooo Ltd. Ordinary Shares,38400,35.39,1.08,3.05,X,X,,,,CD
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,480000,11.12,0.45,4.05,,,,,,CD
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,480000,11.12,0.45,4.05,,,,,,CD
-2024-08-15,DSX,Diana Shipping inc. common stock,850100,2.36,0.08,3.18,,,,,,CD
-2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),1153200,19.03,1.5,7.88,,,,,,
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,232300,11.27,0.45,3.99,,,,,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,232300,11.27,0.45,3.99,,,,,,CD
+2024-08-15,DSX,Diana Shipping inc. common stock,855400,2.44,0.08,3.07,,,,,,CD
+2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),687600,19.11,1.5,7.85,,,,,,SC
+2024-08-16,ABR,Arbor Realty Trust Common Stock,2752700,13.58,0.43,3.17,X,,,,,CD
