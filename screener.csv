@@ -1,6 +1,6 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,232300,11.27,0.45,3.99,,,,,,CD
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,232300,11.27,0.45,3.99,,,,,,CD
-2024-08-15,DSX,Diana Shipping inc. common stock,855400,2.44,0.08,3.07,,,,,,CD
-2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),687600,19.11,1.5,7.85,,,,,,SC
-2024-08-16,ABR,Arbor Realty Trust Common Stock,2752700,13.58,0.43,3.17,X,,,,,CD
+2024-08-08,FEIM,"Frequency Electronics, Inc. Common Stock",138200,13.02,1.0,7.68,,X,,,,SC
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,183000,11.22,0.45,4.01,,,,,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,183000,11.22,0.45,4.01,,,,,,CD
+2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),468800,18.98,1.5,7.9,,,,,,SC
+2024-08-16,ABR,Arbor Realty Trust Common Stock,3867900,13.27,0.43,3.24,X,,,,,CD
