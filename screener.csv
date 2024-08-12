@@ -1,7 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,312000,11.24,0.45,4.0,,,,,,CD
-2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,312000,11.24,0.45,4.0,,,,,,CD
-2024-08-15,DSX,Diana Shipping inc. common stock,721100,2.49,0.08,3.01,X,,,,,CD
-2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),506700,19.77,1.5,7.59,X,,,,,SC
-2024-08-16,ABR,Arbor Realty Trust Common Stock,2008400,13.51,0.43,3.18,X,,,,,CD
-2024-08-16,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),434300,51.47,1.8,3.49,X,,,X,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,1012400,10.49,0.45,4.29,,,,,,CD
+2024-08-12,RWAY,Runway Growth Finance Corp. Common Stock,1012400,10.49,0.45,4.29,,,,,,CD
+2024-08-15,DSX,Diana Shipping inc. common stock,443800,2.48,0.08,3.02,X,,,,,CD
+2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),571000,19.53,1.5,7.68,X,,,,,SC
+2024-08-16,ABR,Arbor Realty Trust Common Stock,1842600,13.55,0.43,3.17,X,,,,,CD
+2024-08-16,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),251000,52.88,1.8,3.4,X,,,X,,CD
+2024-08-19,IEP,"Icahn Enterprises, L.P. Common Stock",707000,16.1,1.0,6.21,,,,,,CD
+2024-08-19,CYD,China Yuchai International Limited Common Stock,520200,9.37,0.38,4.06,X,X,,,,CD
