@@ -1,6 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),1139700,18.85,1.5,7.96,,,,,,SC
-2024-08-16,ABR,Arbor Realty Trust Common Stock,3024200,13.37,0.43,3.22,,,,,,CD
-2024-08-16,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),329800,54.69,1.8,3.29,X,,,X,,CD
-2024-08-19,IEP,"Icahn Enterprises, L.P. Common Stock",995900,16.52,1.0,6.05,,,,,,CD
-2024-08-19,CYD,China Yuchai International Limited Common Stock,569800,10.69,0.38,3.55,X,X,,,,CD
+2024-08-15,JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),774400,20.52,1.5,7.31,X,,,,,SC
+2024-08-16,ABR,Arbor Realty Trust Common Stock,2185800,13.51,0.43,3.18,X,,,,,CD
+2024-08-16,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),323600,56.83,1.8,3.16,X,X,,X,,CD
+2024-08-19,IEP,"Icahn Enterprises, L.P. Common Stock",839300,16.51,1.0,6.06,X,,,,,CD
+2024-08-23,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,139800,19.04,0.59,3.1,X,X,,,,CD
+2024-08-23,HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,68900,15.26,0.49,3.21,X,X,,,,CD
