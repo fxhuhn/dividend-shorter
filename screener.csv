@@ -1,10 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-16,ABR,Arbor Realty Trust Common Stock,5874600,13.84,0.43,3.11,X,X,,,,CD
-2024-08-16,BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),356900,59.28,1.8,3.03,X,X,,X,,CD
-2024-08-19,IEP,"Icahn Enterprises, L.P. Common Stock",840400,16.79,1.0,5.96,X,X,,,,CD
-2024-08-19,CIX,CompX International Inc. Common Stock,75900,33.23,2.0,6.02,X,X,,,,SC
-2024-08-22,PTMN,Portman Ridge Finance Corporation Common Stock,82800,19.15,0.69,3.6,X,,,,,CD
-2024-08-23,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,116300,19.23,0.59,3.07,X,X,,,,CD
-2024-08-26,JBSAY,JBS SA ADR,186500,13.47,0.71,5.28,X,X,,X,,SC
-2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,1988100,21.26,0.7,3.29,X,,,,,CD
-2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,150900,19.82,0.9,4.54,X,X,,,,CD
+2024-08-19,IEP,"Icahn Enterprises, L.P. Common Stock",1625700,16.98,1.0,5.89,X,X,,,,CD
+2024-08-19,CIX,CompX International Inc. Common Stock,46200,34.5,2.0,5.8,X,X,,,,SC
+2024-08-22,PTMN,Portman Ridge Finance Corporation Common Stock,73300,19.14,0.69,3.61,X,,,,,CD
+2024-08-23,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,95800,19.25,0.59,3.06,X,X,,,,CD
+2024-08-26,CIG,Comp En De Mn Cemig ADS American Depositary Shares,1275000,2.08,0.09,4.37,X,X,,,,SC
+2024-08-26,JBSAY,JBS SA ADR,445800,13.34,0.71,5.33,X,X,,X,,SC
+2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,1652800,21.15,0.7,3.31,,,,,,CD
+2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,153900,20.26,0.9,4.44,X,X,,,,CD
