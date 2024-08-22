@@ -40,7 +40,9 @@ def get_dividend_stocks(day: str) -> pd.DataFrame:
         client.list_dividends(ex_dividend_date=day, limit=1_000)
     )
     time.sleep(20)
-    return df[df.currency == "USD"]
+    if len(df) > 0:
+        return df[df.currency == "USD"]
+    return df
 
 
 def get_dividend_day(div_date: datetime = None) -> pd.DataFrame:
@@ -83,13 +85,14 @@ def get_dividend_day(div_date: datetime = None) -> pd.DataFrame:
             df["bond"] = df.companyName.str.contains("Bond")
 
             df2 = get_dividend_stocks(div_date)
-            df = pd.merge(
-                df,
-                df2[["cash_amount", "dividend_type", "ticker"]],
-                left_on="symbol",
-                right_on="ticker",
-                how="left",
-            )
+            if len(df2):
+                df = pd.merge(
+                    df,
+                    df2[["cash_amount", "dividend_type", "ticker"]],
+                    left_on="symbol",
+                    right_on="ticker",
+                    how="left",
+                )
             return df
 
     return pd.DataFrame()
