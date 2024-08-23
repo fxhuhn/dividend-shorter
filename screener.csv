@@ -1,8 +1,12 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-22,PTMN,Portman Ridge Finance Corporation Common Stock,119800,19.58,0.69,3.52,X,X,,,,CD
-2024-08-23,HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,85500,15.78,0.49,3.11,X,X,,,,CD
-2024-08-26,CIG,Comp En De Mn Cemig ADS American Depositary Shares,789600,2.15,0.09,4.22,X,X,,,,SC
-2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,1598400,21.38,0.7,3.27,X,,,,,CD
-2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,108500,20.51,0.9,4.39,X,X,,,,CD
-2024-08-29,TRMD,TORM plc Class A Common Stock,671300,37.9,1.8,4.75,X,X,,,,CD
-2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8115700,21.8,0.93,4.27,X,X,,,,CD
+2024-08-23,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,175100,19.29,0.59,3.06,X,X,,,,CD
+2024-08-26,CIG,Comp En De Mn Cemig ADS American Depositary Shares,3567400,2.11,0.09,4.3,X,X,,,,SC
+2024-08-26,JBSAY,JBS SA ADR,210400,13.56,0.71,5.24,X,X,,X,,SC
+2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,1733400,21.22,0.7,3.3,X,,,,,CD
+2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,87100,20.15,0.9,4.47,,X,,,,CD
+2024-08-29,TRMD,TORM plc Class A Common Stock,1018700,37.37,1.8,4.82,X,,,,,CD
+2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,5589500,21.23,0.93,4.38,X,X,,,,CD
+2024-09-03,DOYU,DouYu International Holdings Limited ADS,389500,17.55,9.76,55.61,,X,,,,SC
+2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",47600,41.12,2.0,4.86,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",204700,129.9,5.0,3.85,X,X,,,,SC
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",204700,129.9,5.0,3.85,X,X,,,,CD
