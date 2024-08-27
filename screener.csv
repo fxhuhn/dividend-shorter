@@ -1,12 +1,12 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-26,CIG,Comp En De Mn Cemig ADS American Depositary Shares,2162200,2.19,0.09,4.15,X,X,,,,SC
-2024-08-26,PHI,PLDT Inc. Sponsored ADR,37500,28.94,0.87,3.01,X,X,,X,,CD
-2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,1955900,21.23,0.7,3.3,,,,,,CD
-2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,132300,20.54,0.9,4.38,,X,,,,CD
-2024-08-29,ABIO,"ARCA biopharma, Inc. Common Stock",432800,4.16,1.59,38.22,X,X,,,,SC
-2024-08-29,TRMD,TORM plc Class A Common Stock,761400,38.32,1.8,4.7,,X,,,,CD
-2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,6427300,20.17,0.93,4.61,,X,,,,CD
-2024-09-03,DOYU,DouYu International Holdings Limited ADS,108700,17.94,9.76,54.4,,X,,,,SC
-2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",35100,41.67,2.0,4.8,X,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",265200,138.66,5.0,3.61,X,X,,,,SC
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",265200,138.66,5.0,3.61,X,X,,,,CD
+2024-08-27,JFIN,Jiayin Group Inc. American Depositary Shares,245000,6.72,0.5,7.44,X,X,,,,CD
+2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,2099600,21.58,0.7,3.24,,,,,,CD
+2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,281000,20.45,0.9,4.4,,X,,,,CD
+2024-08-28,SDXAY,Sodexo ADR,71400,20.1,1.35,6.74,X,X,,X,,SC
+2024-08-29,ABIO,"ARCA biopharma, Inc. Common Stock",496500,3.81,1.59,41.73,X,X,,,,SC
+2024-08-29,TRMD,TORM plc Class A Common Stock,747900,38.58,1.8,4.67,X,X,,,,CD
+2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,6190800,19.85,0.93,4.69,,X,,,,CD
+2024-09-03,DOYU,DouYu International Holdings Limited ADS,176600,18.55,9.76,52.61,,X,,,,SC
+2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",52700,41.36,2.0,4.84,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",236600,136.0,5.0,3.68,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",236600,136.0,5.0,3.68,X,X,,,,SC
