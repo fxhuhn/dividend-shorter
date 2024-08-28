@@ -1,12 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-27,JFIN,Jiayin Group Inc. American Depositary Shares,245000,6.72,0.5,7.44,X,X,,,,CD
-2024-08-27,SBLK,Star Bulk Carriers Corp. Common Shares,2099600,21.58,0.7,3.24,,,,,,CD
-2024-08-27,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,281000,20.45,0.9,4.4,,X,,,,CD
-2024-08-28,SDXAY,Sodexo ADR,71400,20.1,1.35,6.74,X,X,,X,,SC
-2024-08-29,ABIO,"ARCA biopharma, Inc. Common Stock",496500,3.81,1.59,41.73,X,X,,,,SC
-2024-08-29,TRMD,TORM plc Class A Common Stock,747900,38.58,1.8,4.67,X,X,,,,CD
-2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,6190800,19.85,0.93,4.69,,X,,,,CD
-2024-09-03,DOYU,DouYu International Holdings Limited ADS,176600,18.55,9.76,52.61,,X,,,,SC
-2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",52700,41.36,2.0,4.84,X,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",236600,136.0,5.0,3.68,X,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",236600,136.0,5.0,3.68,X,X,,,,SC
+2024-08-28,SDXAY,Sodexo ADR,51900,20.0,1.35,6.77,X,X,,X,,SC
+2024-08-29,TRMD,TORM plc Class A Common Stock,880000,38.6,1.8,4.66,X,X,,,,CD
+2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,3834100,19.98,0.93,4.65,,X,,,,CD
+2024-09-03,DOYU,DouYu International Holdings Limited ADS,306500,19.16,9.76,50.94,X,X,,,,SC
+2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",39500,41.57,2.0,4.81,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",223200,133.91,5.0,3.73,X,X,,,,SC
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",223200,133.91,5.0,3.73,X,X,,,,CD
+2024-09-03,HAFN,Hafnia Limited Common Shares,1440000,8.05,0.4,5.03,X,X,,,,CD
