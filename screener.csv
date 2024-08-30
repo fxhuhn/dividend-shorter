@@ -1,9 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-08-29,TRMD,TORM plc Class A Common Stock,1611800,37.12,1.8,4.85,,,,,,CD
-2024-08-29,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8626000,19.21,0.93,4.84,,,,,,CD
-2024-09-03,DOYU,DouYu International Holdings Limited ADS,142200,18.14,9.76,53.8,X,X,,,,SC
-2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",58400,42.31,2.0,4.73,X,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",299200,136.24,5.0,3.67,X,X,,,,SC
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",299200,136.24,5.0,3.67,X,X,,,,CD
-2024-09-03,HAFN,Hafnia Limited Common Shares,1725900,7.82,0.4,5.18,X,,,,,CD
-2024-09-05,WOPEF,Woodside Energy Group Ltd,400000,17.3,0.69,3.99,X,,,,,
+2024-09-03,DOYU,DouYu International Holdings Limited ADS,140000,18.59,9.76,52.5,X,X,,,,SC
+2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",74700,42.73,2.0,4.68,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",374400,133.93,5.0,3.73,,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",374400,133.93,5.0,3.73,,X,,,,SC
+2024-09-03,HAFN,Hafnia Limited Common Shares,1306500,8.04,0.4,5.04,X,X,,,,CD
+2024-09-05,WOPEF,Woodside Energy Group Ltd,60100,17.3,0.69,3.99,X,,,,,
+2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",622700,18.31,0.69,3.77,X,X,,,,CD
+2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,75400,25.3,1.19,4.68,X,,,X,,CD
+2024-09-10,BWLP,BW LPG Limited Common Shares,247000,15.56,0.58,3.73,,,,,,CD
