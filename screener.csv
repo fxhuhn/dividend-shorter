@@ -1,10 +1,15 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-03,DOYU,DouYu International Holdings Limited ADS,140000,18.59,9.76,52.5,X,X,,,,SC
-2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",74700,42.73,2.0,4.68,X,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",374400,133.93,5.0,3.73,,X,,,,CD
-2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",374400,133.93,5.0,3.73,,X,,,,SC
-2024-09-03,HAFN,Hafnia Limited Common Shares,1306500,8.04,0.4,5.04,X,X,,,,CD
-2024-09-05,WOPEF,Woodside Energy Group Ltd,60100,17.3,0.69,3.99,X,,,,,
-2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",622700,18.31,0.69,3.77,X,X,,,,CD
-2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,75400,25.3,1.19,4.68,X,,,X,,CD
-2024-09-10,BWLP,BW LPG Limited Common Shares,247000,15.56,0.58,3.73,,,,,,CD
+2024-09-03,DOYU,DouYu International Holdings Limited ADS,324900,18.84,9.76,51.8,X,X,,,,SC
+2024-09-03,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",152100,43.42,2.0,4.61,X,X,,,,CD
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",335600,135.62,5.0,3.69,,X,,,,SC
+2024-09-03,BCC,"Boise Cascade, L.L.C. Common Stock",335600,135.62,5.0,3.69,,X,,,,CD
+2024-09-03,HAFN,Hafnia Limited Common Shares,1315800,8.15,0.4,4.97,,X,,,,CD
+2024-09-03,JEPY,Defiance S&P 500 Enhanced Options Income ETF,75100,46.2,2.76,5.97,X,,X,,,CD
+2024-09-03,IWMY,Defiance R2000 Enhanced Options Income ETF,332600,40.31,3.67,9.11,X,,X,,,CD
+2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",691000,18.33,0.69,3.76,X,X,,,,CD
+2024-09-09,CLCO,Cool Company Ltd. Common Shares,821100,11.99,0.41,3.42,X,X,,,,CD
+2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,172600,24.69,1.19,4.8,,,,X,,CD
+2024-09-10,BWLP,BW LPG Limited Common Shares,264000,15.85,0.58,3.66,,,,,,CD
+2024-09-11,SAR,Saratoga Investment Corp New,93600,23.57,0.74,3.14,X,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1134000,20.23,0.64,3.16,X,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1134000,20.23,0.64,3.16,X,X,,,,CD
