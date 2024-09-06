@@ -1,9 +1,23 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",1320142,17.63,0.69,3.91,,,,,,CD
-2024-09-09,CLCO,Cool Company Ltd. Common Shares,256611,11.78,0.41,3.48,X,X,,,,CD
-2024-09-10,BWLP,BW LPG Limited Common Shares,279438,15.03,0.58,3.86,,,,,,CD
-2024-09-11,SAR,Saratoga Investment Corp New,54107,23.88,0.74,3.1,X,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,831089,20.24,0.64,3.16,X,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,831089,20.24,0.64,3.16,X,X,,,,CD
-2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,355084,16.93,0.55,3.25,,,,,,CD
-2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,265776,7.48,0.3,4.01,X,,,,,CD
+2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",1098241,17.39,0.69,3.97,,,,,,CD
+2024-09-06,DIPS,YieldMax Short NVDA Option Income Strategy ETF,49799,20.58,1.22,5.91,X,,X,,,CD
+2024-09-06,FIAT,YieldMax Short COIN Option Income Strategy ETF,340304,22.69,1.87,8.25,X,,X,,,CD
+2024-09-06,CRSH,YieldMax Short TSLA Option Income Strategy ETF,107298,14.62,0.99,6.76,,,X,,,CD
+2024-09-06,MSTY,YieldMax MSTR Option Income Strategy ETF,1525355,21.65,1.85,8.56,,,X,,,CD
+2024-09-06,AIYY,YieldMax AI Option Income Strategy ETF,274161,8.92,0.36,4.04,,,X,,,CD
+2024-09-06,SQY,YieldMax SQ Option Income Strategy ETF,61764,18.87,1.28,6.76,,X,X,,,CD
+2024-09-06,YBIT,YieldMax Bitcoin Option Income Strategy ETF,83929,13.2,0.72,5.47,,,X,,,CD
+2024-09-06,AMDY,Yieldmax AMD Option Income Strategy ETF,142247,13.83,0.93,6.72,,,X,,,CD
+2024-09-06,CONY,YieldMax COIN Option Income Strategy ETF,1386656,13.36,1.04,7.81,,,X,,,CD
+2024-09-06,AMZY,YieldMax AMZN Option Income Strategy ETF,148268,19.49,0.66,3.37,X,,X,,,CD
+2024-09-06,NVDY,YieldMax NVDA Option Income Strategy ETF,1622672,23.15,1.35,5.85,,,X,,,CD
+2024-09-06,TSLY,YieldMax TSLA Option Income Strategy ETF,1938015,14.04,0.82,5.83,X,,X,,,CD
+2024-09-06,PYPY,YieldMax PYPL Option Income Strategy ETF,379226,19.02,1.62,8.51,X,X,X,,,CD
+2024-09-09,CLCO,Cool Company Ltd. Common Shares,218421,11.78,0.41,3.48,X,,,,,CD
+2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,78626,23.15,1.19,5.12,,,,X,,CD
+2024-09-10,BWLP,BW LPG Limited Common Shares,348446,14.72,0.58,3.94,,,,,,CD
+2024-09-11,SAR,Saratoga Investment Corp New,65396,24.17,0.74,3.06,X,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1068872,20.23,0.64,3.16,X,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1068872,20.23,0.64,3.16,X,X,,,,CD
+2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,387226,16.91,0.55,3.25,,,,,,CD
+2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,188740,7.49,0.3,4.01,X,,,,,CD
