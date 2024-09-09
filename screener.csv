@@ -1,23 +1,13 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-06,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",1098241,17.39,0.69,3.97,,,,,,CD
-2024-09-06,DIPS,YieldMax Short NVDA Option Income Strategy ETF,49799,20.58,1.22,5.91,X,,X,,,CD
-2024-09-06,FIAT,YieldMax Short COIN Option Income Strategy ETF,340304,22.69,1.87,8.25,X,,X,,,CD
-2024-09-06,CRSH,YieldMax Short TSLA Option Income Strategy ETF,107298,14.62,0.99,6.76,,,X,,,CD
-2024-09-06,MSTY,YieldMax MSTR Option Income Strategy ETF,1525355,21.65,1.85,8.56,,,X,,,CD
-2024-09-06,AIYY,YieldMax AI Option Income Strategy ETF,274161,8.92,0.36,4.04,,,X,,,CD
-2024-09-06,SQY,YieldMax SQ Option Income Strategy ETF,61764,18.87,1.28,6.76,,X,X,,,CD
-2024-09-06,YBIT,YieldMax Bitcoin Option Income Strategy ETF,83929,13.2,0.72,5.47,,,X,,,CD
-2024-09-06,AMDY,Yieldmax AMD Option Income Strategy ETF,142247,13.83,0.93,6.72,,,X,,,CD
-2024-09-06,CONY,YieldMax COIN Option Income Strategy ETF,1386656,13.36,1.04,7.81,,,X,,,CD
-2024-09-06,AMZY,YieldMax AMZN Option Income Strategy ETF,148268,19.49,0.66,3.37,X,,X,,,CD
-2024-09-06,NVDY,YieldMax NVDA Option Income Strategy ETF,1622672,23.15,1.35,5.85,,,X,,,CD
-2024-09-06,TSLY,YieldMax TSLA Option Income Strategy ETF,1938015,14.04,0.82,5.83,X,,X,,,CD
-2024-09-06,PYPY,YieldMax PYPL Option Income Strategy ETF,379226,19.02,1.62,8.51,X,X,X,,,CD
-2024-09-09,CLCO,Cool Company Ltd. Common Shares,218421,11.78,0.41,3.48,X,,,,,CD
-2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,78626,23.15,1.19,5.12,,,,X,,CD
-2024-09-10,BWLP,BW LPG Limited Common Shares,348446,14.72,0.58,3.94,,,,,,CD
-2024-09-11,SAR,Saratoga Investment Corp New,65396,24.17,0.74,3.06,X,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1068872,20.23,0.64,3.16,X,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1068872,20.23,0.64,3.16,X,X,,,,CD
-2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,387226,16.91,0.55,3.25,,,,,,CD
-2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,188740,7.49,0.3,4.01,X,,,,,CD
+2024-09-09,CLCO,Cool Company Ltd. Common Shares,322100,11.62,0.41,3.53,,,,,,CD
+2024-09-09,FSUGY,Fortescue Metals Group Ltd ADR,242900,22.62,1.19,5.24,,,,X,,CD
+2024-09-10,BWLP,BW LPG Limited Common Shares,403200,14.76,0.58,3.93,,,,,,CD
+2024-09-11,SAR,Saratoga Investment Corp New,59800,24.19,0.74,3.06,X,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1321300,20.01,0.64,3.2,,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1321300,20.01,0.64,3.2,,X,,,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,210300,10.75,0.37,3.44,,,,X,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,210300,10.75,0.37,3.44,,,,X,,CD
+2024-09-16,LX,LexinFintech Holdings Ltd. American Depositary Shares,730900,1.73,0.07,4.16,,X,,,,CD
+2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,512700,16.62,0.55,3.31,,,,,,CD
+2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,213500,7.49,0.3,4.01,,,,,,CD
+2024-09-18,WHF,"WhiteHorse Finance, Inc. Common Stock",118200,11.96,0.38,3.22,X,,,,,CD
