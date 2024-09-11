@@ -1,8 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-10,BWLP,BW LPG Limited Common Shares,540700,14.85,0.58,3.91,X,,,,,CD
-2024-09-11,SAR,Saratoga Investment Corp New,111000,24.21,0.74,3.06,X,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1431300,20.06,0.64,3.19,,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1431300,20.06,0.64,3.19,,X,,,,CD
-2024-09-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,107000,13.31,0.42,3.14,X,X,,,,CD
-2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,591700,16.56,0.55,3.32,,,,,,CD
-2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,342400,7.56,0.3,3.97,X,,,,,CD
+2024-09-11,SAR,Saratoga Investment Corp New,150900,23.87,0.74,3.1,,X,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1932500,19.87,0.64,3.22,,,,,,CD
+2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1932500,19.87,0.64,3.22,,,,,,CD
+2024-09-11,TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",820500,1.38,0.06,4.27,,,,,,CD
+2024-09-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,91000,13.26,0.42,3.15,,X,,,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,420300,10.59,0.37,3.5,,,,X,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,420300,10.59,0.37,3.5,,,,X,,CD
+2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,759400,16.41,0.55,3.35,,,,,,CD
+2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,210800,7.48,0.3,4.01,,,,,,CD
