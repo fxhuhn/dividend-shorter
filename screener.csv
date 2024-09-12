@@ -1,10 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-11,SAR,Saratoga Investment Corp New,150900,23.87,0.74,3.1,,X,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1932500,19.87,0.64,3.22,,,,,,CD
-2024-09-11,FSK,FS KKR Capital Corp. Common Stock,1932500,19.87,0.64,3.22,,,,,,CD
-2024-09-11,TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",820500,1.38,0.06,4.27,,,,,,CD
-2024-09-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,91000,13.26,0.42,3.15,,X,,,,CD
-2024-09-13,SPKKY,Spark New Zealand Limited ADR,420300,10.59,0.37,3.5,,,,X,,CD
-2024-09-13,SPKKY,Spark New Zealand Limited ADR,420300,10.59,0.37,3.5,,,,X,,CD
-2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,759400,16.41,0.55,3.35,,,,,,CD
-2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,210800,7.48,0.3,4.01,,,,,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,295000,10.52,0.37,3.52,,,,X,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,295000,10.52,0.37,3.52,,,,X,,CD
+2024-09-16,TCPC,BlackRock TCP Capital Corp. Common Stock,476900,9.13,0.34,3.72,,,,,,CD
+2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,924000,16.25,0.55,3.38,,,,,,CD
+2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,226500,7.48,0.3,4.01,,,,,,CD
+2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,218500,65.13,2.21,3.4,,,,,,CD
