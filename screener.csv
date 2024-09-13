@@ -1,7 +1,11 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-13,SPKKY,Spark New Zealand Limited ADR,295000,10.52,0.37,3.52,,,,X,,CD
-2024-09-13,SPKKY,Spark New Zealand Limited ADR,295000,10.52,0.37,3.52,,,,X,,CD
-2024-09-16,TCPC,BlackRock TCP Capital Corp. Common Stock,476900,9.13,0.34,3.72,,,,,,CD
-2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,924000,16.25,0.55,3.38,,,,,,CD
-2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,226500,7.48,0.3,4.01,,,,,,CD
-2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,218500,65.13,2.21,3.4,,,,,,CD
+2024-09-13,NREF,"NexPoint Real Estate Finance, Inc. Common Stock",79600,16.51,0.5,3.03,X,X,,,,CD
+2024-09-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,157800,13.42,0.42,3.11,X,X,,,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,272300,10.67,0.37,3.47,,,,X,,CD
+2024-09-13,SPKKY,Spark New Zealand Limited ADR,272300,10.67,0.37,3.47,,,,X,,CD
+2024-09-16,TCPC,BlackRock TCP Capital Corp. Common Stock,1114300,8.94,0.34,3.8,,,,,,CD
+2024-09-16,LX,LexinFintech Holdings Ltd. American Depositary Shares,1022200,1.74,0.07,4.14,X,X,,,,CD
+2024-09-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,566900,16.41,0.55,3.35,,,,,,CD
+2024-09-16,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,325600,7.56,0.3,3.97,X,,,,,CD
+2024-09-18,WHF,"WhiteHorse Finance, Inc. Common Stock",128700,11.71,0.38,3.29,,,,,,CD
+2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,147100,66.94,2.21,3.31,X,,,,,CD
