@@ -1,4 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-18,WHF,"WhiteHorse Finance, Inc. Common Stock",119800,12.23,0.38,3.15,X,X,,,,CD
-2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,138900,67.59,2.21,3.28,X,,,,,CD
-2024-09-26,NAT,Nordic American Tankers Limited Common Stock,1403600,3.67,0.12,3.27,X,X,,,,CD
+2024-09-18,WHF,"WhiteHorse Finance, Inc. Common Stock",259700,12.27,0.38,3.14,X,X,,,,CD
+2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,119900,68.09,2.21,3.25,X,,,,,CD
+2024-09-20,OFS,OFS Capital Corporation Common Stock,143000,8.84,0.34,3.85,X,X,,,,CD
+2024-09-26,NAT,Nordic American Tankers Limited Common Stock,1925000,3.69,0.12,3.25,X,X,,,,CD
