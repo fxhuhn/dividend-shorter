@@ -1,10 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,87000,67.54,2.21,3.28,X,,,,,CD
-2024-09-20,OFS,OFS Capital Corporation Common Stock,269400,9.01,0.34,3.77,X,X,,,,CD
-2024-09-26,NAT,Nordic American Tankers Limited Common Stock,2237300,3.7,0.12,3.24,X,X,,,,CD
-2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",243800,10.64,0.33,3.1,X,X,,,,CD
-2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,7396400,20.82,0.65,3.12,X,X,,,,CD
-2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,325900,7.66,0.25,3.26,X,X,,,,CD
-2024-09-30,RC,Ready Capital Corproation Common Stock,2348000,8.05,0.25,3.11,X,,,,,CD
-2024-09-30,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,379700,3.68,0.15,4.08,X,X,,,,CD
-2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",543900,14.3,0.45,3.15,X,,,,,CD
+2024-09-20,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,144800,68.89,2.21,3.21,X,,,,,CD
+2024-09-20,OFS,OFS Capital Corporation Common Stock,250100,9.27,0.34,3.67,X,X,,,,CD
+2024-09-26,NAT,Nordic American Tankers Limited Common Stock,1948000,3.77,0.12,3.18,X,X,,,,CD
+2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",209100,10.75,0.33,3.07,X,X,,,,CD
+2024-09-30,TRIN,Trinity Capital Inc. Common Stock,619700,14.12,0.51,3.61,X,,,,,CD
+2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,7402100,20.8,0.65,3.13,X,X,,,,CD
+2024-09-30,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,410400,3.72,0.15,4.03,X,X,,,,CD
+2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,380400,7.81,0.25,3.2,X,X,,,,CD
+2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",504100,14.38,0.45,3.13,X,,,,,CD
