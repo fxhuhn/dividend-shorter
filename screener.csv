@@ -1,10 +1,11 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-26,NAT,Nordic American Tankers Limited Common Stock,3904900,3.62,0.12,3.31,,,,,,CD
-2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",226200,10.7,0.33,3.08,X,X,,,,CD
-2024-09-30,TRIN,Trinity Capital Inc. Common Stock,1071300,14.12,0.51,3.61,X,,,,,CD
-2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,8567200,20.88,0.65,3.11,X,X,,,,CD
-2024-09-30,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,413400,3.79,0.15,3.96,X,X,,,,CD
-2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,1263300,7.37,0.25,3.39,,X,,,,CD
-2024-09-30,RC,Ready Capital Corproation Common Stock,6713300,7.97,0.25,3.14,X,,,,,CD
-2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",760700,14.35,0.45,3.14,,,,,,CD
-2024-10-01,TWO,Two Harbors Investment Corp,3357000,13.94,0.45,3.23,,X,,,,CD
+2024-09-26,NAT,Nordic American Tankers Limited Common Stock,1818800,3.67,0.12,3.27,,X,,,,CD
+2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",237600,10.73,0.33,3.08,X,X,,,,CD
+2024-09-30,NYMT,"New York Mortgage Trust, Inc. Common Stock",454900,6.64,0.2,3.01,,X,,,,CD
+2024-09-30,TRIN,Trinity Capital Inc. Common Stock,496300,14.15,0.51,3.6,X,,,,,CD
+2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,10233600,20.31,0.65,3.2,,X,,,,CD
+2024-09-30,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,277200,3.71,0.15,4.04,X,X,,,,CD
+2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,302800,7.31,0.25,3.42,,X,,,,CD
+2024-09-30,RC,Ready Capital Corproation Common Stock,1701400,7.94,0.25,3.15,,,,,,CD
+2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",567500,14.44,0.45,3.12,X,X,,,,CD
+2024-10-01,TWO,Two Harbors Investment Corp,1248300,13.65,0.45,3.3,,,,,,CD
