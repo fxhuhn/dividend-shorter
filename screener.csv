@@ -1,13 +1,13 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-26,NAT,Nordic American Tankers Limited Common Stock,3589100,3.65,0.12,3.29,,X,,,,CD
-2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",585200,10.7,0.33,3.08,,X,,,,CD
-2024-09-30,NYMT,"New York Mortgage Trust, Inc. Common Stock",489100,6.52,0.2,3.07,,X,,,,CD
-2024-09-30,TRIN,Trinity Capital Inc. Common Stock,651900,13.9,0.51,3.67,,,,,,CD
-2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,8279500,20.3,0.65,3.2,,X,,,,CD
-2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,560200,7.17,0.25,3.49,,,,,,CD
-2024-09-30,RC,Ready Capital Corproation Common Stock,2405800,7.69,0.25,3.25,,,,,,CD
-2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",508600,14.22,0.45,3.16,,,,,,CD
-2024-10-01,TWO,Two Harbors Investment Corp,1196400,13.67,0.45,3.29,,,,,,CD
-2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,166500,14.0,0.7,5.0,X,X,,,,SC
-2024-10-04,TDG,Transdigm Group Incorporated Common Stock,243000,1424.26,75.0,5.27,X,X,,,,SC
-2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1075000,9.13,0.4,4.38,,X,,,,CD
+2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",264100,10.62,0.33,3.11,,X,,,,CD
+2024-09-30,NYMT,"New York Mortgage Trust, Inc. Common Stock",375200,6.57,0.2,3.04,,X,,,,CD
+2024-09-30,TRIN,Trinity Capital Inc. Common Stock,490200,13.92,0.51,3.66,,,,,,CD
+2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,6878600,20.4,0.65,3.19,,X,,,,CD
+2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,352400,7.31,0.25,3.42,,X,,,,CD
+2024-09-30,RC,Ready Capital Corproation Common Stock,1122200,7.83,0.25,3.19,,,,,,CD
+2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",550100,14.34,0.45,3.14,,X,,,,CD
+2024-09-30,YRD,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",316200,4.8,0.2,4.17,X,X,,,,CD
+2024-10-01,TWO,Two Harbors Investment Corp,691900,13.72,0.45,3.28,,X,,,,CD
+2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,144800,14.13,0.7,4.95,X,X,,,,SC
+2024-10-04,TDG,Transdigm Group Incorporated Common Stock,204000,1401.23,75.0,5.35,,X,,,,SC
+2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,871700,9.2,0.4,4.35,X,X,,,,CD
