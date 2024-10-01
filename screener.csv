@@ -1,15 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-09-30,AFCG,"AFC Gamma, Inc. Common Stock",278600,10.58,0.33,3.12,,X,,,,CD
-2024-09-30,NYMT,"New York Mortgage Trust, Inc. Common Stock",511700,6.53,0.2,3.06,,X,,,,CD
-2024-09-30,TRIN,Trinity Capital Inc. Common Stock,1324400,13.93,0.51,3.66,,,,,,CD
-2024-09-30,NLY,Annaly Capital Management Inc. Common Stock,6548900,20.66,0.65,3.15,X,X,,,,CD
-2024-09-30,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,514400,3.78,0.15,3.97,X,X,,,,CD
-2024-09-30,ACRE,Ares Commercial Real Estate Corporation Common Stock,549900,7.31,0.25,3.42,X,X,,,,CD
-2024-09-30,RC,Ready Capital Corproation Common Stock,1740800,7.83,0.25,3.19,,,,,,CD
-2024-09-30,GSBD,"Goldman Sachs BDC, Inc. Common Stock",861800,14.42,0.45,3.12,,X,,,,CD
-2024-09-30,YRD,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",360800,5.19,0.2,3.85,X,X,,,,CD
-2024-10-01,TWO,Two Harbors Investment Corp,930400,13.71,0.45,3.28,X,X,,,,CD
-2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,248100,14.27,0.7,4.91,X,X,,,,SC
-2024-10-04,TDG,Transdigm Group Incorporated Common Stock,184600,1402.88,75.0,5.35,,X,,,,SC
-2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,990800,9.32,0.4,4.29,X,X,,,,CD
-2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",2527700,5.07,1.08,21.3,X,X,,,,SC
+2024-10-01,TWO,Two Harbors Investment Corp,1972600,13.88,0.45,3.24,X,X,,,,CD
+2024-10-01,WDTE,Defiance S&P 500 Enhanced Options Income ETF,53500,44.2,1.81,4.09,X,,X,,,CD
+2024-10-01,IWMY,Defiance R2000 Enhanced Options Income ETF,371600,37.13,2.24,6.03,,,X,,,CD
+2024-10-02,NTOIY,Neste OYJ ADR,140800,9.57,0.33,3.5,X,,,X,,CD
+2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,337800,14.45,0.7,4.84,X,X,,,,SC
+2024-10-04,TDG,Transdigm Group Incorporated Common Stock,233300,1427.13,75.0,5.26,X,X,,,,SC
+2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1030800,9.39,0.4,4.26,X,X,,,,CD
+2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",3152900,5.1,1.08,21.18,X,X,,,,SC
