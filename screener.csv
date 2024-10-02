@@ -1,9 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-01,TWO,Two Harbors Investment Corp,1972600,13.88,0.45,3.24,X,X,,,,CD
-2024-10-01,WDTE,Defiance S&P 500 Enhanced Options Income ETF,53500,44.2,1.81,4.09,X,,X,,,CD
-2024-10-01,IWMY,Defiance R2000 Enhanced Options Income ETF,371600,37.13,2.24,6.03,,,X,,,CD
-2024-10-02,NTOIY,Neste OYJ ADR,140800,9.57,0.33,3.5,X,,,X,,CD
-2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,337800,14.45,0.7,4.84,X,X,,,,SC
-2024-10-04,TDG,Transdigm Group Incorporated Common Stock,233300,1427.13,75.0,5.26,X,X,,,,SC
-2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1030800,9.39,0.4,4.26,X,X,,,,CD
-2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",3152900,5.1,1.08,21.18,X,X,,,,SC
+2024-10-02,NTOIY,Neste OYJ ADR,157900,9.41,0.33,3.56,X,,,X,,CD
+2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,405900,14.65,0.7,4.78,X,X,,,,SC
+2024-10-04,TDG,Transdigm Group Incorporated Common Stock,176100,1435.96,75.0,5.22,X,X,,,,SC
+2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,2480500,9.16,0.4,4.37,X,X,,,,CD
+2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,1724400,10.28,0.32,3.16,,,,,,CD
+2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",2127900,5.29,1.08,20.42,X,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",139600,24.48,2.5,10.21,X,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",139600,24.48,2.5,10.21,X,X,,,,CD
