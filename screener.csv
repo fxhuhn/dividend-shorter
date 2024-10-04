@@ -1,9 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,354800,14.51,0.7,4.82,X,X,,,,SC
-2024-10-04,TDG,Transdigm Group Incorporated Common Stock,175900,1442.53,75.0,5.2,X,X,,,,SC
-2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1874200,9.16,0.4,4.37,,X,,,,CD
-2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,2505600,10.2,0.32,3.18,,,,,,CD
-2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",3106300,5.53,1.08,19.53,X,X,,,,SC
-2024-10-11,EBF,"Ennis, Inc. Common Stock",309800,23.75,2.5,10.53,,X,,,,CD
-2024-10-11,EBF,"Ennis, Inc. Common Stock",309800,23.75,2.5,10.53,,X,,,,SC
-2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1499700,8.4,0.28,3.27,,,,,,CD
+2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,246800,14.81,0.7,4.73,X,X,,,,SC
+2024-10-04,TDG,Transdigm Group Incorporated Common Stock,219200,1419.09,75.0,5.29,X,X,,,,SC
+2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1884800,9.1,0.4,4.4,,X,,,,CD
+2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,828500,10.32,0.32,3.14,,,,,,CD
+2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",1797900,5.65,1.08,19.12,X,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",162300,23.87,2.5,10.47,X,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",162300,23.87,2.5,10.47,X,X,,,,CD
+2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1054800,8.47,0.28,3.25,,,,,,CD
