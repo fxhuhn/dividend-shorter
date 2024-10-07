@@ -1,9 +1,8 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-04,GAIN,Gladstone Investment Corporation Business Development Company,246800,14.81,0.7,4.73,X,X,,,,SC
-2024-10-04,TDG,Transdigm Group Incorporated Common Stock,219200,1419.09,75.0,5.29,X,X,,,,SC
-2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,1884800,9.1,0.4,4.4,,X,,,,CD
-2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,828500,10.32,0.32,3.14,,,,,,CD
-2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",1797900,5.65,1.08,19.12,X,X,,,,SC
-2024-10-11,EBF,"Ennis, Inc. Common Stock",162300,23.87,2.5,10.47,X,X,,,,SC
-2024-10-11,EBF,"Ennis, Inc. Common Stock",162300,23.87,2.5,10.47,X,X,,,,CD
-2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1054800,8.47,0.28,3.25,,,,,,CD
+2024-10-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,3462000,9.05,0.4,4.42,,X,,,,CD
+2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,1053600,10.53,0.32,3.08,,X,,,,CD
+2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",4102900,6.23,1.08,17.34,X,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",144500,24.31,2.5,10.28,,X,,,,SC
+2024-10-11,EBF,"Ennis, Inc. Common Stock",144500,24.31,2.5,10.28,,X,,,,CD
+2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1403600,8.37,0.28,3.29,,,,,,CD
+2024-10-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",154700,8.15,0.33,4.03,,,,,,CD
