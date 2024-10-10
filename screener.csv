@@ -1,7 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-09,BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,1083000,10.53,0.32,3.08,X,X,,,,CD
-2024-10-09,HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share",2420200,5.66,1.08,19.08,X,X,,,,SC
-2024-10-11,EBF,"Ennis, Inc. Common Stock",226500,23.98,2.5,10.43,X,X,,,,CD
-2024-10-11,EBF,"Ennis, Inc. Common Stock",226500,23.98,2.5,10.43,X,X,,,,SC
-2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1238700,8.46,0.28,3.25,X,,,,,CD
-2024-10-15,MVO,MV Oil Trust Units of Beneficial Interests,108100,9.85,0.33,3.35,X,X,,,,CD
+2024-10-11,EBF,"Ennis, Inc. Common Stock",174700,24.21,2.5,10.33,X,X,,,,CD
+2024-10-11,EBF,"Ennis, Inc. Common Stock",174700,24.21,2.5,10.33,X,X,,,,SC
+2024-10-11,GNL,"Global Net Lease, Inc. Common Stock",1498600,8.57,0.28,3.21,X,X,,,,CD
