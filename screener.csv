@@ -1,2 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-15,MVO,MV Oil Trust Units of Beneficial Interests,125000,10.0,0.33,3.3,X,X,,,,CD
+2024-10-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",159200,9.21,0.33,3.56,X,,,,,CD
+2024-10-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",87100,12.15,0.41,3.34,X,,,,,CD
+2024-10-15,MVO,MV Oil Trust Units of Beneficial Interests,198100,10.27,0.33,3.21,X,X,,,,CD
