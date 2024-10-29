@@ -1,5 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-28,DMLP,"Dorchester Minerals, L.P. Common Units Representing Limited Partnership Interests",167400,32.59,1.0,3.06,,X,,,,CD
-2024-11-05,LPG,Dorian LPG Ltd. Common Stock,484100,31.03,1.0,3.22,,,,,,SC
-2024-11-05,GOFPY,Greek Organisation Of Football Prognostics S.A. ADR,122900,8.49,0.27,3.13,,,,X,,CD
-2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",3135700,21.1,0.92,4.35,,,,,,CD
+2024-10-30,VOC,VOC Energy Trust Units of Beneficial Interest,224000,5.62,0.18,3.2,X,X,,,,CD
+2024-11-05,PRMW,Primo Water Corporation Common Stock,689900,27.09,0.82,3.03,,X,,,,SC
+2024-11-05,LPG,Dorian LPG Ltd. Common Stock,643100,30.75,1.0,3.25,,,,,,SC
+2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",3217100,20.4,0.92,4.5,,,,,,CD
