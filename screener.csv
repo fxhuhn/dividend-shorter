@@ -1,5 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-10-30,VOC,VOC Energy Trust Units of Beneficial Interest,224000,5.62,0.18,3.2,X,X,,,,CD
-2024-11-05,PRMW,Primo Water Corporation Common Stock,689900,27.09,0.82,3.03,,X,,,,SC
-2024-11-05,LPG,Dorian LPG Ltd. Common Stock,643100,30.75,1.0,3.25,,,,,,SC
-2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",3217100,20.4,0.92,4.5,,,,,,CD
+2024-10-30,VOC,VOC Energy Trust Units of Beneficial Interest,193900,5.56,0.18,3.24,X,X,,,,CD
+2024-11-05,PRMW,Primo Water Corporation Common Stock,895500,26.96,0.82,3.04,,X,,,,SC
+2024-11-05,LPG,Dorian LPG Ltd. Common Stock,529000,30.35,1.0,3.29,X,,,,,SC
+2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",4858600,19.27,0.92,4.76,,,,,,CD
