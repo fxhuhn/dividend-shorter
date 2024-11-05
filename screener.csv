@@ -1,4 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-05,PRMW,Primo Water Corporation Common Stock,10712100,26.53,0.82,3.09,,X,,,,SC
-2024-11-05,LPG,Dorian LPG Ltd. Common Stock,600600,29.31,1.0,3.41,,,,,,SC
-2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",2124000,19.25,0.92,4.77,,,,,,CD
+2024-11-05,PRMW,Primo Water Corporation Common Stock,1182500,26.24,0.82,3.13,,X,,,,SC
+2024-11-05,LPG,Dorian LPG Ltd. Common Stock,733600,28.84,1.0,3.47,,,,,,SC
+2024-11-06,NEP,"NextEra Energy Partners, LP Common Units representing limited partner interests",3551500,20.19,0.92,4.54,X,,,,,CD
