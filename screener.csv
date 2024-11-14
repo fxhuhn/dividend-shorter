@@ -1,10 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-15,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",70100,19.08,0.58,3.04,X,X,,,,CD
-2024-11-18,ACGL,Arch Capital Group Ltd. Common Stock,2400900,101.12,5.0,4.94,,,,,,SC
-2024-11-18,IEP,"Icahn Enterprises, L.P. Common Stock",1099400,12.58,0.5,3.97,,,,,,CD
-2024-11-18,RWAY,Runway Growth Finance Corp. Common Stock,371200,10.54,0.4,3.8,X,X,,,,CD
-2024-11-18,WEYS,"Weyco Group, Inc. Common Stock",41200,37.22,2.26,6.07,,X,,,,SC
-2024-11-18,WEYS,"Weyco Group, Inc. Common Stock",41200,37.22,2.26,6.07,,X,,,,CD
-2024-11-18,GAM,"General American Investors, Inc. Common Stock",32400,54.66,4.5,8.23,X,X,,,,CD
-2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,37000,65.26,2.19,3.36,,,,,,CD
-2024-11-21,TRMD,TORM plc Class A Common Stock,1482700,22.95,1.2,5.23,,,,,,CD
+2024-11-15,CET,Central Securities Corporation Common Stock,22000,49.1,2.05,4.18,X,X,,,,CD
+2024-11-15,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",81809,19.13,0.58,3.03,X,X,,,,CD
+2024-11-18,ACGL,Arch Capital Group Ltd. Common Stock,1736000,101.18,5.0,4.94,X,,,,,SC
+2024-11-18,IEP,"Icahn Enterprises, L.P. Common Stock",948700,12.43,0.5,4.02,,,,,,CD
+2024-11-18,RWAY,Runway Growth Finance Corp. Common Stock,428755,10.48,0.4,3.82,X,X,,,,CD
+2024-11-18,GAM,"General American Investors, Inc. Common Stock",29200,54.66,4.5,8.23,X,X,,,,CD
+2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,50400,65.85,2.19,3.33,,,,,,CD
+2024-11-19,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",102572,10.02,0.32,3.19,X,X,,,,CD
+2024-11-21,TRMD,TORM plc Class A Common Stock,2185356,23.73,1.2,5.06,,,,,,CD
