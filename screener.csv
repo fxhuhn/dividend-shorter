@@ -1,10 +1,12 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-15,CET,Central Securities Corporation Common Stock,22000,49.1,2.05,4.18,X,X,,,,CD
-2024-11-15,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",81809,19.13,0.58,3.03,X,X,,,,CD
-2024-11-18,ACGL,Arch Capital Group Ltd. Common Stock,1736000,101.18,5.0,4.94,X,,,,,SC
-2024-11-18,IEP,"Icahn Enterprises, L.P. Common Stock",948700,12.43,0.5,4.02,,,,,,CD
-2024-11-18,RWAY,Runway Growth Finance Corp. Common Stock,428755,10.48,0.4,3.82,X,X,,,,CD
-2024-11-18,GAM,"General American Investors, Inc. Common Stock",29200,54.66,4.5,8.23,X,X,,,,CD
-2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,50400,65.85,2.19,3.33,,,,,,CD
-2024-11-19,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",102572,10.02,0.32,3.19,X,X,,,,CD
-2024-11-21,TRMD,TORM plc Class A Common Stock,2185356,23.73,1.2,5.06,,,,,,CD
+2024-11-15,CET,Central Securities Corporation Common Stock,52000,49.1,2.05,4.18,X,X,,,,CD
+2024-11-15,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",108572,19.01,0.58,3.05,X,X,,,,CD
+2024-11-18,ACGL,Arch Capital Group Ltd. Common Stock,2165600,100.05,5.0,5.0,,,,,,SC
+2024-11-18,IEP,"Icahn Enterprises, L.P. Common Stock",1007600,12.56,0.5,3.98,X,,,,,CD
+2024-11-18,RWAY,Runway Growth Finance Corp. Common Stock,276214,10.4,0.4,3.85,,X,,,,CD
+2024-11-18,GAM,"General American Investors, Inc. Common Stock",42300,54.51,4.5,8.26,,X,,,,CD
+2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,57900,65.85,2.19,3.33,,,,,,CD
+2024-11-19,PTMN,Portman Ridge Finance Corporation Common Stock,71500,17.75,0.69,3.89,,,,,,CD
+2024-11-21,TRMD,TORM plc Class A Common Stock,1458771,23.63,1.2,5.08,,,,,,CD
+2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,114700,24.48,1.08,4.42,,,,X,,CD
+2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,179801,16.23,0.6,3.7,,,,,,CD
