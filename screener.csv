@@ -1,13 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-18,ACGL,Arch Capital Group Ltd. Common Stock,2726400,101.83,5.0,4.91,X,,,,,SC
-2024-11-18,IEP,"Icahn Enterprises, L.P. Common Stock",966700,12.48,0.5,4.01,,,,,,CD
-2024-11-18,RWAY,Runway Growth Finance Corp. Common Stock,394800,10.41,0.4,3.84,,X,,,,CD
-2024-11-18,WEYS,"Weyco Group, Inc. Common Stock",31600,38.89,2.26,5.81,X,X,,,,CD
-2024-11-18,WEYS,"Weyco Group, Inc. Common Stock",31600,38.89,2.26,5.81,X,X,,,,SC
-2024-11-18,GAM,"General American Investors, Inc. Common Stock",64500,54.08,4.5,8.32,,X,,,,CD
-2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,76500,63.09,2.19,3.47,,,,,,CD
-2024-11-19,PTMN,Portman Ridge Finance Corporation Common Stock,175300,17.9,0.69,3.85,X,,,,,CD
-2024-11-21,TRMD,TORM plc Class A Common Stock,1644300,22.85,1.2,5.25,,,,,,CD
-2024-11-22,ADX,Adams Diversified Equity Fund Inc.,407100,22.02,1.96,8.9,,X,,,,CD
-2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,339900,24.5,1.08,4.42,,,,X,,CD
-2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,181500,15.99,0.6,3.75,,,,,,CD
+2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,51004,64.79,2.19,3.38,,,,,,CD
+2024-11-19,PTMN,Portman Ridge Finance Corporation Common Stock,147792,18.01,0.69,3.83,X,,,,,CD
+2024-11-19,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",184676,9.79,0.32,3.27,,,,,,CD
+2024-11-21,TRMD,TORM plc Class A Common Stock,1553163,23.43,1.2,5.12,X,,,,,CD
+2024-11-22,ADX,Adams Diversified Equity Fund Inc.,614963,22.44,1.96,8.73,X,X,,,,CD
+2024-11-22,PEO,"Adams Natural Resources Fund, Inc. Common Stock",62968,24.35,1.03,4.23,X,X,,,,CD
+2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),218909,15.73,1.02,6.47,X,X,,,,CD
+2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,56196,24.81,1.08,4.36,X,,,X,,CD
+2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,147761,16.27,0.6,3.69,X,,,,,CD
