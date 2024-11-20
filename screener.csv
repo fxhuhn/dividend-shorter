@@ -1,10 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-19,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS,51004,64.79,2.19,3.38,,,,,,CD
-2024-11-19,PTMN,Portman Ridge Finance Corporation Common Stock,147792,18.01,0.69,3.83,X,,,,,CD
-2024-11-19,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",184676,9.79,0.32,3.27,,,,,,CD
-2024-11-21,TRMD,TORM plc Class A Common Stock,1553163,23.43,1.2,5.12,X,,,,,CD
-2024-11-22,ADX,Adams Diversified Equity Fund Inc.,614963,22.44,1.96,8.73,X,X,,,,CD
-2024-11-22,PEO,"Adams Natural Resources Fund, Inc. Common Stock",62968,24.35,1.03,4.23,X,X,,,,CD
-2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),218909,15.73,1.02,6.47,X,X,,,,CD
-2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,56196,24.81,1.08,4.36,X,,,X,,CD
-2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,147761,16.27,0.6,3.69,X,,,,,CD
+2024-11-21,TRMD,TORM plc Class A Common Stock,1243058,23.97,1.2,5.01,X,,,,,CD
+2024-11-22,ADX,Adams Diversified Equity Fund Inc.,548900,22.53,1.96,8.7,X,X,,,,CD
+2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),161243,15.83,1.02,6.43,X,X,,,,CD
+2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,109167,16.25,0.6,3.69,,,,,,CD
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",111328,29.51,1.0,3.39,,,,,,SC
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",111328,29.51,1.0,3.39,,,,,,CD
