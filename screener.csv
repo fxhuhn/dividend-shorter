@@ -4,14 +4,15 @@ Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,
 2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),205500,16.29,1.02,6.25,X,X,,,,CD
 2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,127000,24.14,1.08,4.48,,,,X,,CD
 2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,155600,16.63,0.6,3.61,X,X,,,,CD
-2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,2363800,1.96,0.1,4.86,X,,,,,SC
+2024-11-27,FLNG,FLEX LNG Ltd. Ordinary Shares,384900,26.18,0.75,2.86,X,X,,,,CD
 2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",97200,30.11,1.0,3.32,,X,,,,CD
 2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",97200,30.11,1.0,3.32,,X,,,,SC
+2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,2363800,1.96,0.1,4.86,X,,,,,SC
+2024-12-02,CION,CION Investment Corporation Common Stock,293700,11.54,0.36,3.12,X,,,,,CD
 2024-12-02,ITIC,Investors Title Company Common Stock,16200,281.6,14.46,5.13,X,X,,,,SC
 2024-12-02,ITIC,Investors Title Company Common Stock,16200,281.6,14.46,5.13,X,X,,,,CD
 2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,0.84,3.47,,X,,,,SC
 2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,0.84,3.47,,X,,,,CD
 2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,2.81,11.6,,X,,,,SC
 2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,2.81,11.6,,X,,,,CD
-2024-12-02,CION,CION Investment Corporation Common Stock,293700,11.54,0.36,3.12,X,,,,,CD
 2024-12-02,ORANY,Orange,282000,10.31,0.32,3.09,,,,,,CD
