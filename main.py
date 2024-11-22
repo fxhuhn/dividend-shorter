@@ -222,7 +222,7 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
     df["above_SMA_50"] = df["Close"] > df["SMA_50"]
 
     df = df[df["last_close_volume"] > 1_000_000]
-    df = df[df["dividend_percentage"] > 3]
+    df = df[df["dividend_percentage"] > 2.75]
 
     return df.sort_values(by="dividend_Ex_Date")
 
