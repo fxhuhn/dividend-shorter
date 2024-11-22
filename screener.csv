@@ -1,13 +1,17 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-21,TRMD,TORM plc Class A Common Stock,1682665,23.81,1.2,5.04,X,,,,,CD
-2024-11-22,ADX,Adams Diversified Equity Fund Inc.,619800,22.3,1.96,8.79,X,X,,,,CD
-2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),156400,16.36,1.02,6.22,X,X,,,,CD
-2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,122300,24.16,1.08,4.48,,,,X,,CD
-2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,131060,16.45,0.6,3.65,X,X,,,,CD
-2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1036400,2.0,0.1,4.76,X,,,,,SC
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",96000,29.77,1.0,3.36,,X,,,,CD
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",96000,29.77,1.0,3.36,,X,,,,SC
-2024-12-02,ITIC,Investors Title Company Common Stock,7200,277.64,14.46,5.21,X,X,,,,SC
-2024-12-02,ITIC,Investors Title Company Common Stock,7200,277.64,14.46,5.21,X,X,,,,CD
-2024-12-02,CION,CION Investment Corporation Common Stock,207586,11.44,0.36,3.15,X,,,,,CD
-2024-12-02,ORANY,Orange,516500,10.44,0.32,3.06,X,,,,,CD
+2024-11-22,ADX,Adams Diversified Equity Fund Inc.,918800,22.43,1.96,8.74,X,X,,,,CD
+2024-11-22,PEO,"Adams Natural Resources Fund, Inc. Common Stock",45600,24.76,1.03,4.16,X,X,,,,CD
+2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),205500,16.29,1.02,6.25,X,X,,,,CD
+2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,127000,24.14,1.08,4.48,,,,X,,CD
+2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,155600,16.63,0.6,3.61,X,X,,,,CD
+2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,2363800,1.96,0.1,4.86,X,,,,,SC
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",97200,30.11,1.0,3.32,,X,,,,CD
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",97200,30.11,1.0,3.32,,X,,,,SC
+2024-12-02,ITIC,Investors Title Company Common Stock,16200,281.6,14.46,5.13,X,X,,,,SC
+2024-12-02,ITIC,Investors Title Company Common Stock,16200,281.6,14.46,5.13,X,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,0.84,3.47,,X,,,,SC
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,0.84,3.47,,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,2.81,11.6,,X,,,,SC
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,15739400,24.23,2.81,11.6,,X,,,,CD
+2024-12-02,CION,CION Investment Corporation Common Stock,293700,11.54,0.36,3.12,X,,,,,CD
+2024-12-02,ORANY,Orange,282000,10.31,0.32,3.09,,,,,,CD
