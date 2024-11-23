@@ -2,67 +2,76 @@
 
 bet on falling prices on payday
 
-## VOD
+## Signale
 
-### Erwartung
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |     0.2 |     0.6 |     0.4 |     0.8 |     0.5 |        42 |
-| mit  |     0.5 |     0.6 |     1.1 |     1   |     0.4 |        22 |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| SGAPY    |         0.66 |   23.3  |    24500 |              570850 |      2.85 | False        | False          |
+| ISNPY    |         1.08 |   23.57 |   137800 |             3247946 |      4.59 | False        | False          |
+| IRS      |         1.02 |   15.79 |   345200 |             5450708 |      6.45 | True         | True           |
+| BEBE     |         2    |    3.52 |    42900 |              151008 |     56.82 | True         | True           |
 
-### Ohne Filter
-![image info](./data/VOD_box_all.png)
-![image info](./data/VOD_median_all.png)
-
-### Mit Filter
-![image info](./data/VOD_box_filtered.png)
-![image info](./data/VOD_median_filtered.png)
-
-## UNCRY
+## SGAPY
 
 ### Erwartung in R
 |      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
 |:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |    -0.3 |     3.6 |     4.2 |     2.9 |     4.1 |         7 |
-| mit  |    -0.3 |     4   |     4.7 |     0.3 |     4.5 |         3 |
+| ohne |     0   |     0.9 |     0.9 |     0.6 |     1.1 |        34 |
+| mit  |     0.8 |     1.9 |     0.8 |    -0   |     1.2 |         2 |
 
 ### Ohne Filter
-![image info](./data/UNCRY_box_all.png)
-![image info](./data/UNCRY_median_all.png)
+![image info](./data/SGAPY_box_all.png)
+![image info](./data/SGAPY_median_all.png)
 
 ### Mit Filter
-![image info](./data/UNCRY_box_filtered.png)
-![image info](./data/UNCRY_median_filtered.png)
+![image info](./data/SGAPY_box_filtered.png)
+![image info](./data/SGAPY_median_filtered.png)
 
-## PEO
+## ISNPY
 
 ### Erwartung in R
 |      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
 |:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |     0.1 |    -0.2 |     0.1 |    -0.1 |    -0.3 |        95 |
-| mit  |    -0.1 |    -0.5 |    -0.2 |     0.5 |     1.2 |        12 |
+| ohne |       0 |    -0.1 |     0.9 |    -0.3 |     0.7 |        18 |
+| mit  |       0 |    -0.1 |     1.2 |     1.5 |     1.2 |        14 |
 
 ### Ohne Filter
-![image info](./data/PEO_box_all.png)
-![image info](./data/PEO_median_all.png)
+![image info](./data/ISNPY_box_all.png)
+![image info](./data/ISNPY_median_all.png)
 
 ### Mit Filter
-![image info](./data/PEO_box_filtered.png)
-![image info](./data/PEO_median_filtered.png)
+![image info](./data/ISNPY_box_filtered.png)
+![image info](./data/ISNPY_median_filtered.png)
 
-## ADX
+## IRS
 
 ### Erwartung in R
 |      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
 |:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |    -0.1 |    -0.2 |    -0.3 |    -0.5 |    -0.4 |       124 |
-| mit  |     0.1 |     0.1 |    -0.6 |    -0.4 |    -0.9 |        18 |
+| ohne |     0.3 |     1.4 |    -0.5 |     1.7 |     1.9 |        14 |
+| mit  |     3.5 |     6.1 |     1.9 |     4.5 |     6.6 |         2 |
 
 ### Ohne Filter
-![image info](./data/ADX_box_all.png)
-![image info](./data/ADX_median_all.png)
+![image info](./data/IRS_box_all.png)
+![image info](./data/IRS_median_all.png)
 
 ### Mit Filter
-![image info](./data/ADX_box_filtered.png)
-![image info](./data/ADX_median_filtered.png)
+![image info](./data/IRS_box_filtered.png)
+![image info](./data/IRS_median_filtered.png)
+
+## BEBE
+
+### Erwartung in R
+|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
+|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
+| ohne |       0 |       0 |     0.3 |     0.3 |       0 |        65 |
+| mit  |     nan |     nan |   nan   |   nan   |     nan |         0 |
+
+### Ohne Filter
+![image info](./data/BEBE_box_all.png)
+![image info](./data/BEBE_median_all.png)
+
+### Mit Filter
+![image info](./data/BEBE_box_filtered.png)
+![image info](./data/BEBE_median_filtered.png)
 
