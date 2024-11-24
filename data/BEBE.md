@@ -1,8 +1,8 @@
 ### Erwartung in R
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |       0 |       0 |     0.3 |     0.3 |       0 |        65 |
-| mit  |     nan |     nan |   nan   |   nan   |     nan |         0 |
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |         0 |      -0.2 |         0 |      -0.2 |      -0.5 |        65 |
+| mit  |       nan |     nan   |       nan |     nan   |     nan   |         0 |
 
 ### Ohne Filter
 ![image info](./data/BEBE_box_all.png)

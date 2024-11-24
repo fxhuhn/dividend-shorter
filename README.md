@@ -14,10 +14,10 @@ bet on falling prices on payday
 ## SGAPY
 
 ### Erwartung in R
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |     0   |     0.9 |     0.9 |     0.6 |     1.1 |        34 |
-| mit  |     0.8 |     1.9 |     0.8 |    -0   |     1.2 |         2 |
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0   |      -0   |       0.2 |       0.1 |       0.1 |        34 |
+| mit  |       0.2 |      -0.2 |      -0.3 |      -0.3 |      -0.3 |         2 |
 
 ### Ohne Filter
 ![image info](./data/SGAPY_box_all.png)
@@ -30,10 +30,10 @@ bet on falling prices on payday
 ## ISNPY
 
 ### Erwartung in R
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |       0 |    -0.1 |     0.9 |    -0.3 |     0.7 |        18 |
-| mit  |       0 |    -0.1 |     1.2 |     1.5 |     1.2 |        14 |
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |         0 |        -0 |       0.1 |      -0   |       0.1 |        18 |
+| mit  |         0 |        -0 |       0.2 |       0.2 |       0.2 |        14 |
 
 ### Ohne Filter
 ![image info](./data/ISNPY_box_all.png)
@@ -46,10 +46,10 @@ bet on falling prices on payday
 ## IRS
 
 ### Erwartung in R
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |     0.3 |     1.4 |    -0.5 |     1.7 |     1.9 |        14 |
-| mit  |     3.5 |     6.1 |     1.9 |     4.5 |     6.6 |         2 |
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0.2 |       0.6 |       0.1 |       0.2 |       0   |        14 |
+| mit  |       0.7 |       1   |       0.2 |       0.3 |       0.5 |         2 |
 
 ### Ohne Filter
 ![image info](./data/IRS_box_all.png)
@@ -62,10 +62,10 @@ bet on falling prices on payday
 ## BEBE
 
 ### Erwartung in R
-|      |   Day_0 |   Day_1 |   Day_2 |   Day_3 |   Day_4 |   Treffer |
-|:-----|--------:|--------:|--------:|--------:|--------:|----------:|
-| ohne |       0 |       0 |     0.3 |     0.3 |       0 |        65 |
-| mit  |     nan |     nan |   nan   |   nan   |     nan |         0 |
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |         0 |      -0.2 |         0 |      -0.2 |      -0.5 |        65 |
+| mit  |       nan |     nan   |       nan |     nan   |     nan   |         0 |
 
 ### Ohne Filter
 ![image info](./data/BEBE_box_all.png)
