@@ -1,24 +1,25 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
 2024-11-25,IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),345200,15.79,1.02,6.45,X,X,,,,CD
+2024-11-25,BEBE,Bebe Stores Inc,42900,3.52,2.0,56.82,X,X,,,,SC
 2024-11-25,SGAPY,Singapore Telecommunications Limited ADR,24500,23.3,0.66,2.85,,,,X,,CD
 2024-11-25,ISNPY,Intesa Sanpaolo Spa ADR,137800,23.57,1.08,4.59,,,,X,,CD
-2024-11-25,BEBE,Bebe Stores Inc,42900,3.52,2.0,56.82,X,X,,,,SC
-2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,270324,16.55,0.6,3.63,X,X,,,,CD
+2024-11-26,MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,270600,16.55,0.6,3.63,X,X,,,,CD
 2024-11-26,JBSAY,JBS SA ADR,41400,12.31,0.35,2.82,X,X,,X,,SC
 2024-11-26,JBSAY,JBS SA ADR,41400,12.31,0.33,2.65,X,X,,X,,SC
-2024-11-27,FLNG,FLEX LNG Ltd. Ordinary Shares,248197,26.34,0.75,2.85,X,X,,,,CD
-2024-11-29,AFSIM,AmTrust Financial Services Inc 7.75% PRF PERPETUAL USD 25 - Ser E,9800,14.8,0.48,3.27,X,X,,,,CD
-2024-11-29,QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",9864,12.93,0.4,3.08,,,,,,CD
-2024-11-29,QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",30716,12.77,0.39,3.06,,,,,,CD
+2024-11-27,FLNG,FLEX LNG Ltd. Ordinary Shares,272600,26.34,0.75,2.85,X,X,,,,CD
+2024-11-29,AFSIP,AmTrust Financial Services Inc 7.50% PRF PERPETUAL USD 25 - Ser D,10800,14.99,0.47,3.13,X,X,,,,CD
+2024-11-29,AFSIM,AmTrust Financial Services Inc 7.75% PRF PERPETUAL USD 25 - Ser E,8600,15.25,0.48,3.18,X,X,,,,CD
+2024-11-29,QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",9900,12.93,0.4,3.08,,,,,,CD
+2024-11-29,QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",30700,12.77,0.39,3.06,,,,,,CD
 2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",94800,30.47,1.0,3.28,X,X,,,,SC
-2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1804500,1.99,0.1,4.78,,,,,,SC
 2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",94800,30.47,1.0,3.28,X,X,,,,CD
-2024-12-02,CION,CION Investment Corporation Common Stock,272352,11.7,0.36,3.08,X,,,,,CD
-2024-12-02,BPYPN,"Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",27735,14.28,0.36,2.52,X,,,,,CD
+2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1804500,1.99,0.1,4.78,,,,,,SC
+2024-12-02,BPYPN,"Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",27700,14.28,0.36,2.52,X,,,,,CD
 2024-12-02,ITIC,Investors Title Company Common Stock,16500,282.9,14.46,5.11,X,X,,,,SC
 2024-12-02,ITIC,Investors Title Company Common Stock,16500,282.9,14.46,5.11,X,X,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8385462,23.78,0.84,3.53,,X,,,,SC
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8385462,23.78,0.84,3.53,,X,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8385462,23.78,2.81,11.82,,X,,,,SC
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8385462,23.78,2.81,11.82,,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8392700,23.78,0.84,3.53,,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8392700,23.78,0.84,3.53,,X,,,,SC
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8392700,23.78,2.81,11.82,,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8392700,23.78,2.81,11.82,,X,,,,SC
+2024-12-02,CION,CION Investment Corporation Common Stock,272400,11.7,0.36,3.08,X,,,,,CD
 2024-12-02,ORANY,Orange,336300,10.45,0.32,3.05,X,,,,,CD
