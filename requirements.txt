@@ -3,3 +3,4 @@ numpy
 polygon-api-client
 requests
 yfinance==0.2.48
+matplotlib
