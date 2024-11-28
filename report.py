@@ -133,6 +133,10 @@ def get_trading_day() -> datetime:
 def main() -> None:
     df = core.update_stock_data(core.get_dividend_day(get_trading_day()))
 
+    if len(df) == 0:
+        print("No stocks for today.")
+        return
+
     df.rename(
         columns={
             # "symbol": "Symbol",

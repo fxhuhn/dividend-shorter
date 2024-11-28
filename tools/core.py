@@ -77,6 +77,9 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
     df["close_5_days_ago"] = 0.0
     df["SMA_50"] = 0.0
 
+    if len(df) == 0:
+        return pd.DataFrame()
+
     for index, row in df.iterrows():
         hist = yf.download(row.ticker.replace(".", "-"), progress=False)
 
