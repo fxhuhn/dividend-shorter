@@ -1,31 +1,33 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-27,FLNG,FLEX LNG Ltd. Ordinary Shares,397154,25.75,0.75,2.91,,X,,,,CD
-2024-11-29,GRF,"Eagle Capital Growth Fund, Inc. Common Stock",23376,10.05,0.68,6.77,,X,,,,CD
-2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1391580,2.01,0.1,4.74,X,,,,,SC
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",136878,30.52,1.0,3.28,X,X,,,,SC
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",136878,30.52,1.0,3.28,X,X,,,,CD
-2024-11-29,QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",13144,12.98,0.4,3.07,X,,,,,CD
-2024-11-29,QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",40145,12.94,0.39,3.02,,,,,,CD
-2024-12-02,ORANY,Orange,54579,10.53,0.32,3.03,X,,,,,CD
-2024-12-02,CION,CION Investment Corporation Common Stock,224363,11.76,0.36,3.06,X,,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,7587213,21.1,2.81,13.32,,,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,7587213,21.1,0.84,3.98,,,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,7587213,21.1,0.84,3.98,,,,,,SC
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,7587213,21.1,2.81,13.32,,,,,,SC
-2024-12-02,ITIC,Investors Title Company Common Stock,5254,285.67,14.46,5.06,X,X,,,,CD
-2024-12-02,ITIC,Investors Title Company Common Stock,5254,285.67,14.46,5.06,X,X,,,,SC
-2024-12-02,CRESY,Cresud S.A.C.I.F. y A. American Depositary Shares,561243,12.34,0.61,4.94,X,X,,,,CD
-2024-12-02,BPYPN,"Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",22901,14.2,0.36,2.53,X,,,,,CD
-2024-12-02,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",70237,42.1,2.0,4.75,X,X,,,,CD
-2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1159666,21.95,0.64,2.92,X,X,,,,CD
-2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1159666,21.95,0.64,2.92,X,X,,,,CD
-2024-12-04,SAR,Saratoga Investment Corp New,237823,25.62,0.74,2.89,,X,,,,SC
-2024-12-04,BBDC,"Barings BDC, Inc. Common Stock",383783,10.21,0.26,2.55,X,X,,,,CD
-2024-12-04,TK,Teekay Corporation Ltd. Common Stock,1005437,7.66,1.0,13.05,,,,,,SC
-2024-12-04,SAR,Saratoga Investment Corp New,237823,25.62,0.74,2.89,,X,,,,CD
-2024-12-05,SBLK,Star Bulk Carriers Corp. Common Shares,2271137,18.03,0.6,3.33,,,,,,CD
-2024-12-05,AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,1619356,3.7,0.1,2.7,X,,,,,CD
-2024-12-06,TKC,Turkcell Iletisim Hizmetleri AS Common Stock,189209,6.67,0.22,3.32,,X,,,,CD
-2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",100555,58.77,3.37,5.73,X,X,,,,SC
-2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",100555,58.77,3.37,5.73,X,X,,,,CD
-2024-12-06,BTLCY,British Land Co plc ADR,28260,4.76,0.15,3.25,,,,X,,CD
+2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1723200,2.0,0.1,4.76,X,,,,,SC
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",108900,30.31,1.0,3.3,X,X,,,,CD
+2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",108900,30.31,1.0,3.3,X,X,,,,SC
+2024-11-29,QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",18200,12.96,0.39,3.01,,,,,,CD
+2024-11-29,QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",14300,13.05,0.4,3.05,,,,,,CD
+2024-11-29,VDMCY,Vodacom Group Ltd ADR,18900,5.8,0.16,2.82,X,,,X,,CD
+2024-11-29,PTALF,PetroTal Corp,401400,0.45,0.02,3.33,X,,,,,CD
+2024-12-02,ORANY,Orange,535500,10.68,0.32,2.99,X,,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10054900,22.1,2.81,12.71,,,,,,SC
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10054900,22.1,2.81,12.71,,,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10054900,22.1,0.84,3.8,,,,,,SC
+2024-12-02,CION,CION Investment Corporation Common Stock,364500,11.73,0.36,3.07,X,,,,,CD
+2024-12-02,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",111000,43.88,2.0,4.56,X,X,,,,CD
+2024-12-02,ITIC,Investors Title Company Common Stock,10400,285.26,14.46,5.07,X,X,,,,CD
+2024-12-02,ITIC,Investors Title Company Common Stock,10400,285.26,14.46,5.07,X,X,,,,SC
+2024-12-02,CRESY,Cresud S.A.C.I.F. y A. American Depositary Shares,256000,11.88,0.61,5.13,X,X,,,,CD
+2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10054900,22.1,0.84,3.8,,,,,,CD
+2024-12-03,BKNIY,Bankinter SA ADR,18700,7.85,0.31,3.95,,,,X,,CD
+2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1217900,22.13,0.64,2.89,X,X,,,,CD
+2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1217900,22.13,0.64,2.89,X,X,,,,CD
+2024-12-04,SAR,Saratoga Investment Corp New,86300,25.53,0.74,2.9,,X,,,,CD
+2024-12-04,BBDC,"Barings BDC, Inc. Common Stock",324300,10.25,0.26,2.54,X,X,,,,CD
+2024-12-04,TK,Teekay Corporation Ltd. Common Stock,1052800,7.45,1.0,13.42,,,,,,SC
+2024-12-04,SAR,Saratoga Investment Corp New,86300,25.53,0.74,2.9,,X,,,,SC
+2024-12-05,SBLK,Star Bulk Carriers Corp. Common Shares,2644000,17.55,0.6,3.42,,,,,,CD
+2024-12-05,AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,960700,3.69,0.1,2.71,,,,,,CD
+2024-12-05,AGESY,Ageas SA/NV ADR,2500,50.73,1.58,3.12,,,,X,,SC
+2024-12-06,BTLCY,British Land Co plc ADR,21900,4.92,0.15,3.15,X,,,X,,CD
+2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",71400,58.75,3.37,5.74,X,X,,,,SC
+2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",71400,58.75,3.37,5.74,X,X,,,,CD
+2024-12-06,TKC,Turkcell Iletisim Hizmetleri AS Common Stock,332400,6.61,0.22,3.35,,X,,,,CD
+2024-12-09,GBDC,"Golub Capital BDC, Inc. Common Stock",1035300,15.49,0.39,2.52,X,X,,,,CD
