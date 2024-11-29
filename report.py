@@ -174,7 +174,7 @@ def main() -> None:
         dividend_details(symbol)
         time.sleep(15)
 
-    readme = "# dividend-shorter\n\nbet on falling prices on payday\n\n"
+    readme = f"# dividend-shorter\n\nbet on falling prices on payday **{get_trading_day():%Y-%m-%d}**.\n\n"
 
     with open("./shorts.md", "r") as file:
         short_signals = file.read()
