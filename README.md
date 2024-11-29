@@ -1,6 +1,6 @@
 # dividend-shorter
 
-bet on falling prices on payday
+bet on falling prices on payday **2024-11-29**.
 
 ## Signale
 
