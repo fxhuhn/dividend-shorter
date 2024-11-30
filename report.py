@@ -75,7 +75,9 @@ def dividend_details(symbol: str) -> None:
         drop=True
     )
     df4.index.name = "Gewinn"
-    df4.plot.box(title=name).get_figure().savefig(f"./data/{symbol}_box_all.png")
+    df4.plot.box(title=name, ylabel="Profit in R", xlabel="Tage").get_figure().savefig(
+        f"./data/{symbol}_box_all.png"
+    )
     plt.clf()
     df4.median().plot(kind="bar", title=name).get_figure().savefig(
         f"./data/{symbol}_median_all.png"
@@ -90,12 +92,12 @@ def dividend_details(symbol: str) -> None:
 
     df4.index.name = "Gewinn"
 
-    df4.plot.box(title=name, ylabel="R in %", xlabel="Tage").get_figure().savefig(
+    df4.plot.box(title=name, ylabel="Profit in R", xlabel="Tage").get_figure().savefig(
         f"./data/{symbol}_box_filtered.png"
     )
     plt.clf()
     df4.median().plot(
-        kind="bar", title=name, ylabel="R in %", xlabel="Tage"
+        kind="bar", title=name, ylabel="Profit in R", xlabel="Tage"
     ).get_figure().savefig(f"./data/{symbol}_median_filtered.png")
     plt.clf()
 
