@@ -6,8 +6,8 @@ bet on falling prices on payday **2024-12-02**.
 
 | Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
 |:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| ZIM      |         2.81 |   22.04 |      8.3827e+06 |           184754708 |     12.75 | False        | False          |
 | ZIM      |         0.84 |   22.04 |      8.3827e+06 |           184754708 |      3.81 | False        | False          |
+| ZIM      |         2.81 |   22.04 |      8.3827e+06 |           184754708 |     12.75 | False        | False          |
 | QRTEP    |         2    |   42.48 | 215500          |             9154440 |      4.71 | True         | True           |
 | ORANY    |         0.32 |   10.66 |  89300          |              951938 |      2.99 | True         | False          |
 | ORAN     |         0.32 |   10.66 |  89296          |              951895 |      2.99 | True         | False          |
