@@ -2,7 +2,7 @@ name: screening
 
 on:
   schedule:
-    - cron: "2 1 * * 1-5"
+    - cron: "0 2 * * 1-5"
   workflow_dispatch:
 
 jobs:
