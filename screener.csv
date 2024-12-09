@@ -1,44 +1,47 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-11-29,SID,Companhia Siderurgica Nacional S.A. Common Stock,1723200,2.0,0.1,4.76,X,,,,,SC
-2024-11-29,PTALF,PetroTal Corp,401400,0.45,0.02,3.33,X,,,,,CD
-2024-11-29,VDMCY,Vodacom Group Ltd ADR,18900,5.8,0.16,2.82,X,,,X,,CD
-2024-11-29,TSMY,YieldMax TSM Option Income Strategy ETF,139100,19.06,0.54,2.82,,,X,,,CD
-2024-11-29,SNOY,YieldMax SNOW Option Income Strategy ETF,424700,22.12,1.71,7.72,X,X,X,,,CD
-2024-11-29,CRSH,YieldMax Short TSLA Option Income Strategy ETF,275100,8.33,0.38,4.51,X,,X,,,CD
-2024-11-29,XOMO,YieldMax XOM Option Income Strategy ETF,84100,16.55,0.51,3.08,,,X,,,CD
-2024-11-29,YBIT,YieldMax Bitcoin Option Income Strategy ETF,1055800,15.12,1.26,8.36,,X,X,,,CD
-2024-11-29,OARK,YieldMax Innovation Option Income Strategy ETF,156300,11.0,0.47,4.27,X,X,X,,,CD
-2024-11-29,QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",18200,12.96,0.39,3.01,,,,,,CD
-2024-11-29,QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",14300,13.05,0.4,3.05,,,,,,CD
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",108900,30.31,1.0,3.3,X,X,,,,SC
-2024-11-29,IIIN,"Insteel Industries, Inc. Common Stock",108900,30.31,1.0,3.3,X,X,,,,CD
-2024-11-29,TSLY,YieldMax TSLA Option Income Strategy ETF,4495000,15.22,1.22,8.02,,X,X,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10078400,22.1,2.81,12.71,,,,,,SC
-2024-12-02,ORANY,Orange,535500,10.68,0.32,2.99,X,,,,,CD
-2024-12-02,CION,CION Investment Corporation Common Stock,364500,11.73,0.36,3.07,X,,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10078400,22.1,0.84,3.8,,,,,,CD
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10078400,22.1,2.81,12.71,,,,,,CD
-2024-12-02,QRTEP,"Qurate Retail, Inc. 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",111000,43.88,2.0,4.56,X,X,,,,CD
-2024-12-02,ITIC,Investors Title Company Common Stock,10400,285.26,14.46,5.07,X,X,,,,SC
-2024-12-02,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10078400,22.1,0.84,3.8,,,,,,SC
-2024-12-02,ITIC,Investors Title Company Common Stock,10400,285.26,14.46,5.07,X,X,,,,CD
-2024-12-02,CRESY,Cresud S.A.C.I.F. y A. American Depositary Shares,256000,11.88,0.61,5.13,X,X,,,,CD
-2024-12-03,BKNIY,Bankinter SA ADR,18700,7.85,0.31,3.95,,,,X,,CD
-2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1217900,22.13,0.64,2.89,X,X,,,,CD
-2024-12-04,SAR,Saratoga Investment Corp New,86300,25.53,0.74,2.9,,X,,,,SC
-2024-12-04,FSK,FS KKR Capital Corp. Common Stock,1217900,22.13,0.64,2.89,X,X,,,,CD
-2024-12-04,BBDC,"Barings BDC, Inc. Common Stock",324300,10.25,0.26,2.54,X,X,,,,CD
-2024-12-04,TK,Teekay Corporation Ltd. Common Stock,1052800,7.45,1.0,13.42,,,,,,SC
-2024-12-04,SAR,Saratoga Investment Corp New,86300,25.53,0.74,2.9,,X,,,,CD
-2024-12-05,SBLK,Star Bulk Carriers Corp. Common Shares,2646300,17.55,0.6,3.42,,,,,,CD
-2024-12-05,AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,960700,3.69,0.1,2.71,,,,,,CD
-2024-12-05,AGESY,Ageas SA/NV ADR,2500,50.73,1.58,3.12,,,,X,,SC
-2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",71400,58.75,3.37,5.74,X,X,,,,SC
-2024-12-06,AMSF,"AMERISAFE, Inc. Common Stock",71400,58.75,3.37,5.74,X,X,,,,CD
-2024-12-06,TKC,Turkcell Iletisim Hizmetleri AS Common Stock,332400,6.61,0.22,3.35,,X,,,,CD
-2024-12-06,HAFN,Hafnia Limited Common Shares,5491400,5.64,0.38,6.72,X,,,,,CD
-2024-12-06,BTLCY,British Land Co plc ADR,21900,4.92,0.15,3.15,X,,,X,,CD
-2024-12-09,GOGL,Golden Ocean Group Limited Common Stock,4112800,10.09,0.3,2.97,,,,,,CD
-2024-12-09,GBDC,"Golub Capital BDC, Inc. Common Stock",1036400,15.49,0.39,2.52,X,X,,,,CD
-2024-12-10,MFIC,MidCap Financial Investment Corporation Common Stock,248300,14.05,0.38,2.7,X,X,,,,CD
-2024-12-10,XP,XP Inc. Class A Common Stock,9115600,14.95,0.65,4.35,,,,,,SC
+2024-12-09,GOGL,Golden Ocean Group Limited Common Stock,2488100,9.56,0.3,3.14,,,,,,CD
+2024-12-09,GBDC,"Golub Capital BDC, Inc. Common Stock",1726700,15.46,0.39,2.52,,X,,,,CD
+2024-12-10,MFIC,MidCap Financial Investment Corporation Common Stock,366500,14.18,0.38,2.68,,X,,,,CD
+2024-12-10,XP,XP Inc. Class A Common Stock,8404800,13.41,0.65,4.85,,,,,,SC
+2024-12-11,KSS,Kohl's Corporation Common Stock,10506300,15.31,0.5,3.27,,,,,,CD
+2024-12-11,AVACF,Avance Gas Holding Ltd,31300,10.55,3.5,33.18,X,X,,,,CD
+2024-12-12,RVT,"Royce Small-Cap Trust, Inc. Common Stock",263800,16.82,0.44,2.62,X,X,,,,CD
+2024-12-12,BWLP,BW LPG Limited Common Shares,596200,11.39,0.42,3.69,,,,,,CD
+2024-12-13,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock",99600,4.73,0.16,3.38,X,,,,,CD
+2024-12-13,CAF,Morgan Stanley China A Share Fund Inc. Common Stock,62000,12.63,0.33,2.59,X,,,,,CD
+2024-12-13,INSW,"International Seaways, Inc. Common Stock ",1005500,37.06,1.08,2.91,,,,,,CD
+2024-12-13,ASBFY,Associated British Foods plc ADR,65800,28.83,0.9,3.13,X,,,X,,CD
+2024-12-13,NREF,"NexPoint Real Estate Finance, Inc. Common Stock",38500,17.09,0.5,2.93,,X,,,,CD
+2024-12-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,88600,12.94,0.42,3.23,X,X,,,,CD
+2024-12-13,SFL,SFL Corporation Ltd,715000,10.47,0.27,2.58,X,,,,,CD
+2024-12-13,INSW,"International Seaways, Inc. Common Stock ",1005500,37.06,1.08,2.91,,,,,,CD
+2024-12-13,PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,15639900,13.86,0.53,3.85,,,,,,SC
+2024-12-13,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,213000,8.26,0.3,3.63,,X,,,,CD
+2024-12-13,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",173900,5.12,0.22,4.3,X,X,,,,CD
+2024-12-13,IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock",43700,29.34,2.7,9.19,X,X,,,,CD
+2024-12-13,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",64100,7.98,0.26,3.32,X,X,,,,CD
+2024-12-13,GAB,"Gabelli Equity Trust, Inc. (The) Common Stock",431600,5.83,0.15,2.57,X,X,,,,CD
+2024-12-13,DDS,"Dillard's, Inc. Common Stock",100600,444.1,25.0,5.63,,X,,,,CD
+2024-12-13,TY,Tri Continental Corporation Common Stock,59500,34.67,2.24,6.45,X,X,,,,CD
+2024-12-13,FUND,"Sprott Focus Trust, Inc. Common Stock",29000,8.09,0.22,2.67,,X,,,,CD
+2024-12-13,CSWC,Capital Southwest Corporation Common Stock,1459700,22.92,0.63,2.75,,,,,,CD
+2024-12-13,CSWC,Capital Southwest Corporation Common Stock,1459700,22.92,0.63,2.75,,,,,,CD
+2024-12-13,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",41800,4.07,0.12,2.95,X,X,,,,CD
+2024-12-16,MRRTY,Marfrig Global Foods S.A ADR,62800,3.18,0.47,14.69,X,X,,X,,SC
+2024-12-16,TEN,Tsakos Energy Navigation Ltd Common Shares,403600,18.24,0.9,4.93,X,,,,,CD
+2024-12-16,MRRTY,Marfrig Global Foods S.A ADR,62800,3.18,0.49,15.32,X,X,,X,,SC
+2024-12-16,GECC,Great Elm Capital Corp. Common Stock,12100,10.28,0.35,3.4,,X,,,,CD
+2024-12-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,480800,16.34,0.55,3.37,,X,,,,CD
+2024-12-17,UNTC,Unit Corp. Com (New),102700,31.41,1.25,3.98,X,X,,,,SC
+2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,343700,9.39,0.44,4.69,X,X,,,,SC
+2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,343700,9.39,0.44,4.69,X,X,,,,CD
+2024-12-17,FDUS,Fidus Investment Corporation Common Stock,150100,21.34,0.61,2.86,X,X,,,,CD
+2024-12-17,FDUS,Fidus Investment Corporation Common Stock,150100,21.34,0.61,2.86,X,X,,,,CD
+2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,355600,11.8,0.33,2.8,,X,,,,CD
+2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,355600,11.8,0.33,2.8,,X,,,,CD
+2024-12-17,PPSI,"Pioneer Power Solutions, Inc. Common Stock",204600,6.18,1.5,24.27,X,X,,,,SC
+2024-12-17,MCN,Madison Covered Call & Equity Strategy Fund Common Stock,20300,7.05,0.18,2.55,,X,,,,CD
+2024-12-17,UNTC,Unit Corp. Com (New),102700,31.41,2.0,6.37,X,X,,,,CD
+2024-12-17,UNTC,Unit Corp. Com (New),102700,31.41,2.0,6.37,X,X,,,,SC
+2024-12-17,UNTC,Unit Corp. Com (New),102700,31.41,1.25,3.98,X,X,,,,CD
+2024-12-18,TEF,Telefonica SA Common Stock,678300,4.55,0.16,3.46,X,,,,,CD
