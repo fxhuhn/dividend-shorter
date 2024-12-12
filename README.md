@@ -1,60 +1,60 @@
 # dividend-shorter
 
-bet on falling prices on payday **2024-12-11**.
+bet on falling prices on payday **2024-12-12**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |           Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|-----------------:|--------------------:|----------:|:-------------|:---------------|
-| KSS      |         0.5  |   15.22 |      1.44013e+07 |           219187786 |      3.29 | False        | False          |
-| ENGGY    |         0.21 |    6.85 |  23200           |              158920 |      3.06 | True         | False          |
-| AVACF    |         3.5  |    7    | 269500           |             1886500 |     50    | False        | False          |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| RVT      |         0.44 |   16.66 |   383300 |             6385778 |      2.64 | False        | True           |
+| RGT      |         0.47 |   12    |    24600 |              295200 |      3.92 | True         | True           |
+| BWLP     |         0.42 |   11.96 |   764200 |             9139832 |      3.51 | True         | False          |
 
-## KSS
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0   |       0   |       0.1 |       0.1 |        52 |
-| mit  |       0.8 |       1.3 |       0.8 |       1.2 |       2.2 |         1 |
-
-### Ohne Filter
-![image info](./data/KSS_box_all.png)
-![image info](./data/KSS_median_all.png)
-
-### Mit Filter
-![image info](./data/KSS_box_filtered.png)
-![image info](./data/KSS_median_filtered.png)
-
-## ENGGY
+## RVT
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.3 |       0.2 |       0.1 |       0.2 |      -0.1 |        25 |
-| mit  |       0.1 |       0.1 |       0.2 |       0.9 |       1.3 |         2 |
+| ohne |       0.1 |       0.3 |       0.2 |       0.2 |       0.1 |        59 |
+| mit  |      -0   |       0.4 |       0.7 |       0.6 |       0.4 |         6 |
 
 ### Ohne Filter
-![image info](./data/ENGGY_box_all.png)
-![image info](./data/ENGGY_median_all.png)
+![image info](./data/RVT_box_all.png)
+![image info](./data/RVT_median_all.png)
 
 ### Mit Filter
-![image info](./data/ENGGY_box_filtered.png)
-![image info](./data/ENGGY_median_filtered.png)
+![image info](./data/RVT_box_filtered.png)
+![image info](./data/RVT_median_filtered.png)
 
-## AVACF
+## RGT
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |      -0.2 |      -0.2 |      -0.1 |      -0.3 |        18 |
-| mit  |       nan |     nan   |     nan   |     nan   |     nan   |         0 |
+| ohne |      -0   |       0.5 |       0.4 |       0.5 |       0.7 |        10 |
+| mit  |       0.2 |       0.5 |       0.6 |       1.4 |       0.7 |         1 |
 
 ### Ohne Filter
-![image info](./data/AVACF_box_all.png)
-![image info](./data/AVACF_median_all.png)
+![image info](./data/RGT_box_all.png)
+![image info](./data/RGT_median_all.png)
 
 ### Mit Filter
-![image info](./data/AVACF_box_filtered.png)
-![image info](./data/AVACF_median_filtered.png)
+![image info](./data/RGT_box_filtered.png)
+![image info](./data/RGT_median_filtered.png)
+
+## BWLP
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0.1 |       0.2 |       0.1 |       0.2 |       0.3 |         2 |
+| mit  |       0.1 |       0.2 |       0.1 |       0.2 |       0.3 |         2 |
+
+### Ohne Filter
+![image info](./data/BWLP_box_all.png)
+![image info](./data/BWLP_median_all.png)
+
+### Mit Filter
+![image info](./data/BWLP_box_filtered.png)
+![image info](./data/BWLP_median_filtered.png)
 
