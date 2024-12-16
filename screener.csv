@@ -1,53 +1,34 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-12-13,CSWC,Capital Southwest Corporation Common Stock,1331288,22.55,0.63,2.79,,,,,,CD
-2024-12-13,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,224219,12.78,0.42,3.27,,X,,,,CD
-2024-12-13,NREF,"NexPoint Real Estate Finance, Inc. Common Stock",48962,17.47,0.5,2.86,X,X,,,,CD
-2024-12-13,INSW,"International Seaways, Inc. Common Stock ",628294,35.93,1.08,3.01,,,,,,CD
-2024-12-13,INSW,"International Seaways, Inc. Common Stock ",628294,35.93,1.08,3.01,,,,,,CD
-2024-12-13,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,548616,8.05,0.3,3.73,,X,,,,CD
-2024-12-13,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock",363690,4.7,0.16,3.4,,,,,,CD
-2024-12-13,CAF,Morgan Stanley China A Share Fund Inc. Common Stock,16886,12.93,0.33,2.53,X,,,,,CD
-2024-12-13,SFL,SFL Corporation Ltd,1113165,10.25,0.27,2.63,,,,,,CD
-2024-12-13,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",42147,4.03,0.12,2.98,,X,,,,CD
-2024-12-13,IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock",51627,29.26,2.7,9.22,,X,,,,CD
-2024-12-13,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",94905,7.84,0.26,3.38,,X,,,,CD
-2024-12-13,GAB,"Gabelli Equity Trust, Inc. (The) Common Stock",816884,5.76,0.15,2.6,,X,,,,CD
-2024-12-13,PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,17319370,14.26,0.53,3.74,X,X,,,,SC
-2024-12-13,TY,Tri Continental Corporation Common Stock,35543,34.08,2.24,6.56,,X,,,,CD
-2024-12-13,DDS,"Dillard's, Inc. Common Stock",140588,453.48,25.0,5.51,X,X,,,,CD
-2024-12-13,FUND,"Sprott Focus Trust, Inc. Common Stock",21397,8.02,0.22,2.69,,X,,,,CD
-2024-12-13,CSWC,Capital Southwest Corporation Common Stock,1331288,22.55,0.63,2.79,,,,,,CD
-2024-12-13,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",208641,5.05,0.22,4.36,,X,,,,CD
-2024-12-16,TEN,Tsakos Energy Navigation Ltd Common Shares,409147,18.02,0.9,4.99,,,,,,CD
-2024-12-16,STK,Columbia Seligman Premium Technology Growth Fund Inc,42000,35.52,3.27,9.2,X,X,,,,CD
-2024-12-16,RAND,Rand Capital Corporation Common Stock,36214,22.75,4.2,18.46,X,X,,,,
-2024-12-16,EMF,Templeton Emerging Markets Fund Common Stock,18559,12.77,0.51,4.0,X,,,,,CD
-2024-12-16,MRCC,Monroe Capital Corporation Common Stock,76868,8.57,0.25,2.92,X,X,,,,CD
-2024-12-16,ICON,Icon Energy Corp. Common stock,54760,2.44,0.08,3.48,X,X,,,,CD
-2024-12-16,GECC,Great Elm Capital Corp. Common Stock,62268,10.4,0.35,3.37,X,X,,,,CD
-2024-12-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,522397,16.23,0.55,3.39,,X,,,,CD
-2024-12-17,UNTC,Unit Corp. Com (New),24000,33.74,1.25,3.7,X,X,,,,SC
-2024-12-17,UNTC,Unit Corp. Com (New),24000,33.74,2.0,5.93,X,X,,,,SC
-2024-12-17,UNTC,Unit Corp. Com (New),24000,33.74,2.0,5.93,X,X,,,,CD
-2024-12-17,MCN,XAI Madison Equity Premium Income Fund Common Shares,43400,7.0,0.18,2.57,,,,,,CD
-2024-12-17,PPSI,"Pioneer Power Solutions, Inc. Common Stock",105200,5.8,1.5,25.86,,,,,,SC
-2024-12-17,UNTC,Unit Corp. Com (New),24000,33.74,1.25,3.7,X,X,,,,CD
-2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,463100,11.75,0.33,2.81,,X,,,,CD
-2024-12-17,FDUS,Fidus Investment Corporation Common Stock,302900,21.41,0.61,2.85,X,X,,,,CD
-2024-12-17,FDUS,Fidus Investment Corporation Common Stock,302900,21.41,0.61,2.85,X,X,,,,CD
-2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,1327100,9.54,0.44,4.61,X,X,,,,SC
-2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,1327100,9.54,0.44,4.61,X,X,,,,CD
-2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,463100,11.75,0.33,2.81,,X,,,,CD
-2024-12-18,TEF,Telefonica SA Common Stock,866000,4.39,0.16,3.59,,,,,,CD
-2024-12-18,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),2064500,10.46,0.34,3.22,,X,,,,CD
-2024-12-19,DNKEY,Danske Bank AS ADR,36600,14.8,0.46,3.09,,X,,X,,SC
-2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,117100,7.97,0.31,3.91,,X,,,,CD
-2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",514600,6.44,0.2,3.11,X,X,,,,CD
-2024-12-20,OFS,OFS Capital Corporation Common Stock,73200,8.61,0.34,3.95,X,X,,,,CD
-2024-12-20,PCAR,PACCAR Inc. Common Stock,2166000,112.8,3.0,2.66,,X,,,,SC
-2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",49100,10.6,0.38,3.63,X,,,,,CD
-2024-12-20,DMA,Destra Multi-Alternative Fund Common Stock,37600,8.91,0.32,3.64,,X,,,,SC
-2024-12-20,SDXAY,Sodexo ADR,215200,16.75,0.57,3.4,,,,X,,CD
-2024-12-23,PIN,Invesco India ETF,248800,29.17,2.22,7.61,,X,X,,,CD
-2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",61300,12.31,0.32,2.64,,,,,,CD
-2024-12-23,GBOOY,Grupo Financiero Banorte ADR,52700,34.4,0.86,2.51,,,,X,,SC
+2024-12-16,GECC,Great Elm Capital Corp. Common Stock,77100,10.43,0.35,3.36,X,X,,,,CD
+2024-12-16,MRCC,Monroe Capital Corporation Common Stock,69200,8.55,0.25,2.92,,X,,,,CD
+2024-12-16,OCSL,Oaktree Specialty Lending Corporation Common Stock,1368400,16.04,0.55,3.43,,,,,,CD
+2024-12-16,RAND,Rand Capital Corporation Common Stock,38300,22.8,4.2,18.42,X,X,,,,
+2024-12-16,TEN,Tsakos Energy Navigation Ltd Common Shares,611000,17.97,0.9,5.01,,,,,,CD
+2024-12-16,EMF,Templeton Emerging Markets Fund Common Stock,15800,12.82,0.51,3.99,,,,,,CD
+2024-12-16,STK,Columbia Seligman Premium Technology Growth Fund Inc,88900,35.93,3.27,9.09,X,X,,,,CD
+2024-12-17,UNTC,Unit Corp. Com (New),31500,35.0,1.25,3.57,X,X,,,,CD
+2024-12-17,UNTC,Unit Corp. Com (New),31500,35.0,1.25,3.57,X,X,,,,SC
+2024-12-17,UNTC,Unit Corp. Com (New),31500,35.0,2.0,5.71,X,X,,,,SC
+2024-12-17,MCN,XAI Madison Equity Premium Income Fund Common Shares,51700,6.98,0.18,2.58,,,,,,CD
+2024-12-17,PPSI,"Pioneer Power Solutions, Inc. Common Stock",115800,5.81,1.5,25.82,,,,,,SC
+2024-12-17,UNTC,Unit Corp. Com (New),31500,35.0,2.0,5.71,X,X,,,,CD
+2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,410600,11.79,0.33,2.8,,X,,,,CD
+2024-12-17,FDUS,Fidus Investment Corporation Common Stock,233000,21.38,0.61,2.85,,X,,,,CD
+2024-12-17,FDUS,Fidus Investment Corporation Common Stock,233000,21.38,0.61,2.85,,X,,,,CD
+2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,410600,11.79,0.33,2.8,,X,,,,CD
+2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,566200,9.51,0.44,4.63,X,X,,,,SC
+2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,566200,9.51,0.44,4.63,X,X,,,,CD
+2024-12-18,TEF,Telefonica SA Common Stock,414600,4.42,0.16,3.57,,,,,,CD
+2024-12-18,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),2057600,10.31,0.34,3.27,,X,,,,CD
+2024-12-19,DNKEY,Danske Bank AS ADR,19800,15.07,0.46,3.03,X,X,,X,,SC
+2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,52400,8.0,0.31,3.9,X,X,,,,CD
+2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",436200,6.51,0.2,3.07,,X,,,,CD
+2024-12-20,OFS,OFS Capital Corporation Common Stock,35400,8.6,0.34,3.95,,X,,,,CD
+2024-12-20,PCAR,PACCAR Inc. Common Stock,1484900,113.01,3.0,2.65,,X,,,,SC
+2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",39200,10.66,0.38,3.61,,,,,,CD
+2024-12-20,DMA,Destra Multi-Alternative Fund Common Stock,21900,8.95,0.32,3.62,,X,,,,SC
+2024-12-20,SDXAY,Sodexo ADR,28500,16.93,0.57,3.36,X,,,X,,CD
+2024-12-23,FPI,Farmland Partners Inc. Common Stock,480000,12.64,1.15,9.1,X,X,,,,SC
+2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",30500,12.29,0.32,2.64,,,,,,CD
+2024-12-23,RWT,"Redwood Trust, Inc. Common Stock",1845400,7.13,0.18,2.52,X,,,,,CD
+2024-12-23,PIN,Invesco India ETF,23200,29.27,2.22,7.58,X,X,X,,,CD
