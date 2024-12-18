@@ -1,31 +1,23 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,982900,9.21,0.44,4.78,,X,,,,SC
-2024-12-17,TCPC,BlackRock TCP Capital Corp. Common Stock,982900,9.21,0.44,4.78,,X,,,,CD
-2024-12-17,FDUS,Fidus Investment Corporation Common Stock,318800,21.03,0.61,2.9,,X,,,,CD
-2024-12-17,FDUS,Fidus Investment Corporation Common Stock,318800,21.03,0.61,2.9,,X,,,,CD
-2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,970000,11.73,0.33,2.81,,X,,,,CD
-2024-12-17,NMFC,New Mountain Finance Corporation Common Stock,970000,11.73,0.33,2.81,,X,,,,CD
-2024-12-17,PPSI,"Pioneer Power Solutions, Inc. Common Stock",353400,6.11,1.5,24.53,X,X,,,,SC
-2024-12-17,MCN,XAI Madison Equity Premium Income Fund Common Shares,55600,6.98,0.18,2.58,,,,,,CD
-2024-12-17,UNTC,Unit Corp. Com (New),44900,34.27,2.0,5.84,X,X,,,,SC
-2024-12-17,UNTC,Unit Corp. Com (New),44900,34.27,2.0,5.84,X,X,,,,CD
-2024-12-17,UNTC,Unit Corp. Com (New),44900,34.27,1.25,3.65,X,X,,,,SC
-2024-12-17,UNTC,Unit Corp. Com (New),44900,34.27,1.25,3.65,X,X,,,,CD
-2024-12-18,TEF,Telefonica SA Common Stock,501700,4.4,0.16,3.58,,,,,,CD
-2024-12-18,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),1829200,10.33,0.34,3.26,,X,,,,CD
+2024-12-18,TEF,Telefonica SA Common Stock,589365,4.3,0.16,3.66,,,,,,CD
+2024-12-18,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),1432136,10.43,0.34,3.23,,X,,,,CD
+2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,17693,7.86,0.31,3.97,,X,,,,CD
 2024-12-19,DNKEY,Danske Bank AS ADR,28200,15.06,0.46,3.03,,X,,X,,SC
-2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,48800,7.87,0.31,3.96,,X,,,,CD
-2024-12-20,ICMB,"Investcorp Credit Management BDC, Inc. Common Stock",57300,3.22,0.12,3.73,X,X,,,,CD
-2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",527900,6.52,0.2,3.07,,X,,,,CD
-2024-12-20,OFS,OFS Capital Corporation Common Stock,110500,8.68,0.34,3.92,X,X,,,,CD
-2024-12-20,PCAR,PACCAR Inc. Common Stock,1971000,112.33,3.0,2.67,,X,,,,SC
-2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",146800,10.71,0.38,3.59,X,,,,,CD
-2024-12-20,SDXAY,Sodexo ADR,50300,17.07,0.57,3.34,X,X,,X,,CD
-2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",13500,12.31,0.32,2.64,,,,,,CD
-2024-12-23,PIN,Invesco India ETF,22500,29.24,2.22,7.59,X,X,X,,,CD
-2024-12-23,MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",17600,8.64,0.3,3.45,,,,,,CD
-2024-12-23,RWT,"Redwood Trust, Inc. Common Stock",1161500,7.1,0.18,2.54,X,,,,,CD
-2024-12-23,FPI,Farmland Partners Inc. Common Stock,565700,12.26,1.15,9.38,,X,,,,SC
-2024-12-23,GBOOY,Grupo Financiero Banorte ADR,124600,34.95,0.88,2.53,X,,,X,,SC
-2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,6600,20.94,0.65,3.1,X,X,,,,CD
-2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,6600,20.94,0.65,3.1,X,X,,,,CD
+2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",1070308,6.37,0.2,3.14,,X,,,,CD
+2024-12-20,OFS,OFS Capital Corporation Common Stock,77903,8.86,0.34,3.84,X,X,,,,CD
+2024-12-20,PCAR,PACCAR Inc. Common Stock,2069298,111.66,3.0,2.69,,X,,,,SC
+2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",94103,10.61,0.38,3.63,,,,,,CD
+2024-12-20,DMA,Destra Multi-Alternative Fund Common Stock,35822,8.83,0.32,3.67,,,,,,SC
+2024-12-23,GBOOY,Grupo Financiero Banorte ADR,8438,34.32,0.86,2.51,,,,X,,SC
+2024-12-23,GBOOY,Grupo Financiero Banorte ADR,8438,34.32,0.88,2.57,,,,X,,SC
+2024-12-23,PIN,Invesco India ETF,36369,28.99,2.22,7.66,,X,X,,,CD
+2024-12-23,RWT,"Redwood Trust, Inc. Common Stock",1649523,6.97,0.18,2.58,X,,,,,CD
+2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",18452,12.28,0.32,2.65,,,,,,CD
+2024-12-23,FPI,Farmland Partners Inc. Common Stock,482123,12.62,1.15,9.11,X,X,,,,SC
+2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,9385,20.74,0.65,3.13,,X,,,,CD
+2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,9385,20.74,0.65,3.13,,X,,,,CD
+2024-12-27,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,840821,13.43,0.4,2.98,,,,,,CD
+2024-12-27,SHIP,Seanergy Maritime Holdings Corp. Common Stock,119125,7.1,0.26,3.66,,,,,,CD
+2024-12-27,USEA,United Maritime Corporation Common Stock,65921,1.84,0.08,4.08,,,,,,CD
+2024-12-27,TWN,"Taiwan Fund, Inc. (The) Common Stock",34027,46.45,7.4,15.93,X,X,,,,CD
+2024-12-27,PSBD,Palmer Square Capital BDC Inc. Common Stock,30380,15.72,0.42,2.67,,,,,,CD
