@@ -1,23 +1,29 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-12-18,TEF,Telefonica SA Common Stock,589365,4.3,0.16,3.66,,,,,,CD
-2024-12-18,SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),1432136,10.43,0.34,3.23,,X,,,,CD
-2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,17693,7.86,0.31,3.97,,X,,,,CD
-2024-12-19,DNKEY,Danske Bank AS ADR,28200,15.06,0.46,3.03,,X,,X,,SC
-2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",1070308,6.37,0.2,3.14,,X,,,,CD
-2024-12-20,OFS,OFS Capital Corporation Common Stock,77903,8.86,0.34,3.84,X,X,,,,CD
-2024-12-20,PCAR,PACCAR Inc. Common Stock,2069298,111.66,3.0,2.69,,X,,,,SC
-2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",94103,10.61,0.38,3.63,,,,,,CD
-2024-12-20,DMA,Destra Multi-Alternative Fund Common Stock,35822,8.83,0.32,3.67,,,,,,SC
-2024-12-23,GBOOY,Grupo Financiero Banorte ADR,8438,34.32,0.86,2.51,,,,X,,SC
-2024-12-23,GBOOY,Grupo Financiero Banorte ADR,8438,34.32,0.88,2.57,,,,X,,SC
-2024-12-23,PIN,Invesco India ETF,36369,28.99,2.22,7.66,,X,X,,,CD
-2024-12-23,RWT,"Redwood Trust, Inc. Common Stock",1649523,6.97,0.18,2.58,X,,,,,CD
-2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",18452,12.28,0.32,2.65,,,,,,CD
-2024-12-23,FPI,Farmland Partners Inc. Common Stock,482123,12.62,1.15,9.11,X,X,,,,SC
-2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,9385,20.74,0.65,3.13,,X,,,,CD
-2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,9385,20.74,0.65,3.13,,X,,,,CD
-2024-12-27,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,840821,13.43,0.4,2.98,,,,,,CD
-2024-12-27,SHIP,Seanergy Maritime Holdings Corp. Common Stock,119125,7.1,0.26,3.66,,,,,,CD
-2024-12-27,USEA,United Maritime Corporation Common Stock,65921,1.84,0.08,4.08,,,,,,CD
-2024-12-27,TWN,"Taiwan Fund, Inc. (The) Common Stock",34027,46.45,7.4,15.93,X,X,,,,CD
-2024-12-27,PSBD,Palmer Square Capital BDC Inc. Common Stock,30380,15.72,0.42,2.67,,,,,,CD
+2024-12-19,LIEN,"Chicago Atlantic BDC, Inc. Common Stock",18791,12.99,0.34,2.62,X,X,,,,CD
+2024-12-19,JOF,Japan Smaller Capitalization Fund Inc Common Stock,33769,7.77,0.31,4.01,,X,,,,CD
+2024-12-19,IPB,"Merrill Lynch & Co., Inc. 6.0518% Index Plus Trust Certificates Series 2003-1",8372,25.2,0.76,3.0,,,,,,CD
+2024-12-19,DNKEY,Danske Bank AS ADR,35100,14.72,0.46,3.1,,X,,X,,SC
+2024-12-20,ICMB,"Investcorp Credit Management BDC, Inc. Common Stock",49887,3.23,0.12,3.72,X,X,,,,CD
+2024-12-20,NYMT,"New York Mortgage Trust, Inc. Common Stock",837848,6.04,0.2,3.31,,X,,,,CD
+2024-12-20,OFS,OFS Capital Corporation Common Stock,81463,8.72,0.34,3.9,X,X,,,,CD
+2024-12-20,PCAR,PACCAR Inc. Common Stock,2733046,107.78,3.0,2.78,,,,,,SC
+2024-12-20,WHF,"WhiteHorse Finance, Inc. Common Stock",135248,10.47,0.38,3.68,,,,,,CD
+2024-12-20,GMRE,Global Medical REIT Inc. Common Stock,497380,8.12,0.21,2.59,,,,,,CD
+2024-12-20,DMA,Destra Multi-Alternative Fund Common Stock,46675,8.64,0.32,3.75,,,,,,SC
+2024-12-20,SDXAY,Sodexo ADR,33100,16.7,0.57,3.41,,,,X,,CD
+2024-12-23,GBOOY,Grupo Financiero Banorte ADR,15241,33.81,0.86,2.55,,,,X,,SC
+2024-12-23,GBOOY,Grupo Financiero Banorte ADR,59100,34.06,0.88,2.59,,,,X,,SC
+2024-12-23,PIN,Invesco India ETF,37646,28.33,2.22,7.84,,,X,,,CD
+2024-12-23,MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock",16249,8.52,0.3,3.5,,,,,,CD
+2024-12-23,RWT,"Redwood Trust, Inc. Common Stock",1877137,6.7,0.18,2.69,,,,,,CD
+2024-12-23,HNW,"Pioneer Diversified High Income Fund, Inc.",40025,12.17,0.32,2.67,,,,,,CD
+2024-12-23,FPI,Farmland Partners Inc. Common Stock,444466,12.14,1.15,9.47,,X,,,,SC
+2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,15124,20.75,0.65,3.13,,X,,,,CD
+2024-12-26,BANX,ArrowMark Financial Corp. Common Stock,15124,20.75,0.65,3.13,,X,,,,CD
+2024-12-27,SHIP,Seanergy Maritime Holdings Corp. Common Stock,158671,6.94,0.26,3.75,,,,,,CD
+2024-12-27,USEA,United Maritime Corporation Common Stock,82161,1.84,0.08,4.08,,,,,,CD
+2024-12-27,TWN,"Taiwan Fund, Inc. (The) Common Stock",29942,45.66,7.4,16.2,X,X,,,,CD
+2024-12-27,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,894595,13.03,0.4,3.07,,,,,,CD
+2024-12-27,PSBD,Palmer Square Capital BDC Inc. Common Stock,8916,15.9,0.42,2.64,X,,,,,CD
+2024-12-30,CIB,BanColombia S.A. Common Stock,255072,31.56,0.8,2.55,,,,,,CD
+2024-12-30,BKRKY,Bank Rakyat Indonesia (Persero) Tbk PT ADR,45677,12.52,0.42,3.35,,,,X,,CD
