@@ -1,51 +1,53 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2024-12-27,SHIP,Seanergy Maritime Holdings Corp. Common Stock,356637,7.11,0.26,3.66,X,,,,,CD
-2024-12-27,USEA,United Maritime Corporation Common Stock,261124,1.86,0.08,4.03,X,,,,,CD
-2024-12-27,TWN,"Taiwan Fund, Inc. (The) Common Stock",55820,46.72,7.4,15.84,X,X,,,,CD
-2024-12-27,PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,906581,13.0,0.4,3.08,X,,,,,CD
-2024-12-27,PSBD,Palmer Square Capital BDC Inc. Common Stock,18235,16.0,0.42,2.62,X,X,,,,CD
-2024-12-27,PSBD,Palmer Square Capital BDC Inc. Common Stock,18235,16.0,0.42,2.62,X,X,,,,CD
-2024-12-30,CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock",8739,11.66,0.35,3.03,X,X,,,,CD
-2024-12-30,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,2147410,8.26,0.4,4.84,X,,,,,CD
-2024-12-30,BKRKY,Bank Rakyat Indonesia (Persero) Tbk PT ADR,16943,12.88,0.42,3.25,X,,,X,,CD
-2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",194840,2.74,0.08,2.92,X,X,,,,CD
-2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",194840,2.74,0.08,2.92,X,X,,,,SC
-2024-12-31,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,341743,2.7,0.15,5.56,X,,,,,CD
-2024-12-31,ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",391266,26.54,1.15,4.33,X,,,,,SC
-2024-12-31,CIM,Chimera Investment Corporation Common Stock,486817,14.28,0.37,2.59,X,,,,,CD
-2024-12-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",1286492,12.76,0.45,3.53,,,,,,CD
-2024-12-31,IIPR,"Innovative Industrial Properties, Inc. Common Stock",392666,70.71,1.9,2.69,,,,,,CD
-2024-12-31,ONL,Orion Office REIT Inc. Common Stock,872770,3.86,0.1,2.59,X,,,,,CD
-2024-12-31,PK,Park Hotels & Resorts Inc. Common Stock ,2497717,15.06,0.4,2.66,X,X,,,,CD
-2024-12-31,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",407921,5.95,0.16,2.69,X,,,,,CD
-2024-12-31,FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",259888,12.75,0.36,2.78,X,,,,,CD
-2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",194840,2.74,0.09,3.28,X,X,,,,SC
-2024-12-31,OBDE,Blue Owl Capital Corporation III Common Stock,252184,15.19,0.52,3.42,X,X,,,,CD
-2024-12-31,OBDE,Blue Owl Capital Corporation III Common Stock,252184,15.19,0.52,3.42,X,X,,,,CD
-2024-12-31,NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,252621,17.1,0.45,2.63,X,,,,,CD
-2024-12-31,PK,Park Hotels & Resorts Inc. Common Stock ,2497717,15.06,0.4,2.66,X,X,,,,CD
-2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",194840,2.74,0.09,3.28,X,X,,,,CD
-2024-12-31,ARI,"Apollo Commercial Real Estate Finance, Inc",776908,9.06,0.25,2.76,X,X,,,,CD
-2024-12-31,MITT,"AG Mortgage Investment Trust, Inc. Common Stock",155614,7.09,0.19,2.68,,X,,,,CD
-2024-12-31,AFCG,Advanced Flower Capital Inc. Common Stock,148686,8.87,0.33,3.72,X,,,,,CD
-2024-12-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",165460,16.21,0.65,4.01,X,X,,,,CD
-2024-12-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",165460,16.21,0.65,4.01,X,X,,,,CD
-2024-12-31,CUBA,"Herzfeld Caribbean Basin Fund, Inc. (The) Common Stock",92828,2.55,0.23,9.14,X,X,,,,CD
-2024-12-31,HOVNP,Hovnanian Enterprises Inc Dep Shr Srs A Pfd,27014,17.7,0.48,2.69,,,,,,CD
-2024-12-31,ACRE,Ares Commercial Real Estate Corporation Common Stock,717326,6.22,0.25,4.02,X,,,,,CD
-2024-12-31,TRIN,Trinity Capital Inc. Common Stock,652483,14.87,0.51,3.43,X,X,,,,CD
-2024-12-31,VIASP,"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",6197,23.62,0.72,3.04,X,X,,,,CD
-2024-12-31,SUNS,"Sunrise Realty Trust, Inc. Common Stock",26129,14.3,0.42,2.94,X,,,,,CD
-2024-12-31,GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,169097,10.57,0.37,3.5,X,,,,,CD
-2024-12-31,TSI,"TCW Strategic Income Fund, Inc. Common Stock",54807,5.01,0.14,2.89,X,,,,,CD
-2024-12-31,TSI,"TCW Strategic Income Fund, Inc. Common Stock",54807,5.01,0.14,2.89,X,,,,,CD
-2024-12-31,NLY,Annaly Capital Management Inc. Common Stock,6832922,18.98,0.65,3.42,X,,,,,CD
-2024-12-31,MFA,"MFA Financial, Inc.",924991,10.52,0.35,3.33,X,,,,,CD
-2024-12-31,BGS,"B&G Foods, Inc. Common Stock",970313,7.14,0.19,2.66,,,,,,CD
-2024-12-31,XRX,Xerox Holdings Corporation Common Stock,2860625,9.17,0.25,2.73,X,X,,,,CD
-2025-01-02,ACIC,American Coastal Insurance Corporation Common Stock,148567,13.65,0.5,3.66,X,X,,,,SC
-2025-01-03,CICHY,China Construction Bank Corp. ADR,13532,16.67,0.42,2.51,X,X,,X,,CD
-2025-01-03,ORI,Old Republic International Corporation Common Stock,686276,36.73,2.0,5.45,X,,,,,SC
-2025-01-03,BBD,Banco Bradesco Sa American Depositary Shares,19699820,1.92,0.05,2.52,X,,,,,SC
-2025-01-03,TWO,Two Harbors Investment Corp,668888,11.8,0.45,3.81,X,,,,,CD
-2025-01-03,CICHY,China Construction Bank Corp. ADR,13532,16.67,0.54,3.25,X,X,,X,,CD
+2024-12-30,CIB,BanColombia S.A. Common Stock,162800,32.05,0.8,2.51,,,,,,CD
+2024-12-30,CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock",20400,11.59,0.35,3.05,,X,,,,CD
+2024-12-30,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,2819000,8.23,0.4,4.86,,,,,,CD
+2024-12-30,ABLD,Abacus FCF Real Assets Leaders ETF,3500,29.84,1.88,6.32,X,,X,,,
+2024-12-30,YBTC,Roundhill Bitcoin Covered Call Strategy ETF,80800,51.99,1.63,3.14,,X,X,,,CD
+2024-12-30,YETH,Roundhill Ether Covered Call Strategy ETF,45100,53.08,2.58,4.85,,X,X,,,CD
+2024-12-30,BKRKY,Bank Rakyat Indonesia (Persero) Tbk PT ADR,103600,12.79,0.42,3.28,X,,,X,,CD
+2024-12-30,BNCC,"BNCCorp, Inc.",3700,35.45,4.0,11.28,X,X,,,,SC
+2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",195500,2.76,0.09,3.26,X,X,,,,SC
+2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",195500,2.76,0.08,2.9,X,X,,,,CD
+2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",195500,2.76,0.08,2.9,X,X,,,,SC
+2024-12-31,ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",418400,26.74,1.15,4.3,X,,,,,SC
+2024-12-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",1014000,12.79,0.45,3.52,,,,,,CD
+2024-12-31,IIPR,"Innovative Industrial Properties, Inc. Common Stock",580000,68.11,1.9,2.79,,,,,,CD
+2024-12-31,PK,Park Hotels & Resorts Inc. Common Stock ,4578500,14.92,0.4,2.68,X,X,,,,CD
+2024-12-31,ONL,Orion Office REIT Inc. Common Stock,457900,3.75,0.1,2.67,,,,,,CD
+2024-12-31,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",517900,5.83,0.16,2.74,,,,,,CD
+2024-12-31,FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",304800,12.68,0.36,2.8,X,,,,,CD
+2024-12-31,LFT,"Lument Finance Trust, Inc. Common Stock",195500,2.76,0.09,3.26,X,X,,,,CD
+2024-12-31,OBDE,Blue Owl Capital Corporation III Common Stock,739600,15.25,0.52,3.41,X,X,,,,CD
+2024-12-31,OBDE,Blue Owl Capital Corporation III Common Stock,739600,15.25,0.52,3.41,X,X,,,,CD
+2024-12-31,NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,177000,17.06,0.45,2.64,X,,,,,CD
+2024-12-31,PK,Park Hotels & Resorts Inc. Common Stock ,4578500,14.92,0.4,2.68,X,X,,,,CD
+2024-12-31,MITT,"AG Mortgage Investment Trust, Inc. Common Stock",290200,6.97,0.19,2.73,,,,,,CD
+2024-12-31,ACRE,Ares Commercial Real Estate Corporation Common Stock,843400,6.11,0.25,4.09,,,,,,CD
+2024-12-31,HOVNP,Hovnanian Enterprises Inc Dep Shr Srs A Pfd,7600,17.79,0.48,2.68,X,X,,,,CD
+2024-12-31,AFCG,Advanced Flower Capital Inc. Common Stock,232500,8.69,0.33,3.8,,,,,,CD
+2024-12-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",187100,16.18,0.65,4.02,X,X,,,,CD
+2024-12-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",187100,16.18,0.65,4.02,X,X,,,,CD
+2024-12-31,ARI,"Apollo Commercial Real Estate Finance, Inc",898300,8.9,0.25,2.81,,,,,,CD
+2024-12-31,SUNS,"Sunrise Realty Trust, Inc. Common Stock",51100,14.68,0.42,2.86,X,X,,,,CD
+2024-12-31,TRIN,Trinity Capital Inc. Common Stock,495800,14.79,0.51,3.45,X,X,,,,CD
+2024-12-31,XRX,Xerox Holdings Corporation Common Stock,1874700,9.15,0.25,2.73,X,X,,,,CD
+2024-12-31,VIASP,"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",5300,23.58,0.72,3.05,X,X,,,,CD
+2024-12-31,CIM,Chimera Investment Corporation Common Stock,755000,14.17,0.37,2.61,,,,,,CD
+2024-12-31,TSI,"TCW Strategic Income Fund, Inc. Common Stock",39900,4.97,0.14,2.92,,,,,,CD
+2024-12-31,TSI,"TCW Strategic Income Fund, Inc. Common Stock",39900,4.97,0.14,2.92,,,,,,CD
+2024-12-31,MFA,"MFA Financial, Inc.",755700,10.43,0.35,3.36,X,,,,,CD
+2024-12-31,GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,152600,10.67,0.37,3.47,,,,,,CD
+2024-12-31,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,1112800,2.81,0.15,5.34,X,,,,,CD
+2024-12-31,BGS,"B&G Foods, Inc. Common Stock",1023300,7.09,0.19,2.68,,,,,,CD
+2024-12-31,NLY,Annaly Capital Management Inc. Common Stock,6105000,18.94,0.65,3.43,,,,,,CD
+2025-01-02,ACIC,American Coastal Insurance Corporation Common Stock,125800,13.38,0.5,3.74,X,X,,,,SC
+2025-01-03,CICHY,China Construction Bank Corp. ADR,30100,16.62,0.42,2.51,X,X,,X,,CD
+2025-01-03,CICHY,China Construction Bank Corp. ADR,30100,16.62,0.54,3.26,X,X,,X,,CD
+2025-01-03,IDCBY,Industrial & Commercial Bank of China Ltd. ADR,48900,13.26,0.39,2.98,X,X,,X,,CD
+2025-01-03,ACGBY,Agricultural Bank of China ADR,25200,14.28,0.4,2.8,X,X,,X,,CD
+2025-01-03,BBD,Banco Bradesco Sa American Depositary Shares,13009700,1.9,0.05,2.54,,,,,,SC
+2025-01-03,ORI,Old Republic International Corporation Common Stock,905200,36.41,2.0,5.49,X,,,,,SC
+2025-01-03,CDZIP,"Cadiz, Inc. Depositary Shares",12000,16.91,0.56,3.31,X,X,,,,CD
+2025-01-03,TWO,Two Harbors Investment Corp,672100,11.74,0.45,3.83,,,,,,CD
+2025-01-08,BDN,Brandywine Realty Trust Common Stock,959500,5.51,0.15,2.72,X,,,,,CD
