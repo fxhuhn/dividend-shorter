@@ -1,15 +1,14 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-02,ACIC,American Coastal Insurance Corporation Common Stock,205900,13.46,0.5,3.71,X,X,,,,SC
-2025-01-03,CDZIP,"Cadiz, Inc. Depositary Shares",32700,17.8,0.56,3.15,X,X,,,,CD
-2025-01-03,HTIBP,"National Healthcare Properties, Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",11500,14.75,0.45,3.02,X,,,,,CD
-2025-01-03,HTIA,"National Healthcare Properties, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",28600,14.78,0.46,3.12,,,,,,CD
-2025-01-03,ORI,Old Republic International Corporation Common Stock,1034200,36.19,2.0,5.53,,,,,,SC
-2025-01-03,BBD,Banco Bradesco Sa American Depositary Shares,10097100,1.91,0.05,2.53,,,,,,SC
-2025-01-03,TWO,Two Harbors Investment Corp,1919400,11.83,0.45,3.8,,,,,,CD
-2025-01-03,IDCBY,Industrial & Commercial Bank of China Ltd. ADR,21100,13.28,0.39,2.97,,X,,X,,CD
-2025-01-03,CICHY,China Construction Bank Corp. ADR,19900,16.45,0.42,2.54,,X,,X,,CD
-2025-01-03,CICHY,China Construction Bank Corp. ADR,19900,16.45,0.54,3.29,,X,,X,,CD
-2025-01-03,ACGBY,Agricultural Bank of China ADR,13600,13.92,0.4,2.87,,X,,X,,CD
-2025-01-08,BDN,Brandywine Realty Trust Common Stock,1771400,5.6,0.15,2.68,,X,,,,CD
-2025-01-10,IMMR,Immersion Corporation Common Stock,352900,8.73,0.24,2.81,,,,,,SC
-2025-01-10,LTGHY,Life Healthcare Group Holdings Limited ADR,44800,3.39,0.16,4.58,,,,X,,SC
+2025-01-03,CDZIP,"Cadiz, Inc. Depositary Shares",69500,17.9,0.56,3.13,X,X,,,,CD
+2025-01-03,ORI,Old Republic International Corporation Common Stock,1131500,36.03,2.0,5.55,,,,,,SC
+2025-01-03,TWO,Two Harbors Investment Corp,2010500,11.99,0.45,3.75,X,X,,,,CD
+2025-01-03,IDCBY,Industrial & Commercial Bank of China Ltd. ADR,38200,12.71,0.39,3.1,,X,,X,,CD
+2025-01-03,CICHY,China Construction Bank Corp. ADR,38000,16.02,0.42,2.61,,X,,X,,CD
+2025-01-03,CICHY,China Construction Bank Corp. ADR,38000,16.02,0.54,3.38,,X,,X,,CD
+2025-01-03,ACGBY,Agricultural Bank of China ADR,15400,13.78,0.4,2.9,,X,,X,,CD
+2025-01-08,BDN,Brandywine Realty Trust Common Stock,1849500,5.63,0.15,2.66,X,X,,,,CD
+2025-01-08,BRRLY,Barry Callebaut AG ADR,17098,12.98,0.33,2.51,,,,X,,CD
+2025-01-10,IMMR,Immersion Corporation Common Stock,694200,8.66,0.24,2.83,,,,,,SC
+2025-01-10,LTGHY,Life Healthcare Group Holdings Limited ADR,106200,3.46,0.16,4.49,X,,,X,,SC
+2025-01-14,AIV,Apartment Investment and Management Company Common Stock,1211400,9.05,0.6,6.63,X,X,,,,SC
+2025-01-14,BACHY,Bank of China Ltd. ADR,18100,12.47,0.41,3.32,,X,,X,,CD
