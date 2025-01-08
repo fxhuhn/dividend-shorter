@@ -1,13 +1,12 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-08,BDN,Brandywine Realty Trust Common Stock,2264248,5.56,0.15,2.7,X,X,,,,CD
-2025-01-10,IMMR,Immersion Corporation Common Stock,1136069,8.65,0.24,2.83,,,,,,SC
-2025-01-13,GNL,"Global Net Lease, Inc. Common Stock",1654903,7.43,0.28,3.7,X,,,,,CD
-2025-01-13,REPYY,Repsol S.A ADR,95636,12.42,0.5,3.99,X,X,,X,,CD
-2025-01-14,NEWTH,"NewtekOne, Inc. 8.625% Fixed Rate Senior Notes due 2029",7908,25.91,0.71,2.75,X,X,,,,CD
-2025-01-14,AIV,Apartment Investment and Management Company Common Stock,767704,8.71,0.6,6.89,X,X,,,,SC
-2025-01-14,BACHY,Bank of China Ltd. ADR,15474,12.62,0.41,3.28,,X,,X,,CD
-2025-01-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",24668,8.81,0.33,3.72,X,,,,,CD
-2025-01-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",23548,9.33,0.38,4.02,X,,,,,CD
-2025-01-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",8573,12.19,0.41,3.33,X,,,,,CD
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",528944,51.15,2.5,4.89,,X,,,,SC
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",528944,51.15,2.5,4.89,,X,,,,CD
+2025-01-08,BDN,Brandywine Realty Trust Common Stock,3661134,5.39,0.15,2.78,,,,,,CD
+2025-01-10,IMMR,Immersion Corporation Common Stock,1236300,8.58,0.24,2.86,,,,,,SC
+2025-01-13,GNL,"Global Net Lease, Inc. Common Stock",1021401,7.44,0.28,3.7,X,X,,,,CD
+2025-01-13,REPYY,Repsol S.A ADR,112632,12.28,0.5,4.03,X,X,,X,,CD
+2025-01-14,NEWTH,"NewtekOne, Inc. 8.625% Fixed Rate Senior Notes due 2029",17744,25.71,0.71,2.77,,X,,,,CD
+2025-01-14,AIV,Apartment Investment and Management Company Common Stock,874414,8.65,0.6,6.94,,X,,,,SC
+2025-01-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",10969,12.1,0.31,2.58,,,,,,CD
+2025-01-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",20149,8.77,0.33,3.74,X,,,,,CD
+2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",548345,50.75,2.5,4.93,,X,,,,CD
+2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",548345,50.75,2.5,4.93,,X,,,,SC
+2025-01-16,MVO,MV Oil Trust Units of Beneficial Interests,87437,8.34,0.24,2.88,X,,,,,CD
