@@ -1,17 +1,14 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-13,GNL,"Global Net Lease, Inc. Common Stock",2801100,7.12,0.28,3.86,,,,,,CD
-2025-01-13,REPYY,Repsol S.A ADR,150100,12.55,0.5,3.95,X,X,,X,,CD
-2025-01-14,NEWTH,"NewtekOne, Inc. 8.625% Fixed Rate Senior Notes due 2029",18600,25.67,0.71,2.78,,X,,,,CD
-2025-01-14,AIV,Apartment Investment and Management Company Common Stock,3103200,8.94,0.6,6.71,,X,,,,SC
-2025-01-14,BACHY,Bank of China Ltd. ADR,28800,12.47,0.41,3.32,,X,,X,,CD
-2025-01-15,ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,13500,7.75,0.55,7.06,X,,,,,CD
-2025-01-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",43400,8.5,0.33,3.86,,,,,,CD
-2025-01-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",28300,9.16,0.38,4.09,X,,,,,CD
-2025-01-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",17600,11.88,0.41,3.42,,,,,,CD
-2025-01-15,GREEL,Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026,14500,10.0,0.53,5.31,X,X,,,,CD
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",566200,50.44,2.5,4.96,,X,,,,SC
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",566200,50.44,2.5,4.96,,X,,,,CD
-2025-01-16,MVO,MV Oil Trust Units of Beneficial Interests,80600,8.45,0.24,2.84,X,,,,,CD
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,59900,15.43,0.74,4.79,,,,X,,CD
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,59900,15.43,0.58,3.74,,,,X,,CD
-2025-01-21,ENLAY,Enel Spa ADR,1055600,7.12,0.23,3.25,,,,X,,CD
+2025-01-14,NEWTH,"NewtekOne, Inc. 8.625% Fixed Rate Senior Notes due 2029",148125,25.47,0.71,2.8,,,,,,CD
+2025-01-14,AIV,Apartment Investment and Management Company Common Stock,1867588,9.0,0.6,6.67,X,X,,,,SC
+2025-01-15,ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,30750,8.0,0.55,6.83,X,X,,,,CD
+2025-01-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",29284,11.61,0.31,2.69,,,,,,CD
+2025-01-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",57304,8.4,0.33,3.91,,,,,,CD
+2025-01-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",61302,8.66,0.38,4.33,,,,,,CD
+2025-01-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",32932,11.35,0.41,3.58,,,,,,CD
+2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",629310,51.3,2.5,4.87,X,X,,,,CD
+2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",629310,51.3,2.5,4.87,X,X,,,,SC
+2025-01-16,MVO,MV Oil Trust Units of Beneficial Interests,95711,8.54,0.24,2.81,X,,,,,CD
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,19950,15.64,0.74,4.72,,,,X,,CD
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,19950,15.64,0.58,3.69,,,,X,,CD
+2025-01-21,ENLAY,Enel Spa ADR,51074,7.03,0.23,3.29,,,,X,,CD
