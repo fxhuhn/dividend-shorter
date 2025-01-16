@@ -1,12 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-15,ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,32033,8.5,0.55,6.43,X,X,,,,CD
-2025-01-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",49965,11.72,0.31,2.67,,,,,,CD
-2025-01-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",59123,8.75,0.33,3.75,,,,,,CD
-2025-01-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",59625,9.35,0.38,4.01,,,,,,CD
-2025-01-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",129407,11.87,0.41,3.42,,,,,,CD
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",630058,51.65,2.5,4.84,X,X,,,,CD
-2025-01-15,BKE,"Buckle, Inc. (The) Common Stock",630058,51.65,2.5,4.84,X,X,,,,SC
-2025-01-16,MVO,MV Oil Trust Units of Beneficial Interests,123796,8.62,0.24,2.78,X,X,,,,CD
-2025-01-21,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",277913,106.41,5.91,5.55,X,,,,,SC
-2025-01-21,ENLAY,Enel Spa ADR,18432,7.1,0.23,3.26,,,,X,,CD
-2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,7879,18.5,0.94,5.06,X,X,,,,
+2025-01-16,MVO,MV Oil Trust Units of Beneficial Interests,196050,8.76,0.24,2.74,X,X,,,,CD
+2025-01-21,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",240419,110.83,5.91,5.33,X,,,,,SC
+2025-01-21,ENLAY,Enel Spa ADR,17394,7.23,0.23,3.2,X,X,,X,,CD
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,7096,15.77,0.74,4.68,,,,X,,CD
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,7096,15.77,0.58,3.66,,,,X,,CD
+2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,10021,19.04,0.94,4.92,X,X,,,,
