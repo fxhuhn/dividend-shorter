@@ -1,10 +1,13 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-21,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",208421,114.59,5.91,5.16,X,X,,,,SC
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,14876,16.08,0.74,4.59,X,,,X,,CD
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,14876,16.08,0.58,3.59,X,,,X,,CD
-2025-01-21,ENLAY,Enel Spa ADR,445600,7.33,0.23,3.16,X,X,,X,,CD
-2025-01-23,SNMRY,Snam S.p.A. ADR,450300,9.11,0.24,2.61,X,X,,X,,CD
-2025-01-24,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",570736,8.97,1.0,11.15,X,X,,,,SC
-2025-01-27,SLVYY,Solvay,59500,3.09,0.1,3.21,X,,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,19100,8.15,1.05,12.88,X,X,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,19100,8.15,1.05,12.88,X,X,,,,CD
+2025-01-21,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",257700,110.35,5.91,5.36,X,,,,,SC
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,45700,15.94,0.74,4.63,X,,,X,,CD
+2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,45700,15.94,0.58,3.62,X,,,X,,CD
+2025-01-21,ENLAY,Enel Spa ADR,237800,7.41,0.23,3.12,X,X,,X,,CD
+2025-01-23,SNMRY,Snam S.p.A. ADR,112700,9.26,0.24,2.57,X,X,,X,,CD
+2025-01-24,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",261600,8.79,1.0,11.38,X,X,,,,SC
+2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,6600,18.87,0.94,4.96,X,X,,,,
+2025-01-27,SEVN,Seven Hills Realty Trust Common Stock,53100,13.26,0.35,2.64,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,39900,8.74,1.05,12.01,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,39900,8.74,1.05,12.01,X,X,,,,CD
+2025-01-27,SLVYY,Solvay,49300,3.13,0.1,3.17,X,,,,,CD
+2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",942200,0.6,0.03,4.98,X,X,,,,SC
