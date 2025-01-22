@@ -1,14 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-21,GSHD,"Goosehead Insurance, Inc. Class A Common Stock",257700,110.35,5.91,5.36,X,,,,,SC
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,45700,15.94,0.74,4.63,X,,,X,,CD
-2025-01-21,BMRRY,B&M European Value Retail S.A. ADR,45700,15.94,0.58,3.62,X,,,X,,CD
-2025-01-21,ENLAY,Enel Spa ADR,237800,7.41,0.23,3.12,X,X,,X,,CD
-2025-01-23,SNMRY,Snam S.p.A. ADR,112700,9.26,0.24,2.57,X,X,,X,,CD
-2025-01-24,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",261600,8.79,1.0,11.38,X,X,,,,SC
-2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,6600,18.87,0.94,4.96,X,X,,,,
-2025-01-27,SEVN,Seven Hills Realty Trust Common Stock,53100,13.26,0.35,2.64,X,X,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,39900,8.74,1.05,12.01,X,X,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,39900,8.74,1.05,12.01,X,X,,,,CD
-2025-01-27,SLVYY,Solvay,49300,3.13,0.1,3.17,X,,,,,CD
-2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",942200,0.6,0.03,4.98,X,X,,,,SC
-2025-01-30,MSB,Mesabi Trust Common Stock,87600,28.92,5.95,20.57,X,X,,,,CD
+2025-01-23,SNMRY,Snam S.p.A. ADR,44759,9.44,0.24,2.52,X,X,,X,,CD
+2025-01-24,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",346586,8.98,1.0,11.14,X,X,,,,SC
+2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,48374,18.84,0.94,4.97,X,X,,,,
+2025-01-27,SEVN,Seven Hills Realty Trust Common Stock,74401,13.37,0.35,2.62,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,23145,9.26,1.05,11.34,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,23145,9.26,1.05,11.34,X,X,,,,CD
+2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",733050,0.63,0.03,4.74,X,X,,,,SC
+2025-01-30,MSB,Mesabi Trust Common Stock,164904,30.14,5.95,19.74,X,X,,,,CD
