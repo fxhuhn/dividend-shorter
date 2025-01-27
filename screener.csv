@@ -1,11 +1,11 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-24,BBCP,"Concrete Pumping Holdings, Inc. Common Stock",801026,8.77,1.0,11.4,,X,,,,SC
-2025-01-24,AKO.B,Embotelladora Andina S.A. Common Stock,16904,19.35,0.94,4.84,X,X,,,,
-2025-01-24,SRL,Scully Royalty Ltd.,37079,8.17,0.26,3.18,,X,,,,SC
-2025-01-27,SEVN,Seven Hills Realty Trust Common Stock,102318,13.59,0.35,2.58,X,X,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,47522,9.9,1.05,10.61,X,X,,,,CD
-2025-01-27,AATC,Autoscope Technologies Corporation,47522,9.9,1.05,10.61,X,X,,,,CD
-2025-01-27,SLVYY,Solvay,77000,3.17,0.1,3.13,X,,,,,CD
-2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",482523,0.64,0.03,4.69,,X,,,,SC
-2025-01-30,MSB,Mesabi Trust Common Stock,100247,31.12,5.95,19.12,X,X,,,,CD
-2025-02-04,TKAMY,thyssenkrupp AG ADR,45008,4.5,0.16,3.45,X,X,,X,,CD
+2025-01-27,SEVN,Seven Hills Realty Trust Common Stock,133800,13.87,0.35,2.52,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,87300,9.83,1.05,10.68,X,X,,,,CD
+2025-01-27,AATC,Autoscope Technologies Corporation,87300,9.83,1.05,10.68,X,X,,,,CD
+2025-01-27,SLVYY,Solvay,76900,3.16,0.1,3.14,X,,,,,CD
+2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",275200,0.62,0.03,4.83,X,X,,,,SC
+2025-01-30,MSB,Mesabi Trust Common Stock,142500,31.35,5.95,18.98,X,X,,,,CD
+2025-01-31,PEGRY,Pennon Group ADR,15000,12.55,0.37,2.91,,,,X,,CD
+2025-01-31,CNBP,Cornerstone Bancorp Inc.,4200,83.6,2.5,2.99,X,X,,,,CD
+2025-02-04,TKAMY,thyssenkrupp AG ADR,209100,4.72,0.16,3.29,X,X,,X,,CD
+2025-02-05,LPG,Dorian LPG Ltd. Common Stock,794200,23.64,0.7,2.96,,,,,,SC
