@@ -1,6 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",394070,0.65,0.03,4.62,X,X,,,,SC
-2025-01-30,MSB,Mesabi Trust Common Stock,324334,33.2,5.95,17.92,X,X,,,,CD
-2025-01-31,PEGRY,Pennon Group ADR,9558,12.88,0.37,2.84,,,,X,,CD
-2025-02-04,TKAMY,thyssenkrupp AG ADR,71805,4.91,0.16,3.16,X,X,,X,,CD
-2025-02-05,LPG,Dorian LPG Ltd. Common Stock,799332,24.29,0.7,2.88,X,,,,,SC
+2025-01-29,MKTW,"MarketWise, Inc. Class A Common Stock",541016,0.64,0.03,4.66,X,X,,,,SC
+2025-01-30,MSB,Mesabi Trust Common Stock,291700,34.76,5.95,17.12,X,X,,,,CD
+2025-01-31,PEGRY,Pennon Group ADR,14185,13.05,0.37,2.8,X,,,X,,CD
+2025-02-05,LPG,Dorian LPG Ltd. Common Stock,619389,24.21,0.7,2.89,X,,,,,SC
