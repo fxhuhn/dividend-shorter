@@ -1,3 +1,6 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-01-31,PEGRY,Pennon Group ADR,71598,14.53,0.37,2.52,X,X,,X,,CD
-2025-02-05,LPG,Dorian LPG Ltd. Common Stock,714562,25.37,0.7,2.76,X,X,,,,SC
+2025-02-05,LPG,Dorian LPG Ltd. Common Stock,1608600,24.04,0.7,2.91,,,,,,SC
+2025-02-07,PMHG,Prime Meridian Holding Co,8200,28.35,1.0,3.53,X,,,,,CD
+2025-02-10,UG,"United-Guardian, Inc. Common Stock",17800,11.54,0.35,3.03,X,X,,,,CD
+2025-02-10,MPX,Marine Products Corporation Common Stock,37500,9.39,0.7,7.45,X,,,,,SC
+2025-02-10,MPX,Marine Products Corporation Common Stock,37500,9.39,0.7,7.45,X,,,,,CD
