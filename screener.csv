@@ -1,7 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-05,LPG,Dorian LPG Ltd. Common Stock,923009,23.97,0.7,2.92,,,,,,SC
-2025-02-07,ARLP,"Alliance Resource Partners, L.P. Common Units representing Limited Partners Interests",753420,27.6,0.7,2.54,,X,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,113296,9.0,0.7,7.78,,,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,113296,9.0,0.7,7.78,,,,,,SC
-2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,253267,3.6,0.14,3.78,X,X,,,,CD
-2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,265148,3.26,0.12,3.68,X,X,,,,CD
+2025-02-05,LPG,Dorian LPG Ltd. Common Stock,1547806,24.99,0.7,2.8,X,X,,,,SC
+2025-02-10,MPX,Marine Products Corporation Common Stock,30835,9.17,0.7,7.63,X,,,,,CD
+2025-02-10,MPX,Marine Products Corporation Common Stock,30835,9.17,0.7,7.63,X,,,,,SC
+2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,389209,3.64,0.14,3.74,X,X,,,,CD
+2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,286845,3.28,0.12,3.66,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",30529,43.94,2.38,5.42,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",30529,43.94,2.38,5.42,X,X,,,,SC
+2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",15860,7.84,0.25,3.19,X,,,,,CD
+2025-02-14,SIEGY,Siemens AG ADR,22638,104.83,2.69,2.57,,X,,X,,CD
