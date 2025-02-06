@@ -1,10 +1,11 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-05,LPG,Dorian LPG Ltd. Common Stock,1547806,24.99,0.7,2.8,X,X,,,,SC
-2025-02-10,MPX,Marine Products Corporation Common Stock,30835,9.17,0.7,7.63,X,,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,30835,9.17,0.7,7.63,X,,,,,SC
-2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,389209,3.64,0.14,3.74,X,X,,,,CD
-2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,286845,3.28,0.12,3.66,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",30529,43.94,2.38,5.42,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",30529,43.94,2.38,5.42,X,X,,,,SC
-2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",15860,7.84,0.25,3.19,X,,,,,CD
-2025-02-14,SIEGY,Siemens AG ADR,22638,104.83,2.69,2.57,,X,,X,,CD
+2025-02-10,UG,"United-Guardian, Inc. Common Stock",13299,11.06,0.35,3.16,,X,,,,CD
+2025-02-10,MPX,Marine Products Corporation Common Stock,35335,9.24,0.7,7.58,,,,,,SC
+2025-02-10,MPX,Marine Products Corporation Common Stock,35335,9.24,0.7,7.58,,,,,,CD
+2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,350437,3.62,0.14,3.76,,X,,,,CD
+2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,92458,3.29,0.12,3.65,,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34490,44.72,2.38,5.32,X,X,,,,SC
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34490,44.72,2.38,5.32,X,X,,,,CD
+2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",7693,13.86,0.44,3.16,,,,,,CD
+2025-02-14,OPINL,Office Properties Income Trust 6.375% Senior Notes due 2050,18264,12.86,0.4,3.1,X,X,,,,CD
+2025-02-14,SIEGY,Siemens AG ADR,26894,104.8,2.69,2.57,,X,,X,,CD
