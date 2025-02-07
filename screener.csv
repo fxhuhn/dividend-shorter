@@ -1,11 +1,12 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-10,UG,"United-Guardian, Inc. Common Stock",13299,11.06,0.35,3.16,,X,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,35335,9.24,0.7,7.58,,,,,,SC
-2025-02-10,MPX,Marine Products Corporation Common Stock,35335,9.24,0.7,7.58,,,,,,CD
-2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,350437,3.62,0.14,3.76,,X,,,,CD
-2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,92458,3.29,0.12,3.65,,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34490,44.72,2.38,5.32,X,X,,,,SC
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34490,44.72,2.38,5.32,X,X,,,,CD
-2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",7693,13.86,0.44,3.16,,,,,,CD
-2025-02-14,OPINL,Office Properties Income Trust 6.375% Senior Notes due 2050,18264,12.86,0.4,3.1,X,X,,,,CD
-2025-02-14,SIEGY,Siemens AG ADR,26894,104.8,2.69,2.57,,X,,X,,CD
+2025-02-07,TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",21676,10.68,0.3,2.84,X,X,,,,CD
+2025-02-07,PMHG,Prime Meridian Holding Co,6275,29.28,1.0,3.42,X,X,,,,CD
+2025-02-10,MPX,Marine Products Corporation Common Stock,36339,9.45,0.7,7.41,X,X,,,,SC
+2025-02-10,MPX,Marine Products Corporation Common Stock,36339,9.45,0.7,7.41,X,X,,,,CD
+2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,352653,3.62,0.14,3.76,,X,,,,CD
+2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,152469,3.31,0.12,3.63,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",26337,45.34,2.38,5.25,X,X,,,,SC
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",26337,45.34,2.38,5.25,X,X,,,,CD
+2025-02-14,JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,4389,25.81,0.79,3.07,,,,,,CD
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,2688211,36.04,1.05,2.91,,,,,,CD
+2025-02-18,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",593024,14.76,0.38,2.54,X,,,,,CD
