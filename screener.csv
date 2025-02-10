@@ -1,12 +1,14 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-07,TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",21676,10.68,0.3,2.84,X,X,,,,CD
-2025-02-07,PMHG,Prime Meridian Holding Co,6275,29.28,1.0,3.42,X,X,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,36339,9.45,0.7,7.41,X,X,,,,SC
-2025-02-10,MPX,Marine Products Corporation Common Stock,36339,9.45,0.7,7.41,X,X,,,,CD
-2025-02-13,NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,352653,3.62,0.14,3.76,,X,,,,CD
-2025-02-13,NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,152469,3.31,0.12,3.63,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",26337,45.34,2.38,5.25,X,X,,,,SC
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",26337,45.34,2.38,5.25,X,X,,,,CD
-2025-02-14,JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,4389,25.81,0.79,3.07,,,,,,CD
-2025-02-18,AB,AllianceBernstein Holding L.P.  Units,2688211,36.04,1.05,2.91,,,,,,CD
-2025-02-18,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",593024,14.76,0.38,2.54,X,,,,,CD
+2025-02-10,UG,"United-Guardian, Inc. Common Stock",22500,11.2,0.35,3.13,,X,,,,CD
+2025-02-10,MPX,Marine Products Corporation Common Stock,77300,9.65,0.7,7.25,X,X,,,,SC
+2025-02-10,MPX,Marine Products Corporation Common Stock,77300,9.65,0.7,7.25,X,X,,,,CD
+2025-02-10,HMLPF,Hoegh LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units,29000,17.0,0.55,3.22,X,X,,,,CD
+2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,24600,17.41,0.51,2.92,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",25600,44.43,2.38,5.36,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",25600,44.43,2.38,5.36,X,X,,,,SC
+2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",8000,13.65,0.44,3.21,,,,,,CD
+2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",72600,8.6,0.25,2.91,X,X,,,,CD
+2025-02-14,MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043",14200,16.98,0.48,2.85,,,,,,CD
+2025-02-14,SIEGY,Siemens AG ADR,206200,106.63,2.69,2.52,X,X,,X,,CD
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,1432500,36.86,1.05,2.85,,,,,,CD
+2025-02-18,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",252500,14.77,0.38,2.54,X,,,,,CD
