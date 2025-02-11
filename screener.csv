@@ -1,14 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-10,UG,"United-Guardian, Inc. Common Stock",22500,11.2,0.35,3.13,,X,,,,CD
-2025-02-10,MPX,Marine Products Corporation Common Stock,77300,9.65,0.7,7.25,X,X,,,,SC
-2025-02-10,MPX,Marine Products Corporation Common Stock,77300,9.65,0.7,7.25,X,X,,,,CD
-2025-02-10,HMLPF,Hoegh LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units,29000,17.0,0.55,3.22,X,X,,,,CD
-2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,24600,17.41,0.51,2.92,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",25600,44.43,2.38,5.36,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",25600,44.43,2.38,5.36,X,X,,,,SC
-2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",8000,13.65,0.44,3.21,,,,,,CD
-2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",72600,8.6,0.25,2.91,X,X,,,,CD
-2025-02-14,MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043",14200,16.98,0.48,2.85,,,,,,CD
-2025-02-14,SIEGY,Siemens AG ADR,206200,106.63,2.69,2.52,X,X,,X,,CD
-2025-02-18,AB,AllianceBernstein Holding L.P.  Units,1432500,36.86,1.05,2.85,,,,,,CD
-2025-02-18,BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests",252500,14.77,0.38,2.54,X,,,,,CD
+2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,25310,17.27,0.51,2.94,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40655,44.07,2.38,5.4,X,X,,,,SC
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40655,44.07,2.38,5.4,X,X,,,,CD
+2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",10610,13.92,0.44,3.14,,,,,,CD
+2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",25336,8.34,0.25,3.0,X,X,,,,CD
+2025-02-18,NHTC,Natural Health Trends Corp. Common Stock,35771,5.26,0.2,3.8,,X,,,,CD
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,1278068,35.98,1.05,2.92,,,,,,CD
+2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,325211,25.25,0.75,2.97,,X,,,,CD
