@@ -1,9 +1,13 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,25310,17.27,0.51,2.94,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40655,44.07,2.38,5.4,X,X,,,,SC
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40655,44.07,2.38,5.4,X,X,,,,CD
-2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",10610,13.92,0.44,3.14,,,,,,CD
-2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",25336,8.34,0.25,3.0,X,X,,,,CD
-2025-02-18,NHTC,Natural Health Trends Corp. Common Stock,35771,5.26,0.2,3.8,,X,,,,CD
-2025-02-18,AB,AllianceBernstein Holding L.P.  Units,1278068,35.98,1.05,2.92,,,,,,CD
-2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,325211,25.25,0.75,2.97,,X,,,,CD
+2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,18900,17.42,0.51,2.92,X,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34800,44.91,2.38,5.3,X,X,,,,SC
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34800,44.91,2.38,5.3,X,X,,,,CD
+2025-02-14,OPINL,Office Properties Income Trust 6.375% Senior Notes due 2050,12700,12.12,0.4,3.29,,,,,,CD
+2025-02-14,PFX,PhenixFIN Corporation Common Stock,5800,48.37,1.43,2.96,X,,,,,SC
+2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",35400,8.08,0.25,3.09,X,X,,,,CD
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,675400,35.68,1.05,2.94,,,,,,CD
+2025-02-19,TLF,"Tandy Leather Factory, Inc. Common Stock",32300,5.13,1.5,29.24,X,X,,,,SC
+2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,232200,25.13,0.75,2.98,,X,,,,CD
+2025-02-21,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,93100,65.14,1.75,2.69,X,,,,,CD
+2025-02-21,DOYU,DouYu International Holdings Limited ADS,256100,15.34,9.94,64.8,,X,,,,CD
+2025-02-21,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",117900,10.73,0.32,2.98,X,X,,,,CD
