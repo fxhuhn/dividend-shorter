@@ -1,13 +1,22 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-12,MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,18900,17.42,0.51,2.92,X,X,,,,CD
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34800,44.91,2.38,5.3,X,X,,,,SC
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",34800,44.91,2.38,5.3,X,X,,,,CD
-2025-02-14,OPINL,Office Properties Income Trust 6.375% Senior Notes due 2050,12700,12.12,0.4,3.29,,,,,,CD
-2025-02-14,PFX,PhenixFIN Corporation Common Stock,5800,48.37,1.43,2.96,X,,,,,SC
-2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",35400,8.08,0.25,3.09,X,X,,,,CD
-2025-02-18,AB,AllianceBernstein Holding L.P.  Units,675400,35.68,1.05,2.94,,,,,,CD
-2025-02-19,TLF,"Tandy Leather Factory, Inc. Common Stock",32300,5.13,1.5,29.24,X,X,,,,SC
-2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,232200,25.13,0.75,2.98,,X,,,,CD
-2025-02-21,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,93100,65.14,1.75,2.69,X,,,,,CD
-2025-02-21,DOYU,DouYu International Holdings Limited ADS,256100,15.34,9.94,64.8,,X,,,,CD
-2025-02-21,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",117900,10.73,0.32,2.98,X,X,,,,CD
+2025-02-13,AMZY,YieldMax AMZN Option Income Strategy ETF,313125,19.4,0.55,2.82,,,X,,,CD
+2025-02-13,DISO,YieldMax DIS Option Income Strategy ETF,13409,16.36,0.46,2.8,,,X,,,CD
+2025-02-13,SQY,YieldMax SQ Option Income Strategy ETF,132761,16.85,0.58,3.47,,,X,,,CD
+2025-02-13,AIYY,YieldMax AI Option Income Strategy ETF,764063,7.64,0.37,4.86,,,X,,,CD
+2025-02-13,MSTY,YieldMax MSTR Option Income Strategy ETF,7795923,26.86,2.02,7.53,X,,X,,,CD
+2025-02-13,SMCY,YieldMax SMCI Option Income Strategy ETF,787580,28.14,2.09,7.43,X,X,X,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40998,43.57,2.38,5.46,,X,,,,CD
+2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",40998,43.57,2.38,5.46,,X,,,,SC
+2025-02-14,PFX,PhenixFIN Corporation Common Stock,3062,49.14,1.43,2.91,X,X,,,,SC
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,922472,35.0,1.05,3.0,,,,,,CD
+2025-02-18,NHTC,Natural Health Trends Corp. Common Stock,32651,5.12,0.2,3.91,,X,,,,CD
+2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,317874,24.93,0.75,3.01,,X,,,,CD
+2025-02-21,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,44317,64.08,1.75,2.73,X,,,,,CD
+2025-02-21,DOYU,DouYu International Holdings Limited ADS,180479,15.4,9.94,64.55,,X,,,,CD
+2025-02-21,IAF,"abrdn Australia Equity Fund, Inc. Common Stock",87349,4.46,0.12,2.69,X,X,,,,CD
+2025-02-21,HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,162026,13.8,0.47,3.41,,,,,,CD
+2025-02-21,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,170499,17.68,0.57,3.22,,X,,,,CD
+2025-02-21,IFN,"India Fund, Inc. (The) Common Stock",163153,15.78,0.46,2.92,,,,,,CD
+2025-02-21,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",82548,10.65,0.32,3.0,X,X,,,,CD
+2025-02-24,CNA,CNA Financial Corporation Common Stock,426019,48.61,2.0,4.11,,,,,,CD
+2025-02-24,CNA,CNA Financial Corporation Common Stock,426019,48.61,2.0,4.11,,,,,,CD
