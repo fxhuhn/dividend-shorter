@@ -1,111 +1,77 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-02-13**.
+bet on falling prices on payday **2025-02-14**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| SQY      |         0.58 |   16.85 | 133200          |             2244420 |      3.47 | False        | False          |
-| SMCY     |         2.09 |   28.14 | 796300          |            22407882 |      7.43 | True         | True           |
-| MSTY     |         2.02 |   26.86 |      7.8961e+06 |           212089246 |      7.53 | True         | False          |
-| DISO     |         0.46 |   16.36 |  13500          |              220860 |      2.8  | False        | False          |
-| AMZY     |         0.55 |   19.4  | 313500          |             6081900 |      2.82 | False        | False          |
-| AIYY     |         0.37 |    7.64 | 766200          |             5853768 |      4.86 | False        | False          |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| PFX      |         1.43 |   49.05 |     2400 |              117720 |      2.92 | True         | True           |
+| FOSLL    |         0.44 |   14.33 |     7600 |              108908 |      3.05 | True         | True           |
+| FCBC     |         2.07 |   44.05 |    43300 |             1907365 |      4.7  | False        | True           |
+| CCEL     |         0.25 |    7.89 |    12700 |              100203 |      3.17 | False        | True           |
 
-## SQY
+## PFX
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0.1 |      -0.2 |      -0.1 |      -0.2 |      -0.2 |        15 |
-| mit  |      -0   |      -0.2 |      -0.2 |      -0.1 |      -0.1 |         6 |
+| ohne |       0.1 |       0.2 |      -0.9 |        -1 |        -1 |        24 |
+| mit  |     nan   |     nan   |     nan   |       nan |       nan |         0 |
 
 ### Ohne Filter
-![image info](./data/SQY_box_all.png)
-![image info](./data/SQY_median_all.png)
+![image info](./data/PFX_box_all.png)
+![image info](./data/PFX_median_all.png)
 
 ### Mit Filter
-![image info](./data/SQY_box_filtered.png)
-![image info](./data/SQY_median_filtered.png)
+![image info](./data/PFX_box_filtered.png)
+![image info](./data/PFX_median_filtered.png)
 
-## SMCY
+## FOSLL
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |        -0 |      -0.2 |      -0.5 |      -0.4 |         4 |
-| mit  |       0.1 |        -0 |      -0.2 |      -0.5 |      -0.4 |         4 |
+| ohne |       0.3 |       0.6 |         1 |       1.3 |       1.1 |        10 |
+| mit  |     nan   |     nan   |       nan |     nan   |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/SMCY_box_all.png)
-![image info](./data/SMCY_median_all.png)
+![image info](./data/FOSLL_box_all.png)
+![image info](./data/FOSLL_median_all.png)
 
 ### Mit Filter
-![image info](./data/SMCY_box_filtered.png)
-![image info](./data/SMCY_median_filtered.png)
+![image info](./data/FOSLL_box_filtered.png)
+![image info](./data/FOSLL_median_filtered.png)
 
-## MSTY
+## FCBC
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |         0 |       0.1 |      -0.1 |       0.2 |        10 |
-| mit  |       0.2 |         0 |       0.1 |      -0.1 |       0.2 |        10 |
+| ohne |      -0.1 |      -0.3 |      -0.4 |      -0.8 |        -1 |        84 |
+| mit  |     nan   |     nan   |     nan   |     nan   |       nan |         0 |
 
 ### Ohne Filter
-![image info](./data/MSTY_box_all.png)
-![image info](./data/MSTY_median_all.png)
+![image info](./data/FCBC_box_all.png)
+![image info](./data/FCBC_median_all.png)
 
 ### Mit Filter
-![image info](./data/MSTY_box_filtered.png)
-![image info](./data/MSTY_median_filtered.png)
+![image info](./data/FCBC_box_filtered.png)
+![image info](./data/FCBC_median_filtered.png)
 
-## DISO
+## CCEL
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.3 |       0.1 |       0.2 |       0.2 |      -0   |        16 |
-| mit  |      -0.3 |       3   |       2.9 |       2.7 |       2.9 |         1 |
+| ohne |       0.6 |       1.1 |       1.5 |       1.9 |       0.9 |         1 |
+| mit  |     nan   |     nan   |     nan   |     nan   |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/DISO_box_all.png)
-![image info](./data/DISO_median_all.png)
+![image info](./data/CCEL_box_all.png)
+![image info](./data/CCEL_median_all.png)
 
 ### Mit Filter
-![image info](./data/DISO_box_filtered.png)
-![image info](./data/DISO_median_filtered.png)
-
-## AMZY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0.1 |      -0.2 |      -0.3 |      -0.3 |        17 |
-| mit  |         0 |      -0   |      -0.1 |      -0.2 |      -0.2 |         9 |
-
-### Ohne Filter
-![image info](./data/AMZY_box_all.png)
-![image info](./data/AMZY_median_all.png)
-
-### Mit Filter
-![image info](./data/AMZY_box_filtered.png)
-![image info](./data/AMZY_median_filtered.png)
-
-## AIYY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0   |      -0.3 |      -0.2 |      -0.2 |        13 |
-| mit  |       0.1 |       0.1 |      -0.3 |      -0.2 |      -0.2 |         8 |
-
-### Ohne Filter
-![image info](./data/AIYY_box_all.png)
-![image info](./data/AIYY_median_all.png)
-
-### Mit Filter
-![image info](./data/AIYY_box_filtered.png)
-![image info](./data/AIYY_median_filtered.png)
+![image info](./data/CCEL_box_filtered.png)
+![image info](./data/CCEL_median_filtered.png)
 
