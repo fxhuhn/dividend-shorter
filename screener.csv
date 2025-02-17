@@ -1,19 +1,14 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",42130,44.05,2.38,5.4,,X,,,,SC
-2025-02-14,FCBC,"First Community Bankshares, Inc. (VA) Common Stock",42130,44.05,2.38,5.4,,X,,,,CD
-2025-02-14,FOSLL,"Fossil Group, Inc. 7% Senior Notes due 2026",7597,14.33,0.44,3.05,X,X,,,,CD
-2025-02-14,PFX,PhenixFIN Corporation Common Stock,2384,49.05,1.43,2.92,X,X,,,,SC
-2025-02-14,CCEL,"Cryo-Cell International, Inc. Common Stock",12687,7.89,0.25,3.17,,X,,,,CD
-2025-02-18,NHTC,Natural Health Trends Corp. Common Stock,20258,5.17,0.2,3.87,,X,,,,CD
-2025-02-18,AB,AllianceBernstein Holding L.P.  Units,946927,35.95,1.05,2.92,,,,,,CD
-2025-02-19,TLF,"Tandy Leather Factory, Inc. Common Stock",90373,5.2,1.5,28.85,X,X,,,,SC
-2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,384064,24.72,0.75,3.03,,X,,,,CD
-2025-02-21,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,67976,64.24,1.75,2.72,X,,,,,CD
-2025-02-21,DOYU,DouYu International Holdings Limited ADS,134081,15.86,9.94,62.67,,X,,,,CD
-2025-02-21,IAF,"abrdn Australia Equity Fund, Inc. Common Stock",63388,4.47,0.12,2.69,X,X,,,,CD
-2025-02-21,HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,113078,13.96,0.47,3.37,,X,,,,CD
-2025-02-21,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,171089,17.9,0.57,3.18,X,X,,,,CD
-2025-02-21,IFN,"India Fund, Inc. (The) Common Stock",162661,15.92,0.46,2.89,,,,,,CD
-2025-02-21,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",122375,10.79,0.32,2.97,X,X,,,,CD
-2025-02-24,CNA,CNA Financial Corporation Common Stock,353015,49.36,2.0,4.05,X,X,,,,CD
-2025-02-24,CNA,CNA Financial Corporation Common Stock,353015,49.36,2.0,4.05,X,X,,,,CD
+2025-02-18,NHTC,Natural Health Trends Corp. Common Stock,88400,5.27,0.2,3.8,X,X,,,,CD
+2025-02-18,AB,AllianceBernstein Holding L.P.  Units,764300,37.08,1.05,2.83,X,,,,,CD
+2025-02-19,TLF,"Tandy Leather Factory, Inc. Common Stock",44400,5.27,1.5,28.46,X,X,,,,SC
+2025-02-20,FLNG,FLEX LNG Ltd. Ordinary Shares,301100,24.84,0.75,3.02,,X,,,,CD
+2025-02-21,USOI,Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN,55200,63.77,1.75,2.74,,,,,,CD
+2025-02-21,DOYU,DouYu International Holdings Limited ADS,301900,15.79,9.94,62.95,,X,,,,CD
+2025-02-21,IAF,"abrdn Australia Equity Fund, Inc. Common Stock",80400,4.47,0.12,2.68,X,X,,,,CD
+2025-02-21,HQL,abrdn Life Sciences Investors Shares of Beneficial Interest,99700,13.99,0.47,3.36,X,X,,,,CD
+2025-02-21,HQH,abrdn Healthcare Investors Shares of Beneficial Interest,144200,17.95,0.57,3.18,X,X,,,,CD
+2025-02-21,IFN,"India Fund, Inc. (The) Common Stock",276400,15.72,0.46,2.93,,,,,,CD
+2025-02-21,AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",231400,10.57,0.32,3.03,,X,,,,CD
+2025-02-24,CNA,CNA Financial Corporation Common Stock,351200,48.65,2.0,4.11,,X,,,,CD
+2025-02-24,CNA,CNA Financial Corporation Common Stock,351200,48.65,2.0,4.11,,X,,,,CD
