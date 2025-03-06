@@ -12,7 +12,7 @@ symbol = "VOD"
 
 
 def dividend_details(symbol: str) -> None:
-    stock = yf.download(symbol)
+    stock = yf.download(symbol, auto_adjust=False, multi_level_index=False)
     df2 = core.get_dividend_history(symbol)
     name = yf.Ticker(symbol).info.get("longName")
 
