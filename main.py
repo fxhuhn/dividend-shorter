@@ -207,18 +207,19 @@ def update_stock_data(df: pd.DataFrame) -> pd.DataFrame:
             continue  # Skip symbols with not enough data
 
         try:
-            df.at[index, "Close"] = round(hist.Close.iloc[-1], 2)
+            df.loc[index, "Close"] = round(hist.Close.iloc[-1].values[0], 2)
 
-            df.at[index, "Volume"] = round(hist.Volume.iloc[-1])
-            df.at[index, "SMA_50"] = round(hist.Close.rolling(50).mean().iloc[-1], 2)
-            df.at[index, "dividend_percentage"] = round(
-                (row.dividend_Rate / hist.Close.iloc[-1]) * 100, 2
+            df.loc[index, "Volume"] = round(hist.Volume.iloc[-1].values[0])
+            df.loc[index, "SMA_50"] = round(hist.Close.rolling(50).mean().iloc[-1].values[0], 2)
+            df.loc[index, "dividend_percentage"] = round(
+                (row.dividend_Rate / hist.Close.iloc[-1].values[0]) * 100, 2
             )
-            df.at[index, "last_close_volume"] = round(
-                hist.Close.iloc[-1] * hist.Volume.iloc[-1]
+            df.loc[index, "last_close_volume"] = round(
+                hist.Close.iloc[-1].values[0] * hist.Volume.iloc[-1].values[0]
             )
-            df.at[index, "close_5_days_ago"] = hist.Close.iloc[-5]
-        except Exception:
+            df.loc[index, "close_5_days_ago"] = hist.Close.iloc[-5].values[0]
+        except Exception as e:
+            print(e)
             print(round(hist.Close.iloc[-1], 2))
             print(index)
 
