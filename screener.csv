@@ -1,1 +1,36 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
+2025-03-07,WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",1125358,15.09,0.53,3.51,,,,,,CD
+2025-03-07,RIO,Rio Tinto Plc Common Stock,3242275,63.94,2.25,3.52,X,X,,,,CD
+2025-03-07,HSBC,"HSBC Holdings, plc. Common Stock",4215624,59.55,1.8,3.02,,X,,,,CD
+2025-03-07,KNYJY,Kone Corp. ADR,15600,29.22,0.94,3.21,X,X,,X,,CD
+2025-03-10,IEP,"Icahn Enterprises, L.P. Common Stock",753032,9.9,0.5,5.05,,X,,,,CD
+2025-03-10,UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),1887542,2.81,0.08,2.75,,X,,,,CD
+2025-03-10,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,28541327,9.78,0.38,3.84,X,X,,,,SC
+2025-03-10,BWLP,BW LPG Limited Common Shares,295776,11.22,0.42,3.74,,,,,,CD
+2025-03-11,MFIC,MidCap Financial Investment Corporation Common Stock,627806,13.17,0.38,2.89,,,,,,CD
+2025-03-12,PHI,PLDT Inc. Sponsored ADR,110125,24.61,0.81,3.3,X,X,,X,,CD
+2025-03-12,SFL,SFL Corporation Ltd,1251237,8.87,0.27,3.04,,,,,,CD
+2025-03-12,GDEV,GDEV Inc. Ordinary Shares,34335,17.87,3.31,18.52,,X,,,,SC
+2025-03-12,NVS,Novartis AG Common Stock,1825546,112.87,3.87,3.43,X,X,,,,CD
+2025-03-13,AFBI,"Affinity Bancshares, Inc. Common Stock (MD)",14288,19.88,1.5,7.55,X,X,,,,SC
+2025-03-13,AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,1427899,2.78,0.1,3.6,,,,,,CD
+2025-03-13,CBL,"CBL & Associates Properties, Inc. Common Stock",115331,29.31,0.8,2.73,,,,,,SC
+2025-03-13,CBL,"CBL & Associates Properties, Inc. Common Stock",115331,29.31,0.8,2.73,,,,,,CD
+2025-03-14,NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,111321,12.47,0.42,3.35,,X,,,,CD
+2025-03-14,TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests",112280,19.13,0.61,3.19,,X,,,,CD
+2025-03-14,NREF,"NexPoint Real Estate Finance, Inc. Common Stock",22461,15.89,0.5,3.15,,X,,,,CD
+2025-03-14,CSWC,Capital Southwest Corporation Common Stock,379073,22.46,0.64,2.85,,,,,,CD
+2025-03-14,MRCC,Monroe Capital Corporation Common Stock,59970,8.1,0.25,3.09,,,,,,CD
+2025-03-14,CSWC,Capital Southwest Corporation Common Stock,379073,22.46,0.64,2.85,,,,,,CD
+2025-03-14,NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)",7658474,12.11,0.39,3.22,,X,,,,CD
+2025-03-17,TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,882297,7.33,0.3,4.09,,,,,,CD
+2025-03-17,TCPC,BlackRock TCP Capital Corp. Common Stock,583805,8.13,0.29,3.57,,,,,,CD
+2025-03-17,TCPC,BlackRock TCP Capital Corp. Common Stock,583805,8.13,0.29,3.57,,,,,,SC
+2025-03-17,NMFC,New Mountain Finance Corporation Common Stock,376640,11.26,0.32,2.84,,,,,,CD
+2025-03-17,OCSL,Oaktree Specialty Lending Corporation Common Stock,858803,15.98,0.47,2.94,,X,,,,CD
+2025-03-17,OCSL,Oaktree Specialty Lending Corporation Common Stock,858803,15.98,0.47,2.94,,X,,,,SC
+2025-03-17,GAB,"Gabelli Equity Trust, Inc. (The) Common Stock",478003,5.57,0.15,2.69,,X,,,,CD
+2025-03-17,GGT,"Gabelli Multi-Media Trust, Inc. (The) Common Stock",61125,4.8,0.22,4.58,X,X,,,,CD
+2025-03-17,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",67136,3.84,0.12,3.13,X,,,,,CD
+2025-03-17,MCN,XAI Madison Equity Premium Income Fund Common Shares,45622,6.29,0.18,2.86,,,,,,CD
+2025-03-18,KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,2280130,13.35,0.4,3.0,,,,,,CD
