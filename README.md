@@ -1,77 +1,94 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-02-18**.
+bet on falling prices on payday **2025-03-07**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
-| NHTC     |         0.2  |    5.27 |    88400 |              465868 |      3.8  | True         | True           |
-| CVHSY    |         0.26 |    6.26 |    34500 |              215970 |      4.2  | True         | False          |
-| AVACF    |         2    |    7.64 |    88300 |              674612 |     26.18 | True         | True           |
-| AB       |         1.05 |   37.08 |   764300 |            28340244 |      2.83 | True         | False          |
+| Ticker   |   Divid Rate |   Close |        Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|--------------:|--------------------:|----------:|:-------------|:---------------|
+| WDS      |         0.53 |   15.09 |    1.1254e+06 |            16982286 |      3.51 | False        | False          |
+| RIO      |         2.25 |   63.94 |    3.2466e+06 |           207587604 |      3.52 | True         | True           |
+| KNYJY    |         0.94 |   29.7  | 9300          |              276210 |      3.16 | True         | True           |
+| HSBC     |         1.8  |   59.55 |    4.2197e+06 |           251283135 |      3.02 | False        | True           |
+| ABR      |         0.43 |   12.29 |    4.415e+06  |            54260350 |      3.5  | False        | False          |
 
-## NHTC
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0   |       0.1 |       0   |       0.1 |       0.1 |        51 |
-| mit  |      -0.1 |      -0.2 |      -0.1 |      -0.2 |      -0.2 |         1 |
-
-### Ohne Filter
-![image info](./data/NHTC_box_all.png)
-![image info](./data/NHTC_median_all.png)
-
-### Mit Filter
-![image info](./data/NHTC_box_filtered.png)
-![image info](./data/NHTC_median_filtered.png)
-
-## CVHSY
+## WDS
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -1 |        -1 |        -1 |        -1 |        -1 |         5 |
-| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
+| ohne |       0.2 |      -0.3 |       0.2 |       0.5 |         0 |         5 |
+| mit  |       0.2 |      -0.3 |       0.2 |       0.5 |         0 |         5 |
 
 ### Ohne Filter
-![image info](./data/CVHSY_box_all.png)
-![image info](./data/CVHSY_median_all.png)
+![image info](./data/WDS_box_all.png)
+![image info](./data/WDS_median_all.png)
 
 ### Mit Filter
-![image info](./data/CVHSY_box_filtered.png)
-![image info](./data/CVHSY_median_filtered.png)
+![image info](./data/WDS_box_filtered.png)
+![image info](./data/WDS_median_filtered.png)
 
-## AVACF
+## RIO
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |      -0.3 |      -0.2 |      -0.1 |      -0.3 |        20 |
-| mit  |       nan |     nan   |     nan   |     nan   |     nan   |         0 |
+| ohne |       0.1 |       0.2 |       0.2 |       0.4 |       0.7 |        46 |
+| mit  |       0.1 |       0.2 |       0.2 |       0   |       0.3 |        26 |
 
 ### Ohne Filter
-![image info](./data/AVACF_box_all.png)
-![image info](./data/AVACF_median_all.png)
+![image info](./data/RIO_box_all.png)
+![image info](./data/RIO_median_all.png)
 
 ### Mit Filter
-![image info](./data/AVACF_box_filtered.png)
-![image info](./data/AVACF_median_filtered.png)
+![image info](./data/RIO_box_filtered.png)
+![image info](./data/RIO_median_filtered.png)
 
-## AB
+## KNYJY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0   |       0.1 |       0.2 |       0.4 |       0.2 |        65 |
-| mit  |      -0.2 |       0.1 |       0.6 |       0.6 |       0.2 |         4 |
+| ohne |        -0 |       0.1 |       0.1 |      -0.1 |      -0.2 |        14 |
+| mit  |        -0 |       0.2 |       0.4 |       0.4 |       0.2 |         4 |
 
 ### Ohne Filter
-![image info](./data/AB_box_all.png)
-![image info](./data/AB_median_all.png)
+![image info](./data/KNYJY_box_all.png)
+![image info](./data/KNYJY_median_all.png)
 
 ### Mit Filter
-![image info](./data/AB_box_filtered.png)
-![image info](./data/AB_median_filtered.png)
+![image info](./data/KNYJY_box_filtered.png)
+![image info](./data/KNYJY_median_filtered.png)
+
+## HSBC
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |         0 |      -0   |      -0.1 |      -0.1 |      -0.1 |        79 |
+| mit  |        -0 |       0.2 |      -0.2 |      -0.1 |      -0.1 |         5 |
+
+### Ohne Filter
+![image info](./data/HSBC_box_all.png)
+![image info](./data/HSBC_median_all.png)
+
+### Mit Filter
+![image info](./data/HSBC_box_filtered.png)
+![image info](./data/HSBC_median_filtered.png)
+
+## ABR
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |         0 |       0.2 |       0.2 |       0.2 |       0.2 |        69 |
+| mit  |         0 |       0.5 |       0.4 |       0.3 |       0.4 |        15 |
+
+### Ohne Filter
+![image info](./data/ABR_box_all.png)
+![image info](./data/ABR_median_all.png)
+
+### Mit Filter
+![image info](./data/ABR_box_filtered.png)
+![image info](./data/ABR_median_filtered.png)
 
