@@ -1,94 +1,77 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-03-07**.
+bet on falling prices on payday **2025-03-10**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |        Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|--------------:|--------------------:|----------:|:-------------|:---------------|
-| WDS      |         0.53 |   15.09 |    1.1254e+06 |            16982286 |      3.51 | False        | False          |
-| RIO      |         2.25 |   63.94 |    3.2466e+06 |           207587604 |      3.52 | True         | True           |
-| KNYJY    |         0.94 |   29.7  | 9300          |              276210 |      3.16 | True         | True           |
-| HSBC     |         1.8  |   59.55 |    4.2197e+06 |           251283135 |      3.02 | False        | True           |
-| ABR      |         0.43 |   12.29 |    4.415e+06  |            54260350 |      3.5  | False        | False          |
+| Ticker   |   Divid Rate |   Close |           Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|-----------------:|--------------------:|----------:|:-------------|:---------------|
+| VALE     |         0.38 |    9.9  |      3.00495e+07 |           297490050 |      3.8  | True         | True           |
+| UGP      |         0.08 |    2.86 | 812400           |             2323464 |      2.71 | True         | True           |
+| IEP      |         0.5  |   10    |      1.0322e+06  |            10322000 |      5    | False        | True           |
+| BWLP     |         0.42 |   11.06 | 583600           |             6454616 |      3.8  | False        | False          |
 
-## WDS
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |      -0.3 |       0.2 |       0.5 |         0 |         5 |
-| mit  |       0.2 |      -0.3 |       0.2 |       0.5 |         0 |         5 |
-
-### Ohne Filter
-![image info](./data/WDS_box_all.png)
-![image info](./data/WDS_median_all.png)
-
-### Mit Filter
-![image info](./data/WDS_box_filtered.png)
-![image info](./data/WDS_median_filtered.png)
-
-## RIO
+## VALE
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0.2 |       0.2 |       0.4 |       0.7 |        46 |
-| mit  |       0.1 |       0.2 |       0.2 |       0   |       0.3 |        26 |
+| ohne |        -0 |       0   |       0.1 |       0   |       0.4 |        64 |
+| mit  |        -0 |      -0.4 |      -0.2 |      -0.1 |       0.4 |        17 |
 
 ### Ohne Filter
-![image info](./data/RIO_box_all.png)
-![image info](./data/RIO_median_all.png)
+![image info](./data/VALE_box_all.png)
+![image info](./data/VALE_median_all.png)
 
 ### Mit Filter
-![image info](./data/RIO_box_filtered.png)
-![image info](./data/RIO_median_filtered.png)
+![image info](./data/VALE_box_filtered.png)
+![image info](./data/VALE_median_filtered.png)
 
-## KNYJY
+## UGP
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |       0.1 |       0.1 |      -0.1 |      -0.2 |        14 |
-| mit  |        -0 |       0.2 |       0.4 |       0.4 |       0.2 |         4 |
+| ohne |       0.1 |       0.2 |      -0.3 |      -0.2 |      -0.3 |        41 |
+| mit  |       0   |       0.4 |      -0.5 |      -0.2 |      -0.4 |        12 |
 
 ### Ohne Filter
-![image info](./data/KNYJY_box_all.png)
-![image info](./data/KNYJY_median_all.png)
+![image info](./data/UGP_box_all.png)
+![image info](./data/UGP_median_all.png)
 
 ### Mit Filter
-![image info](./data/KNYJY_box_filtered.png)
-![image info](./data/KNYJY_median_filtered.png)
+![image info](./data/UGP_box_filtered.png)
+![image info](./data/UGP_median_filtered.png)
 
-## HSBC
+## IEP
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0   |      -0.1 |      -0.1 |      -0.1 |        79 |
-| mit  |        -0 |       0.2 |      -0.2 |      -0.1 |      -0.1 |         5 |
+| ohne |       0.2 |       0.4 |       0.5 |       0.6 |       0.6 |        77 |
+| mit  |       0.2 |       0.5 |       0.7 |       0.6 |       0.6 |        24 |
 
 ### Ohne Filter
-![image info](./data/HSBC_box_all.png)
-![image info](./data/HSBC_median_all.png)
+![image info](./data/IEP_box_all.png)
+![image info](./data/IEP_median_all.png)
 
 ### Mit Filter
-![image info](./data/HSBC_box_filtered.png)
-![image info](./data/HSBC_median_filtered.png)
+![image info](./data/IEP_box_filtered.png)
+![image info](./data/IEP_median_filtered.png)
 
-## ABR
+## BWLP
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |       0.2 |       0.2 |       0.2 |       0.2 |        69 |
-| mit  |         0 |       0.5 |       0.4 |       0.3 |       0.4 |        15 |
+| ohne |       0.1 |       0.5 |       0.3 |       0.9 |       1.2 |         3 |
+| mit  |       0.1 |       0.5 |       0.3 |       0.9 |       1.2 |         3 |
 
 ### Ohne Filter
-![image info](./data/ABR_box_all.png)
-![image info](./data/ABR_median_all.png)
+![image info](./data/BWLP_box_all.png)
+![image info](./data/BWLP_median_all.png)
 
 ### Mit Filter
-![image info](./data/ABR_box_filtered.png)
-![image info](./data/ABR_median_filtered.png)
+![image info](./data/BWLP_box_filtered.png)
+![image info](./data/BWLP_median_filtered.png)
 
