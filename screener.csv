@@ -1,34 +1,37 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-03-18,KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,855400,14.28,0.4,2.8,X,,,,,CD
-2025-03-18,BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",52200,12.13,0.32,2.65,X,X,,,,CD
-2025-03-18,UNTC,Unit Corp. Com (New),31200,29.13,1.25,4.29,X,X,,,,CD
-2025-03-19,FSK,FS KKR Capital Corp. Common Stock,3334400,21.29,0.64,3.01,,,,,,CD
-2025-03-19,FSK,FS KKR Capital Corp. Common Stock,3334400,21.29,0.64,3.01,,,,,,CD
-2025-03-19,CABGY,Carlsberg ADR,35800,26.93,0.76,2.82,X,X,,X,,CD
-2025-03-20,BANX,ArrowMark Financial Corp. Common Stock,28600,21.14,0.55,2.6,,X,,,,CD
-2025-03-20,BANX,ArrowMark Financial Corp. Common Stock,28600,21.14,0.55,2.6,,X,,,,SC
-2025-03-20,FDUS,Fidus Investment Corporation Common Stock,446000,21.16,0.54,2.55,,,,,,CD
-2025-03-20,FDUS,Fidus Investment Corporation Common Stock,446000,21.16,0.54,2.55,,,,,,CD
-2025-03-20,TRMD,TORM plc Class A Common Stock,1052200,19.2,0.6,3.12,X,,,,,CD
-2025-03-20,RKT,"Rocket Companies, Inc. Class A Common Stock",8357500,15.71,0.8,5.09,X,X,,,,SC
-2025-03-20,AMKBY,A.P. Moller - Maersk AS ADR (Representing Class B Shares),199400,8.97,0.78,8.73,,X,,X,,CD
-2025-03-21,JMHLY,Jardine Matheson Holdings Ltd. ADR,9500,43.21,1.65,3.82,X,X,,X,,CD
-2025-03-21,SPKKY,Spark New Zealand Limited ADR,203100,5.93,0.36,6.03,,,,X,,CD
-2025-03-21,SPKKY,Spark New Zealand Limited ADR,203100,5.93,0.36,6.03,,,,X,,CD
-2025-03-21,WHF,"WhiteHorse Finance, Inc. Common Stock",94700,10.16,0.38,3.79,X,,,,,CD
-2025-03-21,OFS,OFS Capital Corporation Common Stock,94700,9.5,0.34,3.58,X,X,,,,CD
-2025-03-21,BCH,Bitcoin Cash,192500,28.34,2.1,7.42,X,X,,,,CD
-2025-03-24,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,10352400,18.43,3.17,17.2,,,,,,CD
-2025-03-24,CGBD,"Carlyle Secured Lending, Inc. Common Stock",143500,16.93,0.45,2.66,X,,,,,CD
-2025-03-24,CGBD,"Carlyle Secured Lending, Inc. Common Stock",143500,16.93,0.45,2.66,X,,,,,CD
-2025-03-24,PTMN,Portman Ridge Finance Corporation Common Stock,97900,15.45,0.54,3.5,,,,,,CD
-2025-03-24,PTMN,Portman Ridge Finance Corporation Common Stock,97900,15.45,0.54,3.5,,,,,,SC
-2025-03-24,RWT,"Redwood Trust, Inc. Common Stock",1008100,6.38,0.18,2.82,X,,,,,CD
-2025-03-24,PBCRY,Bank Central Asia Tbk PT ADR,142800,13.28,0.38,2.88,,,,X,,CD
-2025-03-24,DNKEY,Danske Bank AS ADR,20000,17.85,0.76,4.28,X,X,,X,,CD
-2025-03-24,DNKEY,Danske Bank AS ADR,20000,17.85,1.07,6.02,X,X,,X,,CD
-2025-03-24,NRDBY,Nordea Bank Abp ADR,368100,14.27,0.98,6.86,,X,,X,,CD
-2025-03-24,NRDBY,Nordea Bank Abp ADR,368100,14.27,0.98,6.86,,X,,X,,CD
-2025-03-25,AEF,"abrdn Emerging Markets ex-China Fund, Inc. Common Stock",100500,5.23,0.15,2.87,X,,,,,CD
-2025-03-25,MNDO,MIND C.T.I. Ltd. Ordinary Shares,57200,1.93,0.22,11.4,X,,,,,CD
-2025-03-26,COHN,Cohen & Company Inc.,25600,7.96,0.25,3.14,,,,,,CD
+2025-03-19,FSK,FS KKR Capital Corp. Common Stock,3385400,21.25,0.64,3.01,,,,,,CD
+2025-03-19,FSK,FS KKR Capital Corp. Common Stock,3385400,21.25,0.64,3.01,,,,,,CD
+2025-03-19,CABGY,Carlsberg ADR,978400,26.42,0.76,2.87,X,X,,X,,CD
+2025-03-20,BANX,ArrowMark Financial Corp. Common Stock,43900,21.27,0.55,2.59,X,X,,,,SC
+2025-03-20,BANX,ArrowMark Financial Corp. Common Stock,43900,21.27,0.55,2.59,X,X,,,,CD
+2025-03-20,FDUS,Fidus Investment Corporation Common Stock,306700,21.19,0.54,2.55,,,,,,CD
+2025-03-20,FDUS,Fidus Investment Corporation Common Stock,306700,21.19,0.54,2.55,,,,,,CD
+2025-03-20,TRMD,TORM plc Class A Common Stock,770700,19.4,0.6,3.09,X,,,,,CD
+2025-03-20,RKT,"Rocket Companies, Inc. Class A Common Stock",5629700,15.27,0.8,5.24,X,X,,,,SC
+2025-03-20,AMKBY,A.P. Moller - Maersk AS ADR (Representing Class B Shares),101600,9.19,0.78,8.52,X,X,,X,,CD
+2025-03-21,JMHLY,Jardine Matheson Holdings Ltd. ADR,6900,43.18,1.65,3.82,X,X,,X,,CD
+2025-03-21,SPKKY,Spark New Zealand Limited ADR,359300,6.13,0.36,5.83,,,,X,,CD
+2025-03-21,SPKKY,Spark New Zealand Limited ADR,359300,6.13,0.36,5.83,,,,X,,CD
+2025-03-21,OFS,OFS Capital Corporation Common Stock,75800,9.51,0.34,3.58,X,X,,,,CD
+2025-03-21,WHF,"WhiteHorse Finance, Inc. Common Stock",52100,10.2,0.38,3.77,X,,,,,CD
+2025-03-21,BCH,Bitcoin Cash,403400,28.41,2.1,7.4,X,X,,,,CD
+2025-03-24,NRDBY,Nordea Bank Abp ADR,545600,14.36,0.98,6.82,X,X,,X,,CD
+2025-03-24,PBCRY,Bank Central Asia Tbk PT ADR,149900,12.61,0.38,3.03,,,,X,,CD
+2025-03-24,DNKEY,Danske Bank AS ADR,34600,17.86,1.07,6.02,X,X,,X,,CD
+2025-03-24,DNKEY,Danske Bank AS ADR,34600,17.86,0.76,4.28,X,X,,X,,CD
+2025-03-24,NRDBY,Nordea Bank Abp ADR,545600,14.36,0.98,6.82,X,X,,X,,CD
+2025-03-24,CGBD,"Carlyle Secured Lending, Inc. Common Stock",140400,17.02,0.45,2.64,X,,,,,CD
+2025-03-24,RWT,"Redwood Trust, Inc. Common Stock",1006900,6.39,0.18,2.82,X,,,,,CD
+2025-03-24,PTMN,Portman Ridge Finance Corporation Common Stock,56200,15.45,0.54,3.5,,,,,,SC
+2025-03-24,PTMN,Portman Ridge Finance Corporation Common Stock,56200,15.45,0.54,3.5,,,,,,CD
+2025-03-24,CGBD,"Carlyle Secured Lending, Inc. Common Stock",140400,17.02,0.45,2.64,X,,,,,CD
+2025-03-24,ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,8551700,18.74,3.17,16.92,,,,,,CD
+2025-03-25,AEF,"abrdn Emerging Markets ex-China Fund, Inc. Common Stock",187800,5.18,0.15,2.9,X,,,,,CD
+2025-03-28,SWDBY,Swedbank AB ADR,9600,26.56,1.98,7.44,X,X,,X,,CD
+2025-03-28,LIEN,"Chicago Atlantic BDC, Inc. Common Stock",37300,11.47,0.34,2.96,X,,,,,CD
+2025-03-28,TRTX,"TPG RE Finance Trust, Inc. Common Stock",662000,8.53,0.24,2.81,X,X,,,,CD
+2025-03-28,CION,CION Investment Corporation Common Stock,637800,10.84,0.36,3.32,,,,,,CD
+2025-03-28,RHHBY,Roche Holding AG ADR,1365000,44.06,1.36,3.09,X,X,,X,,CD
+2025-03-28,TWODY,Taylor Wimpey ADR,146700,14.89,0.59,3.96,X,X,,X,,CD
+2025-03-28,AIBGY,AIB Group Plc ADR,215000,14.83,0.8,5.4,,X,,X,,CD
+2025-03-28,SVNLY,Svenska Handelsbanken AB (publ) ADR,59500,6.61,0.71,10.78,X,X,,X,,CD
