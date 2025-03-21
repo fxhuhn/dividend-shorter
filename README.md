@@ -1,179 +1,94 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-03-20**.
+bet on falling prices on payday **2025-03-21**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| YBIT     |         0.44 |   10.37 | 216900          |             2249253 |      4.2  | True         | False          |
-| TSMY     |         0.58 |   15.77 |  87300          |             1376721 |      3.66 | True         | False          |
-| TSLY     |         0.46 |    8.21 |      5.0787e+06 |            41696127 |      5.65 | False        | False          |
-| TRMD     |         0.6  |   19.96 | 822900          |            16425084 |      3.01 | True         | True           |
-| SNOY     |         0.81 |   16.82 | 310300          |             5219246 |      4.83 | True         | False          |
-| RKT      |         0.8  |   14.9  |      6.7052e+06 |            99907480 |      5.37 | True         | True           |
-| OARK     |         0.32 |    8.36 | 135900          |             1136124 |      3.84 | True         | False          |
-| GOOY     |         0.33 |   12.83 |  95100          |             1220133 |      2.56 | True         | False          |
-| CRSH     |         0.65 |    8.26 | 945000          |             7805700 |      7.82 | True         | True           |
-| AMKBY    |         0.78 |    9.35 | 305600          |             2857360 |      8.38 | True         | True           |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| WHF      |         0.38 |   10.25 |   138600 |             1420650 |      3.76 | True         | False          |
+| SPKKY    |         0.36 |    5.93 |   109100 |              646963 |      6.03 | False        | False          |
+| OFS      |         0.34 |    9.6  |   240700 |             2310720 |      3.54 | True         | True           |
+| JMHLY    |         1.65 |   44.13 |     7100 |              313323 |      3.74 | True         | True           |
+| BCH      |         2.1  |   27.85 |   430400 |            11986640 |      7.55 | True         | True           |
 
-## YBIT
+## WHF
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |       0.1 |       0.1 |         0 |      -0.1 |        10 |
-| mit  |       0.2 |       0.1 |       0.1 |         0 |      -0.1 |        10 |
+| ohne |       0.1 |       0.3 |       0.4 |       0.5 |       0.4 |        55 |
+| mit  |       0.1 |       0.3 |       0.7 |       0.7 |       0.8 |         8 |
 
 ### Ohne Filter
-![image info](./data/YBIT_box_all.png)
-![image info](./data/YBIT_median_all.png)
+![image info](./data/WHF_box_all.png)
+![image info](./data/WHF_median_all.png)
 
 ### Mit Filter
-![image info](./data/YBIT_box_filtered.png)
-![image info](./data/YBIT_median_filtered.png)
+![image info](./data/WHF_box_filtered.png)
+![image info](./data/WHF_median_filtered.png)
 
-## TSMY
+## SPKKY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0.1 |      -0.1 |       0.4 |       0.1 |      -0.1 |         6 |
-| mit  |      -0.2 |      -0.5 |      -0.5 |      -0.6 |      -0.6 |         2 |
+| ohne |       0.3 |       0.4 |       0.4 |       0.8 |         1 |        57 |
+| mit  |       0.3 |       0.2 |      -0.2 |      -0.1 |        -0 |         5 |
 
 ### Ohne Filter
-![image info](./data/TSMY_box_all.png)
-![image info](./data/TSMY_median_all.png)
+![image info](./data/SPKKY_box_all.png)
+![image info](./data/SPKKY_median_all.png)
 
 ### Mit Filter
-![image info](./data/TSMY_box_filtered.png)
-![image info](./data/TSMY_median_filtered.png)
+![image info](./data/SPKKY_box_filtered.png)
+![image info](./data/SPKKY_median_filtered.png)
 
-## TSLY
+## OFS
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0   |       0   |       0.1 |      -0.1 |        27 |
-| mit  |       0.1 |       0.3 |       0.4 |       0.3 |       0.1 |        14 |
+| ohne |       0.2 |       0.5 |       0.5 |       0.4 |       0.4 |        49 |
+| mit  |       0.6 |       1.1 |       1.3 |       1.6 |       1.6 |         7 |
 
 ### Ohne Filter
-![image info](./data/TSLY_box_all.png)
-![image info](./data/TSLY_median_all.png)
+![image info](./data/OFS_box_all.png)
+![image info](./data/OFS_median_all.png)
 
 ### Mit Filter
-![image info](./data/TSLY_box_filtered.png)
-![image info](./data/TSLY_median_filtered.png)
+![image info](./data/OFS_box_filtered.png)
+![image info](./data/OFS_median_filtered.png)
 
-## TRMD
+## JMHLY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |       0.1 |       0.5 |       0.4 |       0.7 |        11 |
-| mit  |         0 |       0.1 |       0.3 |       0.4 |       0.7 |        10 |
+| ohne |         0 |      -0.4 |      -0.1 |      -0.1 |      -0.3 |        28 |
+| mit  |        -0 |      -0.6 |      -0.2 |       0.1 |      -0.1 |         3 |
 
 ### Ohne Filter
-![image info](./data/TRMD_box_all.png)
-![image info](./data/TRMD_median_all.png)
+![image info](./data/JMHLY_box_all.png)
+![image info](./data/JMHLY_median_all.png)
 
 ### Mit Filter
-![image info](./data/TRMD_box_filtered.png)
-![image info](./data/TRMD_median_filtered.png)
+![image info](./data/JMHLY_box_filtered.png)
+![image info](./data/JMHLY_median_filtered.png)
 
-## SNOY
+## BCH
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |       0.2 |       0.1 |      -0.1 |      -0.4 |         9 |
-| mit  |       0.1 |       0.6 |       0.7 |       0.4 |       0.1 |         3 |
+| ohne |       0   |      -0   |      -0.2 |      -0.3 |      -0.1 |        22 |
+| mit  |      -0.2 |      -0.1 |      -0.2 |      -0.3 |      -0.1 |        15 |
 
 ### Ohne Filter
-![image info](./data/SNOY_box_all.png)
-![image info](./data/SNOY_median_all.png)
+![image info](./data/BCH_box_all.png)
+![image info](./data/BCH_median_all.png)
 
 ### Mit Filter
-![image info](./data/SNOY_box_filtered.png)
-![image info](./data/SNOY_median_filtered.png)
-
-## RKT
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.4 |       0.6 |       0.4 |       0.7 |         1 |         2 |
-| mit  |       0.4 |       0.6 |       0.4 |       0.7 |         1 |         2 |
-
-### Ohne Filter
-![image info](./data/RKT_box_all.png)
-![image info](./data/RKT_median_all.png)
-
-### Mit Filter
-![image info](./data/RKT_box_filtered.png)
-![image info](./data/RKT_median_filtered.png)
-
-## OARK
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0.1 |      -0.1 |      -0.2 |      -0.3 |        27 |
-| mit  |       0.1 |       0.4 |       0.5 |       0.2 |       0.1 |        13 |
-
-### Ohne Filter
-![image info](./data/OARK_box_all.png)
-![image info](./data/OARK_median_all.png)
-
-### Mit Filter
-![image info](./data/OARK_box_filtered.png)
-![image info](./data/OARK_median_filtered.png)
-
-## GOOY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0.1 |      -0.1 |      -0.2 |      -0.2 |        19 |
-| mit  |       0.1 |       0.4 |       0.4 |       0.2 |       0   |         2 |
-
-### Ohne Filter
-![image info](./data/GOOY_box_all.png)
-![image info](./data/GOOY_median_all.png)
-
-### Mit Filter
-![image info](./data/GOOY_box_filtered.png)
-![image info](./data/GOOY_median_filtered.png)
-
-## CRSH
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0.2 |      -0.2 |      -0.3 |      -0.2 |      -0.2 |        10 |
-| mit  |      -0.1 |      -0.1 |      -0.5 |      -0.2 |      -0.4 |         7 |
-
-### Ohne Filter
-![image info](./data/CRSH_box_all.png)
-![image info](./data/CRSH_median_all.png)
-
-### Mit Filter
-![image info](./data/CRSH_box_filtered.png)
-![image info](./data/CRSH_median_filtered.png)
-
-## AMKBY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0.1 |      -0.1 |      -0.1 |      -0.7 |      -0.4 |        15 |
-| mit  |      -0.1 |      -0.1 |      -0.1 |      -0.4 |      -0.3 |         6 |
-
-### Ohne Filter
-![image info](./data/AMKBY_box_all.png)
-![image info](./data/AMKBY_median_all.png)
-
-### Mit Filter
-![image info](./data/AMKBY_box_filtered.png)
-![image info](./data/AMKBY_median_filtered.png)
+![image info](./data/BCH_box_filtered.png)
+![image info](./data/BCH_median_filtered.png)
 
