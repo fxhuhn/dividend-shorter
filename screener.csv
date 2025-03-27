@@ -1,60 +1,60 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-03-26,COHN,Cohen & Company Inc.,25600,9.42,0.25,2.65,X,X,,,,CD
-2025-03-27,TOUR,Tuniu Corporation American Depositary Shares,147600,1.05,0.04,3.43,,X,,,,SC
-2025-03-27,AOIFF,Africa Oil Corp,159600,1.48,0.04,2.51,X,X,,,,CD
-2025-03-27,AOIFF,Africa Oil Corp,159600,1.48,0.04,2.51,X,X,,,,CD
-2025-03-28,RHHBY,Roche Holding AG ADR,1404800,43.38,1.36,3.14,X,X,,X,,CD
-2025-03-28,SVNLY,Svenska Handelsbanken AB (publ) ADR,58200,6.63,0.71,10.74,X,X,,X,,CD
-2025-03-28,AIBGY,AIB Group Plc ADR,336200,13.55,0.8,5.91,,X,,X,,CD
-2025-03-28,SWDBY,Swedbank AB ADR,24800,26.22,1.98,7.54,X,X,,X,,CD
-2025-03-28,CION,CION Investment Corporation Common Stock,415200,10.99,0.36,3.28,X,,,,,CD
-2025-03-28,TRTX,"TPG RE Finance Trust, Inc. Common Stock",835500,8.5,0.24,2.82,,X,,,,CD
-2025-03-28,TWODY,Taylor Wimpey ADR,319200,14.87,0.59,3.97,,X,,X,,CD
-2025-03-31,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",527200,5.84,0.16,2.74,,,,,,CD
-2025-03-31,RC,Ready Capital Corporation Common Stock,2936600,4.9,0.12,2.55,,,,,,CD
-2025-03-31,LFT,"Lument Finance Trust, Inc. Common Stock",78100,2.81,0.08,2.85,X,X,,,,CD
-2025-03-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",798100,12.35,0.32,2.59,X,,,,,CD
-2025-03-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",798100,12.35,0.32,2.59,X,,,,,SC
-2025-03-31,IIPR,"Innovative Industrial Properties, Inc. Common Stock",273300,64.85,1.9,2.93,X,,,,,CD
-2025-03-31,FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",301700,13.04,0.36,2.72,,X,,,,CD
-2025-03-31,RANJY,Randstad NV ADR,16800,22.18,0.67,3.0,,X,,X,,CD
-2025-03-31,SCMWY,Swisscom AG ADR,13000,59.94,2.48,4.13,X,X,,X,,CD
-2025-03-31,UPMMY,UPM-Kymmene Oyj ADR (Unsponsered),40800,28.31,0.77,2.74,,,,X,,CD
-2025-03-31,UPMMY,UPM-Kymmene Oyj ADR (Unsponsered),40800,28.31,0.77,2.74,,,,X,,CD
-2025-03-31,MITT,"AG Mortgage Investment Trust, Inc. Common Stock",181900,7.65,0.2,2.61,,X,,,,CD
-2025-03-31,RANJY,Randstad NV ADR,16800,22.18,0.84,3.8,,X,,X,,CD
-2025-03-31,NLCP,NewLake Capital Partners Inc.,63100,15.06,0.43,2.86,,,,,,CD
-2025-03-31,NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,307700,17.24,0.45,2.61,,X,,,,CD
-2025-03-31,ARI,"Apollo Commercial Real Estate Finance, Inc",857300,9.8,0.25,2.55,,X,,,,CD
-2025-03-31,ACRE,Ares Commercial Real Estate Corporation Common Stock,354500,4.76,0.15,3.15,,,,,,CD
-2025-03-31,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock",364500,4.85,0.16,3.3,,X,,,,CD
-2025-03-31,AFCG,Advanced Flower Capital Inc. Common Stock,225900,6.29,0.23,3.66,,,,,,CD
-2025-03-31,BGS,"B&G Foods, Inc. Common Stock",2687400,6.6,0.19,2.88,,,,,,CD
-2025-03-31,MKZR,"MacKenzie Realty Capital, Inc. Common Stock",79600,1.5,0.05,3.33,,,,,,CD
-2025-03-31,NYMT,"New York Mortgage Trust, Inc. Common Stock",434100,6.75,0.2,2.96,,X,,,,CD
-2025-03-31,RWAY,Runway Growth Finance Corp. Common Stock,532600,10.52,0.36,3.42,,,,,,CD
-2025-03-31,RWAY,Runway Growth Finance Corp. Common Stock,532600,10.52,0.36,3.42,,,,,,CD
-2025-03-31,SUNS,"Sunrise Realty Trust, Inc. Common Stock",74800,11.3,0.3,2.65,,,,,,CD
-2025-03-31,TRIN,Trinity Capital Inc. Common Stock,420800,16.16,0.51,3.16,X,X,,,,CD
-2025-03-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",102300,15.42,0.47,3.05,,,,,,CD
-2025-03-31,NLY,Annaly Capital Management Inc. Common Stock,7651500,21.39,0.7,3.27,,X,,,,CD
-2025-03-31,CIM,Chimera Investment Corporation Common Stock,608400,13.31,0.37,2.78,,,,,,CD
-2025-03-31,MFA,"MFA Financial, Inc.",1057100,10.83,0.36,3.32,,X,,,,CD
-2025-03-31,GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,63300,12.86,0.37,2.88,,X,,,,CD
-2025-03-31,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",63800,8.31,0.22,2.65,X,X,,,,CD
-2025-03-31,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,317000,3.6,0.15,4.17,,X,,,,CD
-2025-03-31,CIB,BanColombia S.A. Common Stock,421200,43.88,3.81,8.69,X,X,,,,CD
-2025-04-01,NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",133500,24.72,0.69,2.78,,,,,,CD
-2025-04-01,ADRZY,Andritz AG ADR,152300,12.61,0.56,4.48,,X,,X,,CD
-2025-04-03,SGSOY,SGS AG ADR,146300,9.89,0.36,3.67,,,,X,,CD
-2025-04-03,SKFRY,SKF AB ADR,12800,21.82,0.7,3.19,,X,,X,,CD
-2025-04-03,EC,Ecopetrol S.A. American Depositary Shares,1902500,10.31,0.52,5.05,X,X,,,,SC
-2025-04-03,BDN,Brandywine Realty Trust Common Stock,1620900,4.51,0.15,3.33,,,,,,CD
-2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,68800,30.87,1.68,5.45,,X,,X,,SC
-2025-04-04,TWO,Two Harbors Investment Corp,987100,13.6,0.45,3.31,,X,,,,CD
-2025-04-04,SLLDY,Sanlam ADR,11500,9.49,0.49,5.16,X,X,,X,,CD
-2025-04-04,MONDY,Mondi Plc ADR (New),13500,31.56,0.94,2.97,,X,,X,,CD
-2025-04-04,MONDY,Mondi Plc ADR (New),13500,31.56,1.01,3.19,,X,,X,,CD
-2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,68800,30.87,0.95,3.09,,X,,X,,SC
-2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,68800,30.87,0.95,3.09,,X,,X,,CD
-2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,68800,30.87,1.68,5.45,,X,,X,,CD
+2025-03-27,TOUR,Tuniu Corporation American Depositary Shares,133500,1.07,0.04,3.38,X,X,,,,SC
+2025-03-28,LIEN,"Chicago Atlantic BDC, Inc. Common Stock",14800,11.84,0.34,2.87,X,X,,,,CD
+2025-03-28,TRTX,"TPG RE Finance Trust, Inc. Common Stock",951700,8.38,0.24,2.86,,,,,,CD
+2025-03-28,CION,CION Investment Corporation Common Stock,465200,10.83,0.36,3.32,,,,,,CD
+2025-03-28,RHHBY,Roche Holding AG ADR,2135600,42.63,1.36,3.2,,X,,X,,CD
+2025-03-28,TWODY,Taylor Wimpey ADR,834900,14.87,0.59,3.96,,X,,X,,CD
+2025-03-28,AIBGY,AIB Group Plc ADR,30800,13.84,0.8,5.79,,X,,X,,CD
+2025-03-28,SWDBY,Swedbank AB ADR,36000,25.71,1.98,7.69,,X,,X,,CD
+2025-03-28,SVNLY,Svenska Handelsbanken AB (publ) ADR,133400,6.5,0.71,10.96,X,X,,X,,CD
+2025-03-31,LFT,"Lument Finance Trust, Inc. Common Stock",113700,2.77,0.08,2.89,,X,,,,CD
+2025-03-31,CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,400200,3.56,0.15,4.21,,X,,,,CD
+2025-03-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",374300,12.32,0.32,2.6,X,,,,,CD
+2025-03-31,GSBD,"Goldman Sachs BDC, Inc. Common Stock",374300,12.32,0.32,2.6,X,,,,,SC
+2025-03-31,IIPR,"Innovative Industrial Properties, Inc. Common Stock",283300,64.98,1.9,2.92,X,,,,,CD
+2025-03-31,BRSP,"BrightSpire Capital, Inc. Class A Common Stock",408200,5.8,0.16,2.76,,,,,,CD
+2025-03-31,FBRT,"Franklin BSP Realty Trust, Inc. Common Stock",259400,13.0,0.36,2.73,,X,,,,CD
+2025-03-31,UPMMY,UPM-Kymmene Oyj ADR (Unsponsered),30600,27.81,0.77,2.78,,,,X,,CD
+2025-03-31,NLCP,NewLake Capital Partners Inc.,50800,15.08,0.43,2.85,X,,,,,CD
+2025-03-31,SCMWY,Swisscom AG ADR,13300,60.21,2.48,4.11,X,X,,X,,CD
+2025-03-31,RC,Ready Capital Corporation Common Stock,2903900,4.97,0.12,2.52,,,,,,CD
+2025-03-31,UPMMY,UPM-Kymmene Oyj ADR (Unsponsered),30600,27.81,0.77,2.78,,,,X,,CD
+2025-03-31,RANJY,Randstad NV ADR,4600,22.39,0.67,2.98,,X,,X,,CD
+2025-03-31,RANJY,Randstad NV ADR,4600,22.39,0.84,3.76,,X,,X,,CD
+2025-03-31,NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,251600,17.38,0.45,2.59,X,X,,,,CD
+2025-03-31,ACRE,Ares Commercial Real Estate Corporation Common Stock,549300,4.77,0.15,3.14,,,,,,CD
+2025-03-31,CIM,Chimera Investment Corporation Common Stock,803400,13.22,0.37,2.8,,,,,,CD
+2025-03-31,ARI,"Apollo Commercial Real Estate Finance, Inc",928300,9.79,0.25,2.55,,X,,,,CD
+2025-03-31,AFCG,Advanced Flower Capital Inc. Common Stock,165300,6.24,0.23,3.69,,,,,,CD
+2025-03-31,REFI,"Chicago Atlantic Real Estate Finance, Inc. Common Stock",92000,15.37,0.47,3.06,,,,,,CD
+2025-03-31,NYMT,"New York Mortgage Trust, Inc. Common Stock",456300,6.66,0.2,3.0,,X,,,,CD
+2025-03-31,RWAY,Runway Growth Finance Corp. Common Stock,536600,10.67,0.36,3.37,,,,,,CD
+2025-03-31,RWAY,Runway Growth Finance Corp. Common Stock,536600,10.67,0.36,3.37,,,,,,CD
+2025-03-31,SUNS,"Sunrise Realty Trust, Inc. Common Stock",135600,11.45,0.3,2.62,X,,,,,CD
+2025-03-31,TRIN,Trinity Capital Inc. Common Stock,475300,16.11,0.51,3.17,,X,,,,CD
+2025-03-31,GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,40100,12.71,0.37,2.91,,X,,,,CD
+2025-03-31,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",55600,8.22,0.22,2.68,,X,,,,CD
+2025-03-31,CIB,BanColombia S.A. Common Stock,442900,44.29,3.81,8.61,X,X,,,,CD
+2025-03-31,NLY,Annaly Capital Management Inc. Common Stock,8241800,21.15,0.7,3.31,,X,,,,CD
+2025-03-31,MFA,"MFA Financial, Inc.",1463800,10.81,0.36,3.33,,X,,,,CD
+2025-03-31,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock",194600,4.84,0.16,3.31,,X,,,,CD
+2025-03-31,BGS,"B&G Foods, Inc. Common Stock",2487600,6.6,0.19,2.88,,,,,,CD
+2025-03-31,MITT,"AG Mortgage Investment Trust, Inc. Common Stock",241600,7.6,0.2,2.63,,X,,,,CD
+2025-04-01,TKGBY,Turkiye Garanti Bankasi A.S. ADR,230200,3.1,0.12,3.73,,,,X,,
+2025-04-01,VIASP,"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",12900,24.13,0.7,2.89,,X,,,,CD
+2025-04-01,HOVNP,Hovnanian Enterprises Inc Dep Shr Srs A Pfd,24100,17.4,0.48,2.74,,X,,,,CD
+2025-04-01,NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",47500,24.65,0.69,2.79,,,,,,CD
+2025-04-03,BDN,Brandywine Realty Trust Common Stock,1199200,4.55,0.15,3.3,,,,,,CD
+2025-04-03,EC,Ecopetrol S.A. American Depositary Shares,1953700,10.4,0.52,5.0,X,X,,,,SC
+2025-04-03,SKFRY,SKF AB ADR,25100,21.42,0.7,3.25,,X,,X,,CD
+2025-04-03,SGSOY,SGS AG ADR,90100,9.79,0.36,3.71,,,,X,,CD
+2025-04-04,TWO,Two Harbors Investment Corp,1030500,13.46,0.45,3.34,,X,,,,CD
+2025-04-04,MONDY,Mondi Plc ADR (New),22100,31.24,0.94,3.0,,,,X,,CD
+2025-04-04,MONDY,Mondi Plc ADR (New),22100,31.24,1.01,3.22,,,,X,,CD
+2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,63000,30.46,0.95,3.13,,X,,X,,CD
+2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,63000,30.46,0.95,3.13,,X,,X,,SC
+2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,63000,30.46,1.68,5.52,,X,,X,,CD
+2025-04-04,VLVLY,Volvo AB ADR - Unsponsored,63000,30.46,1.68,5.52,,X,,X,,SC
+2025-04-07,IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,7353600,8.13,0.34,4.18,,,,,,CD
+2025-04-07,SKBSY,Skanska AB ADR,6600,24.03,0.79,3.29,,X,,X,,
