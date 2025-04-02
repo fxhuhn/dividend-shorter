@@ -1,9 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-01,HOVNP,Hovnanian Enterprises Inc Dep Shr Srs A Pfd,26200,17.26,0.48,2.76,,,,,,CD
-2025-04-01,NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",114900,24.6,0.69,2.79,,,,,,CD
-2025-04-03,PPC,Pilgrim's Pride Corporation Common Stock,1232100,54.51,6.3,11.56,X,X,,,,SC
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,179400,26.31,0.88,3.33,X,X,,,,CD
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,179400,26.31,0.88,3.33,X,X,,,,CD
-2025-04-04,NHPAP,"National Healthcare Properties, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",14200,14.44,0.46,3.19,,X,,,,CD
-2025-04-09,HTHT,H World Group Limited American Depositary Shares,1438200,37.01,0.97,2.62,,X,,,,CD
-2025-04-09,WB,Weibo Corporation American Depositary Share,1344200,9.47,0.82,8.66,,,,,,CD
+2025-04-03,PPC,Pilgrim's Pride Corporation Common Stock,1837800,56.26,6.3,11.2,X,X,,,,SC
+2025-04-04,CDZIP,"Cadiz, Inc. Depositary Shares",11100,19.39,0.55,2.84,X,X,,,,CD
+2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,131800,26.46,0.88,3.31,X,X,,,,CD
+2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,131800,26.46,0.88,3.31,X,X,,,,CD
+2025-04-08,SY,So-Young International Inc. American Depository Shares,170300,0.88,0.03,3.01,,,,,,CD
+2025-04-09,HTHT,H World Group Limited American Depositary Shares,1474600,37.1,0.97,2.61,,X,,,,CD
+2025-04-09,WB,Weibo Corporation American Depositary Share,1364600,9.45,0.82,8.68,,,,,,CD
+2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1373900,6.27,0.3,4.78,,,,,,CD
