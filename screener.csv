@@ -1,9 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-03,PPC,Pilgrim's Pride Corporation Common Stock,1837800,56.26,6.3,11.2,X,X,,,,SC
-2025-04-04,CDZIP,"Cadiz, Inc. Depositary Shares",11100,19.39,0.55,2.84,X,X,,,,CD
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,131800,26.46,0.88,3.31,X,X,,,,CD
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,131800,26.46,0.88,3.31,X,X,,,,CD
-2025-04-08,SY,So-Young International Inc. American Depository Shares,170300,0.88,0.03,3.01,,,,,,CD
-2025-04-09,HTHT,H World Group Limited American Depositary Shares,1474600,37.1,0.97,2.61,,X,,,,CD
-2025-04-09,WB,Weibo Corporation American Depositary Share,1364600,9.45,0.82,8.68,,,,,,CD
-2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1373900,6.27,0.3,4.78,,,,,,CD
+2025-04-03,PPC,Pilgrim's Pride Corporation Common Stock,1607900,55.3,6.3,11.39,X,X,,,,SC
+2025-04-04,CDZIP,"Cadiz, Inc. Depositary Shares",11700,19.4,0.55,2.84,X,X,,,,CD
+2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,96500,26.48,0.88,3.3,,X,,,,CD
+2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,96500,26.48,0.88,3.3,,X,,,,CD
+2025-04-08,TIGO,Millicom International Cellular S.A. Common Stock,482800,29.53,0.75,2.54,,X,,,,CD
+2025-04-08,SY,So-Young International Inc. American Depository Shares,150400,0.9,0.03,2.94,,,,,,CD
+2025-04-09,HTHT,H World Group Limited American Depositary Shares,1566700,37.29,0.97,2.6,,X,,,,CD
+2025-04-09,WB,Weibo Corporation American Depositary Share,1056000,9.44,0.82,8.69,,,,,,CD
+2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,607700,6.27,0.3,4.78,,,,,,CD
