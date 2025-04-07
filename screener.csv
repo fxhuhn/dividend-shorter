@@ -1,10 +1,10 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-04,CDZIP,"Cadiz, Inc. Depositary Shares",7500,19.43,0.55,2.83,X,X,,,,CD
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,150300,26.02,0.88,3.36,X,X,,,,CD
-2025-04-04,IGIC,International General Insurance Holdings Ltd. Ordinary Share,150300,26.02,0.88,3.36,X,X,,,,CD
-2025-04-04,NHPAP,"National Healthcare Properties, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",10800,14.2,0.46,3.25,,,,,,CD
-2025-04-08,JD,"JD.com, Inc. American Depositary Shares",10962900,39.9,1.0,2.51,,,,,,CD
-2025-04-08,SY,So-Young International Inc. American Depository Shares,192500,0.86,0.03,3.08,X,,,,,CD
-2025-04-09,HTHT,H World Group Limited American Depositary Shares,844500,37.14,0.97,2.61,X,X,,,,CD
-2025-04-09,WB,Weibo Corporation American Depositary Share,1543200,9.17,0.82,8.94,,,,,,CD
-2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,674500,6.11,0.3,4.91,,,,,,CD
+2025-04-07,SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),170100,25.65,0.66,2.57,,,,,,CD
+2025-04-07,SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),170100,25.65,0.66,2.57,,,,,,SC
+2025-04-08,JD,"JD.com, Inc. American Depositary Shares",25766100,36.81,1.0,2.72,,,,,,CD
+2025-04-08,TIGO,Millicom International Cellular S.A. Common Stock,901600,28.49,0.75,2.63,,X,,,,CD
+2025-04-08,SY,So-Young International Inc. American Depository Shares,241700,0.8,0.03,3.31,,,,,,CD
+2025-04-09,HTHT,H World Group Limited American Depositary Shares,4761100,33.43,0.97,2.9,,,,,,CD
+2025-04-09,WB,Weibo Corporation American Depositary Share,2686000,8.6,0.82,9.53,,,,,,CD
+2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1495100,5.84,0.3,5.14,,,,,,CD
+2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,28000,13.89,0.35,2.53,X,,,,,CD
