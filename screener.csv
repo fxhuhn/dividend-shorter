@@ -1,10 +1,9 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-07,SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),170100,25.65,0.66,2.57,,,,,,CD
-2025-04-07,SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),170100,25.65,0.66,2.57,,,,,,SC
-2025-04-08,JD,"JD.com, Inc. American Depositary Shares",25766100,36.81,1.0,2.72,,,,,,CD
-2025-04-08,TIGO,Millicom International Cellular S.A. Common Stock,901600,28.49,0.75,2.63,,X,,,,CD
-2025-04-08,SY,So-Young International Inc. American Depository Shares,241700,0.8,0.03,3.31,,,,,,CD
-2025-04-09,HTHT,H World Group Limited American Depositary Shares,4761100,33.43,0.97,2.9,,,,,,CD
-2025-04-09,WB,Weibo Corporation American Depositary Share,2686000,8.6,0.82,9.53,,,,,,CD
-2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1495100,5.84,0.3,5.14,,,,,,CD
-2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,28000,13.89,0.35,2.53,X,,,,,CD
+2025-04-08,JD,"JD.com, Inc. American Depositary Shares",28819100,34.92,1.0,2.86,,,,,,CD
+2025-04-08,TIGO,Millicom International Cellular S.A. Common Stock,1380600,27.93,0.75,2.69,,,,,,CD
+2025-04-09,HTHT,H World Group Limited American Depositary Shares,4142600,32.36,0.97,3.0,,,,,,CD
+2025-04-09,WB,Weibo Corporation American Depositary Share,4706300,8.33,0.82,9.84,,,,,,CD
+2025-04-10,FATBP,FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,49800,6.74,0.17,2.55,,,,,,CD
+2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1768200,5.54,0.3,5.42,,,,,,CD
+2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,27600,13.66,0.35,2.57,,,,,,CD
+2025-04-15,HROWM,"Harrow,  Inc. 11.875% Senior Notes due 2027",13800,26.49,0.74,2.8,,,,,,CD
