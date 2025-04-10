@@ -1,9 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-09,HTHT,H World Group Limited American Depositary Shares,2725500,30.82,0.97,3.15,,,,,,CD
-2025-04-09,WB,Weibo Corporation American Depositary Share,5054600,7.85,0.82,10.45,,,,,,CD
-2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,2227000,5.39,0.3,5.57,,,,,,CD
-2025-04-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",21200,8.27,0.31,3.78,,,,,,
-2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",24900,6.5,0.33,5.05,,,,,,
-2025-04-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",33000,6.78,0.38,5.53,,,,,,
-2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",49000,9.3,0.41,4.37,,,,,,
-2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,36000,13.6,0.35,2.59,,,,,,CD
+2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,2160200,5.54,0.3,5.42,,,,,,CD
+2025-04-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",63900,10.25,0.31,3.05,,,,,,CD
+2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",122900,6.79,0.33,4.83,,,,,,CD
+2025-04-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",38400,7.17,0.38,5.23,,,,,,CD
+2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",28600,10.84,0.41,3.75,,,,,,CD
+2025-04-15,HROWM,"Harrow,  Inc. 11.875% Senior Notes due 2027",8100,26.22,0.74,2.83,,,,,,CD
