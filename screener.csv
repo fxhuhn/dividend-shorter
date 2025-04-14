@@ -1,8 +1,7 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-11,MOMO,Hello Group Inc. American Depositary Shares,1496000,5.53,0.3,5.42,,,,,,CD
-2025-04-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",36000,10.1,0.31,3.09,X,,,,,CD
-2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",53600,6.5,0.33,5.05,,,,,,CD
-2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",30400,10.28,0.41,3.95,X,,,,,CD
-2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,10400,13.97,0.35,2.52,X,,,,,CD
-2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",20400,76.67,2.08,2.72,X,,,,,CD
-2025-04-22,MGIC,Magic Software Enterprises Ltd. Ordinary Shares,44400,12.83,0.33,2.55,X,,,,,CD
+2025-04-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",15400,10.37,0.31,3.01,X,,,,,CD
+2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",72300,6.64,0.33,4.94,X,,,,,CD
+2025-04-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",18600,7.1,0.38,5.28,X,,,,,CD
+2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",11000,10.5,0.41,3.87,X,,,,,CD
+2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,51100,13.7,0.35,2.57,X,,,,,CD
+2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",43400,77.76,2.08,2.68,X,,,,,CD
