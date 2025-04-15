@@ -1,7 +1,11 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-15,RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",15400,10.37,0.31,3.01,X,,,,,CD
-2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",72300,6.64,0.33,4.94,X,,,,,CD
-2025-04-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",18600,7.1,0.38,5.28,X,,,,,CD
-2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",11000,10.5,0.41,3.87,X,,,,,CD
-2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,51100,13.7,0.35,2.57,X,,,,,CD
-2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",43400,77.76,2.08,2.68,X,,,,,CD
+2025-04-15,ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,23300,7.23,0.55,7.56,X,,,,,CD
+2025-04-15,RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",30700,7.11,0.33,4.61,X,,,,,CD
+2025-04-15,RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",15800,7.31,0.38,5.13,X,,,,,CD
+2025-04-15,RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",13600,10.55,0.41,3.85,X,,,,,CD
+2025-04-15,DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,11000,13.81,0.35,2.55,X,,,,,CD
+2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",55600,78.1,2.08,2.67,X,,,,,CD
+2025-04-22,OPI,Office Properties Income Trust Common Shares of Beneficial Interest,630500,0.33,0.01,3.03,,,,,,CD
+2025-04-22,SEVN,Seven Hills Realty Trust Common Stock,51900,11.46,0.35,3.05,X,,,,,CD
+2025-04-22,RMR,The RMR Group Inc. Class A Common Stock,139800,15.37,0.45,2.93,X,,,,,CD
+2025-04-24,SWKH,SWK Holdings Corporation Common Stock,26400,18.01,4.0,22.21,X,X,,,,SC
