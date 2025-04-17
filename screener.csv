@@ -1,6 +1,6 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",46200,78.55,2.08,2.65,X,,,,,CD
-2025-04-22,OPI,Office Properties Income Trust Common Shares of Beneficial Interest,623000,0.36,0.01,2.78,,,,,,CD
-2025-04-22,SEVN,Seven Hills Realty Trust Common Stock,34100,11.6,0.35,3.02,X,,,,,CD
-2025-04-22,RMR,The RMR Group Inc. Class A Common Stock,126400,15.12,0.45,2.98,,,,,,CD
-2025-04-24,SWKH,SWK Holdings Corporation Common Stock,28100,18.1,4.0,22.1,X,X,,,,SC
+2025-04-22,SLVO,"Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",24900,78.81,2.08,2.64,X,X,,,,CD
+2025-04-22,OPI,Office Properties Income Trust Common Shares of Beneficial Interest,1504100,0.33,0.01,3.03,,,,,,CD
+2025-04-22,SEVN,Seven Hills Realty Trust Common Stock,48900,11.66,0.35,3.0,X,,,,,CD
+2025-04-22,RMR,The RMR Group Inc. Class A Common Stock,106400,15.02,0.45,3.0,X,,,,,CD
+2025-04-24,SWKH,SWK Holdings Corporation Common Stock,21800,18.11,4.0,22.09,X,X,,,,SC
