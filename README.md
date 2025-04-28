@@ -1,94 +1,94 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-04-25**.
+bet on falling prices on payday **2025-04-28**.
 
 ## Signale
 
 | Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
 |:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| SAXPY    |         0.75 |   20.5  |  29200          |              598600 |      3.65 | True         | True           |
-| LGGNY    |         0.99 |   16.79 |  56300          |              945277 |      5.92 | True         | True           |
-| ING      |         0.77 |   19.69 |      1.8308e+06 |            36048452 |      3.9  | True         | True           |
-| ICMB     |         0.12 |    3.12 | 229900          |              717288 |      3.85 | True         | True           |
-| ANGPY    |         0.5  |    6.1  |  71200          |              434320 |      8.16 | False        | True           |
+| PEO      |         0.52 |   20.58 |  46700          |              961086 |      2.53 | True         | False          |
+| ORKLY    |         0.94 |   12.1  |  21400          |              258940 |      7.79 | True         | True           |
+| ENGIY    |         1.61 |   21.64 | 129000          |             2791560 |      7.44 | True         | True           |
+| EC       |         0.52 |    9.29 |      2.0259e+06 |            18820611 |      5.6  | True         | False          |
+| AAVMY    |         0.78 |   21.23 |   7400          |              157102 |      3.67 | True         | True           |
 
-## SAXPY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0.1 |      -0   |      -0.1 |      -0.2 |         0 |        14 |
-| mit  |      -0.4 |      -0.3 |      -0.1 |      -0.5 |         0 |         2 |
-
-### Ohne Filter
-![image info](./data/SAXPY_box_all.png)
-![image info](./data/SAXPY_median_all.png)
-
-### Mit Filter
-![image info](./data/SAXPY_box_filtered.png)
-![image info](./data/SAXPY_median_filtered.png)
-
-## LGGNY
+## PEO
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0   |       0   |      -0.1 |      -0.1 |      -0.1 |        26 |
-| mit  |      -0.1 |      -0.1 |      -0.2 |      -0.1 |      -0.1 |         1 |
+| ohne |        -0 |      -0.2 |      -0.2 |      -0.4 |      -0.4 |        96 |
+| mit  |        -0 |      -0   |       0   |       0.1 |       0.2 |        13 |
 
 ### Ohne Filter
-![image info](./data/LGGNY_box_all.png)
-![image info](./data/LGGNY_median_all.png)
+![image info](./data/PEO_box_all.png)
+![image info](./data/PEO_median_all.png)
 
 ### Mit Filter
-![image info](./data/LGGNY_box_filtered.png)
-![image info](./data/LGGNY_median_filtered.png)
+![image info](./data/PEO_box_filtered.png)
+![image info](./data/PEO_median_filtered.png)
 
-## ING
+## ORKLY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0   |       0.2 |      -0.1 |       0.1 |        31 |
-| mit  |         0 |      -0.1 |      -0.1 |      -0.1 |       0.1 |         9 |
+| ohne |       0   |      -0.2 |      -0.1 |      -0.2 |      -0.3 |        14 |
+| mit  |       0.9 |       2   |       2.1 |       2.3 |       2.7 |         1 |
 
 ### Ohne Filter
-![image info](./data/ING_box_all.png)
-![image info](./data/ING_median_all.png)
+![image info](./data/ORKLY_box_all.png)
+![image info](./data/ORKLY_median_all.png)
 
 ### Mit Filter
-![image info](./data/ING_box_filtered.png)
-![image info](./data/ING_median_filtered.png)
+![image info](./data/ORKLY_box_filtered.png)
+![image info](./data/ORKLY_median_filtered.png)
 
-## ICMB
+## ENGIY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.4 |       0.6 |       0.7 |       0.4 |       0.6 |        54 |
-| mit  |      -0.1 |      -0   |      -0.1 |      -0.3 |      -0.2 |         1 |
+| ohne |       0.1 |       0.2 |       0.2 |       0.3 |       0.1 |        20 |
+| mit  |       0.2 |       0.2 |       0.2 |      -0.2 |      -0.1 |        13 |
 
 ### Ohne Filter
-![image info](./data/ICMB_box_all.png)
-![image info](./data/ICMB_median_all.png)
+![image info](./data/ENGIY_box_all.png)
+![image info](./data/ENGIY_median_all.png)
 
 ### Mit Filter
-![image info](./data/ICMB_box_filtered.png)
-![image info](./data/ICMB_median_filtered.png)
+![image info](./data/ENGIY_box_filtered.png)
+![image info](./data/ENGIY_median_filtered.png)
 
-## ANGPY
+## EC
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |        -0 |        -0 |      -0.1 |      -0.1 |        30 |
-| mit  |       nan |       nan |       nan |     nan   |     nan   |         0 |
+| ohne |       0.1 |       0.2 |       0.2 |       0.2 |       0.3 |        38 |
+| mit  |       0.1 |       0.2 |       0.3 |       0.2 |       0.5 |        15 |
 
 ### Ohne Filter
-![image info](./data/ANGPY_box_all.png)
-![image info](./data/ANGPY_median_all.png)
+![image info](./data/EC_box_all.png)
+![image info](./data/EC_median_all.png)
 
 ### Mit Filter
-![image info](./data/ANGPY_box_filtered.png)
-![image info](./data/ANGPY_median_filtered.png)
+![image info](./data/EC_box_filtered.png)
+![image info](./data/EC_median_filtered.png)
+
+## AAVMY
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0   |         0 |       0.2 |      -0   |      -0.2 |         7 |
+| mit  |      -0.1 |         0 |      -0.1 |      -0.1 |      -0.5 |         1 |
+
+### Ohne Filter
+![image info](./data/AAVMY_box_all.png)
+![image info](./data/AAVMY_median_all.png)
+
+### Mit Filter
+![image info](./data/AAVMY_box_filtered.png)
+![image info](./data/AAVMY_median_filtered.png)
 
