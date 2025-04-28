@@ -1,4 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-25,ICMB,"Investcorp Credit Management BDC, Inc. Common Stock",229900,3.12,0.12,3.85,X,X,,,,CD
-2025-04-29,SIGA,SIGA Technologies Inc. Common Stock,508000,6.48,0.6,9.26,X,X,,,,SC
-2025-04-30,CALM,"Cal-Maine Foods, Inc. Common Stock",844600,92.68,3.46,3.73,X,X,,,,CD
+2025-04-29,AVTE,"Aerovate Therapeutics, Inc. Common Stock",1092186,2.68,2.4,89.55,X,X,,,,CD
+2025-04-29,CYCC,"Cyclacel Pharmaceuticals, Inc. Common Stock",3723300,0.28,0.15,53.57,X,,,,,CD
+2025-04-29,SIGA,SIGA Technologies Inc. Common Stock,742300,6.5,0.6,9.23,X,X,,,,SC
+2025-04-30,CALM,"Cal-Maine Foods, Inc. Common Stock",775300,94.81,3.46,3.65,X,X,,,,CD
