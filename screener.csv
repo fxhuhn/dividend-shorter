@@ -1,5 +1,4 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-29,AVTE,"Aerovate Therapeutics, Inc. Common Stock",1092186,2.68,2.4,89.55,X,X,,,,CD
-2025-04-29,CYCC,"Cyclacel Pharmaceuticals, Inc. Common Stock",3723300,0.28,0.15,53.57,X,,,,,CD
-2025-04-29,SIGA,SIGA Technologies Inc. Common Stock,742300,6.5,0.6,9.23,X,X,,,,SC
-2025-04-30,CALM,"Cal-Maine Foods, Inc. Common Stock",775300,94.81,3.46,3.65,X,X,,,,CD
+2025-04-29,CYCC,"Cyclacel Pharmaceuticals, Inc. Common Stock",10967600,0.29,0.15,51.72,X,,,,,CD
+2025-04-29,SIGA,SIGA Technologies Inc. Common Stock,1020600,6.35,0.6,9.45,X,X,,,,SC
+2025-04-30,CALM,"Cal-Maine Foods, Inc. Common Stock",982600,95.5,3.46,3.62,X,X,,,,CD
