@@ -1,6 +1,5 @@
 Date,Ticker,companyName,Volume,Close,Divid Rate,Divid %,5_Days_pos,above_SMA_50,etf,adr,bond,dividend_type
-2025-04-30,CALM,"Cal-Maine Foods, Inc. Common Stock",935400,96.84,3.46,3.57,X,X,,,,CD
-2025-05-05,TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",46800,10.52,0.27,2.6,,X,,,,CD
-2025-05-08,ARLP,"Alliance Resource Partners, L.P. Common Units representing Limited Partners Interests",420000,27.07,0.7,2.59,,X,,,,CD
-2025-05-09,BFC,Bank First Corporation Common Stock,41500,112.16,3.5,3.12,X,X,,,,SC
-2025-05-09,SNY,Sanofi ADS,2126400,53.72,2.21,4.12,X,,,,,CD
+2025-05-05,DMLP,"Dorchester Minerals, L.P. Common Units Representing Limited Partnership Interests",74600,28.66,0.73,2.53,,,,,,CD
+2025-05-08,ARLP,"Alliance Resource Partners, L.P. Common Units representing Limited Partners Interests",448000,26.45,0.7,2.65,,X,,,,CD
+2025-05-09,BFC,Bank First Corporation Common Stock,20100,109.18,3.5,3.21,,X,,,,SC
+2025-05-09,SNY,Sanofi ADS,1687100,54.95,2.21,4.03,X,X,,,,CD
