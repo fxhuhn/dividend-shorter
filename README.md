@@ -1,94 +1,77 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-05-05**.
+bet on falling prices on payday **2025-05-28**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| RWEOY    |         1.21 |   38.89 |  16900          |              657241 |      3.12 | True         | True           |
-| MURGY    |         0.44 |   13.59 | 237100          |             3222189 |      3.21 | False        | True           |
-| GBOOY    |         2.46 |   44.06 |  16600          |              731396 |      5.57 | True         | True           |
-| EDPFY    |         2.27 |   38.97 |  16100          |              627417 |      5.84 | True         | True           |
-| AMBP     |         0.1  |    3.65 |      2.2591e+06 |             8245715 |      2.74 | False        | True           |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| WYNMY    |         0.24 |    6.96 |    25900 |              180264 |      3.41 | True         | True           |
+| CKHUY    |         0.19 |    5.64 |   292900 |             1651956 |      3.45 | False        | True           |
+| ASR      |        24.59 |  346.32 |    75600 |            26181792 |      7.1  | True         | True           |
+| AOIFF    |         0.04 |    1.39 |    77500 |              107725 |      2.67 | True         | True           |
 
-## RWEOY
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |       0.1 |       0.1 |      -0.3 |       0.1 |        17 |
-| mit  |         0 |      -0.3 |      -0.2 |      -0.2 |       0.1 |         4 |
-
-### Ohne Filter
-![image info](./data/RWEOY_box_all.png)
-![image info](./data/RWEOY_median_all.png)
-
-### Mit Filter
-![image info](./data/RWEOY_box_filtered.png)
-![image info](./data/RWEOY_median_filtered.png)
-
-## MURGY
+## WYNMY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |      -0   |        -0 |       0.1 |       0.2 |       0.3 |        13 |
-| mit  |       0.1 |        -0 |       0.1 |       0.2 |       0.3 |         7 |
+| ohne |       0.3 |      -0.1 |      -0.4 |      -0.9 |      -0.7 |        15 |
+| mit  |       1.6 |       0.8 |       1.6 |       1.7 |       0.6 |         2 |
 
 ### Ohne Filter
-![image info](./data/MURGY_box_all.png)
-![image info](./data/MURGY_median_all.png)
+![image info](./data/WYNMY_box_all.png)
+![image info](./data/WYNMY_median_all.png)
 
 ### Mit Filter
-![image info](./data/MURGY_box_filtered.png)
-![image info](./data/MURGY_median_filtered.png)
+![image info](./data/WYNMY_box_filtered.png)
+![image info](./data/WYNMY_median_filtered.png)
 
-## GBOOY
+## CKHUY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |      -0.3 |      -0.7 |      -0.3 |      -0.8 |        31 |
-| mit  |      -0.7 |      -0.7 |      -0.8 |      -0.8 |      -0.8 |         1 |
+| ohne |      -0.1 |      -0.1 |       0.1 |       0.1 |       0.2 |        20 |
+| mit  |      -0   |       0   |       0.1 |       0.1 |       0.1 |         3 |
 
 ### Ohne Filter
-![image info](./data/GBOOY_box_all.png)
-![image info](./data/GBOOY_median_all.png)
+![image info](./data/CKHUY_box_all.png)
+![image info](./data/CKHUY_median_all.png)
 
 ### Mit Filter
-![image info](./data/GBOOY_box_filtered.png)
-![image info](./data/GBOOY_median_filtered.png)
+![image info](./data/CKHUY_box_filtered.png)
+![image info](./data/CKHUY_median_filtered.png)
 
-## EDPFY
+## ASR
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0.1 |       0.1 |      -0.1 |      -0.3 |        16 |
-| mit  |       0.1 |      -0   |      -0   |      -0.1 |      -0.2 |         4 |
+| ohne |      -0.1 |      -0.3 |      -0.2 |      -0.1 |      -0.4 |        24 |
+| mit  |      -0.1 |      -0.1 |       0.4 |       0.4 |       0.6 |         7 |
 
 ### Ohne Filter
-![image info](./data/EDPFY_box_all.png)
-![image info](./data/EDPFY_median_all.png)
+![image info](./data/ASR_box_all.png)
+![image info](./data/ASR_median_all.png)
 
 ### Mit Filter
-![image info](./data/EDPFY_box_filtered.png)
-![image info](./data/EDPFY_median_filtered.png)
+![image info](./data/ASR_box_filtered.png)
+![image info](./data/ASR_median_filtered.png)
 
-## AMBP
+## AOIFF
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0   |       0.4 |       0.3 |       0.2 |        12 |
-| mit  |       0.1 |      -0.8 |      -0.3 |      -0.6 |       0   |         5 |
+| ohne |      -0.4 |      -0.5 |      -0.7 |      -0.8 |        -1 |         7 |
+| mit  |     nan   |     nan   |     nan   |     nan   |       nan |         0 |
 
 ### Ohne Filter
-![image info](./data/AMBP_box_all.png)
-![image info](./data/AMBP_median_all.png)
+![image info](./data/AOIFF_box_all.png)
+![image info](./data/AOIFF_median_all.png)
 
 ### Mit Filter
-![image info](./data/AMBP_box_filtered.png)
-![image info](./data/AMBP_median_filtered.png)
+![image info](./data/AOIFF_box_filtered.png)
+![image info](./data/AOIFF_median_filtered.png)
 
