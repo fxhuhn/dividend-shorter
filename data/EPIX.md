@@ -1,15 +1,3 @@
-# dividend-shorter
-
-bet on falling prices on payday **2025-08-25**.
-
-## Signale
-
-| Ticker   |   Divid Rate |   Close |     Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|-----------:|--------------------:|----------:|:-------------|:---------------|
-| EPIX     |         1.69 |    1.93 | 3.0306e+06 |             5849058 |     87.56 | True         | True           |
-
-## EPIX
-
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
@@ -23,4 +11,3 @@ bet on falling prices on payday **2025-08-25**.
 ### Mit Filter
 ![image info](./data/EPIX_box_filtered.png)
 ![image info](./data/EPIX_median_filtered.png)
-
