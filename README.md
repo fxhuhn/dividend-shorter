@@ -1,145 +1,128 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-09-15**.
+bet on falling prices on payday **2025-09-18**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| STRD     |         3.06 |   82.19 | 170600          |            14021614 |      3.72 | True         | False          |
-| SACH     |         0.05 |    1.31 | 431900          |              565789 |      3.82 | True         | True           |
-| OCSL     |         0.4  |   13.79 | 914000          |            12604060 |      2.9  | False        | False          |
-| NREF     |         0.5  |   15.33 |  67300          |             1031709 |      3.26 | True         | True           |
-| MBNKO    |         0.81 |   26.1  |  17800          |              464580 |      3.09 | True         | True           |
-| GECC     |         0.37 |   11.29 | 120100          |             1355929 |      3.28 | False        | True           |
-| GBDC     |         0.39 |   14.76 |      1.3402e+06 |            19781352 |      2.64 | False        | False          |
-| BRIA     |         0.13 |    2.55 | 617500          |             1574625 |      5.22 | True         | True           |
+| Ticker   |   Divid Rate |   Close |           Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|-----------------:|--------------------:|----------:|:-------------|:---------------|
+| ICMB     |         0.12 |    3.07 | 124200           |              381294 |      3.91 | True         | True           |
+| HOOY     |         3.86 |   69.25 | 504900           |            34964325 |      5.58 | True         | True           |
+| FIAT     |         0.19 |    3.13 |      2.5173e+06  |             7879149 |      6.06 | True         | True           |
+| DRAY     |         1.57 |   48.49 |  11500           |              557635 |      3.23 | False        | False          |
+| CVNY     |         1.9  |   42.32 | 131200           |             5552384 |      4.49 | True         | True           |
+| CONY     |         0.45 |    7.14 |      1.79116e+07 |           127888824 |      6.33 | False        | False          |
+| AMDY     |         0.24 |    7.76 |      1.5332e+06  |            11897632 |      3.15 | True         | False          |
 
-## STRD
+## ICMB
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       nan |       nan |       nan |       nan |       nan |         0 |
-| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
+| ohne |       0.4 |       0.6 |       0.6 |       0.5 |       0.6 |        56 |
+| mit  |      -0.1 |      -0   |      -0.1 |      -0.3 |      -0.2 |         1 |
 
 ### Ohne Filter
-![image info](./data/STRD_box_all.png)
-![image info](./data/STRD_median_all.png)
+![image info](./data/ICMB_box_all.png)
+![image info](./data/ICMB_median_all.png)
 
 ### Mit Filter
-![image info](./data/STRD_box_filtered.png)
-![image info](./data/STRD_median_filtered.png)
+![image info](./data/ICMB_box_filtered.png)
+![image info](./data/ICMB_median_filtered.png)
 
-## SACH
+## HOOY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.4 |       0.7 |       0.9 |       1   |       1   |        32 |
-| mit  |       0.8 |       1.1 |       1.3 |       1.3 |       1.1 |         7 |
+| ohne |        -0 |      -0.1 |      -0.4 |      -0.5 |      -0.5 |         4 |
+| mit  |        -0 |      -0.1 |      -0.4 |      -0.5 |      -0.5 |         4 |
 
 ### Ohne Filter
-![image info](./data/SACH_box_all.png)
-![image info](./data/SACH_median_all.png)
+![image info](./data/HOOY_box_all.png)
+![image info](./data/HOOY_median_all.png)
 
 ### Mit Filter
-![image info](./data/SACH_box_filtered.png)
-![image info](./data/SACH_median_filtered.png)
+![image info](./data/HOOY_box_filtered.png)
+![image info](./data/HOOY_median_filtered.png)
 
-## OCSL
+## FIAT
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0.1 |       0.2 |       0.2 |       0.1 |        99 |
-| mit  |       0.1 |       0.1 |       0.2 |       0.2 |       0.3 |         6 |
+| ohne |      -0.1 |      -0.1 |      -0.1 |      -0.2 |        -0 |        14 |
+| mit  |      -0.1 |      -0.1 |      -0.1 |      -0.2 |        -0 |        14 |
 
 ### Ohne Filter
-![image info](./data/OCSL_box_all.png)
-![image info](./data/OCSL_median_all.png)
+![image info](./data/FIAT_box_all.png)
+![image info](./data/FIAT_median_all.png)
 
 ### Mit Filter
-![image info](./data/OCSL_box_filtered.png)
-![image info](./data/OCSL_median_filtered.png)
+![image info](./data/FIAT_box_filtered.png)
+![image info](./data/FIAT_median_filtered.png)
 
-## NREF
+## DRAY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |       0.5 |       0.6 |       0.5 |       1   |        26 |
-| mit  |       0.3 |       0.5 |       0.6 |       0.3 |       0.2 |         5 |
-
-### Ohne Filter
-![image info](./data/NREF_box_all.png)
-![image info](./data/NREF_median_all.png)
-
-### Mit Filter
-![image info](./data/NREF_box_filtered.png)
-![image info](./data/NREF_median_filtered.png)
-
-## MBNKO
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       nan |       nan |       nan |       nan |       nan |         0 |
-| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
-
-### Ohne Filter
-![image info](./data/MBNKO_box_all.png)
-![image info](./data/MBNKO_median_all.png)
-
-### Mit Filter
-![image info](./data/MBNKO_box_filtered.png)
-![image info](./data/MBNKO_median_filtered.png)
-
-## GECC
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.2 |       0.4 |       0.7 |       0.6 |       0.6 |        70 |
+| ohne |      -0.3 |      -0.6 |      -0.6 |      -0.9 |      -0.8 |         1 |
 | mit  |     nan   |     nan   |     nan   |     nan   |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/GECC_box_all.png)
-![image info](./data/GECC_median_all.png)
+![image info](./data/DRAY_box_all.png)
+![image info](./data/DRAY_median_all.png)
 
 ### Mit Filter
-![image info](./data/GECC_box_filtered.png)
-![image info](./data/GECC_median_filtered.png)
+![image info](./data/DRAY_box_filtered.png)
+![image info](./data/DRAY_median_filtered.png)
 
-## GBDC
+## CVNY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |        -0 |        -0 |      -0.1 |         0 |        73 |
-| mit  |       nan |       nan |       nan |     nan   |       nan |         0 |
+| ohne |       0.4 |        -0 |      -0.1 |      -0.3 |      -0.4 |         7 |
+| mit  |       0.4 |        -0 |      -0.1 |      -0.3 |      -0.4 |         7 |
 
 ### Ohne Filter
-![image info](./data/GBDC_box_all.png)
-![image info](./data/GBDC_median_all.png)
+![image info](./data/CVNY_box_all.png)
+![image info](./data/CVNY_median_all.png)
 
 ### Mit Filter
-![image info](./data/GBDC_box_filtered.png)
-![image info](./data/GBDC_median_filtered.png)
+![image info](./data/CVNY_box_filtered.png)
+![image info](./data/CVNY_median_filtered.png)
 
-## BRIA
+## CONY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       nan |       nan |       nan |       nan |       nan |         0 |
-| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
+| ohne |         0 |       0.1 |       0.1 |       0.1 |         0 |        24 |
+| mit  |         0 |       0.1 |       0.1 |       0.1 |         0 |        24 |
 
 ### Ohne Filter
-![image info](./data/BRIA_box_all.png)
-![image info](./data/BRIA_median_all.png)
+![image info](./data/CONY_box_all.png)
+![image info](./data/CONY_median_all.png)
 
 ### Mit Filter
-![image info](./data/BRIA_box_filtered.png)
-![image info](./data/BRIA_median_filtered.png)
+![image info](./data/CONY_box_filtered.png)
+![image info](./data/CONY_median_filtered.png)
+
+## AMDY
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0.1 |      -0.1 |       0.1 |      -0.1 |      -0.2 |        23 |
+| mit  |       0.1 |      -0   |       0.1 |      -0.1 |      -0.2 |        22 |
+
+### Ohne Filter
+![image info](./data/AMDY_box_all.png)
+![image info](./data/AMDY_median_all.png)
+
+### Mit Filter
+![image info](./data/AMDY_box_filtered.png)
+![image info](./data/AMDY_median_filtered.png)
 
