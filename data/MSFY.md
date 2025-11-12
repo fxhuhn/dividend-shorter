@@ -1,15 +1,3 @@
-# dividend-shorter
-
-bet on falling prices on payday **2025-11-12**.
-
-## Signale
-
-| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
-| MSFY     |          0.8 |    26.8 |    14300 |              383240 |      2.99 | True         | True           |
-
-## MSFY
-
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
@@ -23,4 +11,3 @@ bet on falling prices on payday **2025-11-12**.
 ### Mit Filter
 ![image info](./data/MSFY_box_filtered.png)
 ![image info](./data/MSFY_median_filtered.png)
-
