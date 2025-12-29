@@ -1,145 +1,179 @@
 # dividend-shorter
 
-bet on falling prices on payday **2025-12-23**.
+bet on falling prices on payday **2025-12-29**.
 
 ## Signale
 
 | Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
 |:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
-| YGLD     |         1.37 |   46.12 |  55200          |             2545824 |      2.97 | True         | True           |
-| XV       |         1.22 |   26.93 |  23000          |              619390 |      4.53 | True         | True           |
-| TESL     |         2.82 |   25.46 |  29300          |              745978 |     11.08 | False        | True           |
-| RWT      |         0.18 |    5.73 |      1.5523e+06 |             8894679 |      3.14 | True         | True           |
-| PFIX     |         2.39 |   50.71 | 224100          |            11364111 |      4.71 | False        | True           |
-| MRCC     |         0.18 |    6.5  | 244500          |             1589250 |      2.77 | True         | False          |
-| KF       |         0.94 |   35.98 |  34400          |             1237712 |      2.62 | True         | True           |
-| CAS      |         3.59 |   34.72 |   4500          |              156240 |     10.34 | True         | True           |
+| USEA     |         0.09 |    2.17 | 217500          |              471975 |      4.15 | True         | True           |
+| TWN      |         6.2  |   59.71 |  35200          |             2101792 |     10.38 | True         | True           |
+| TIMB     |         0.68 |   20.27 | 334700          |             6784369 |      3.35 | False        | False          |
+| SRV      |         2.14 |   40.72 | 143900          |             5859608 |      5.26 | True         | False          |
+| SPE      |         0.7  |   15.56 |  60000          |              933600 |      4.5  | True         | True           |
+| PSBD     |         0.36 |   12.23 | 199800          |             2443554 |      2.94 | True         | True           |
+| PDX      |         2.97 |   21.43 | 353300          |             7571219 |     13.86 | True         | False          |
+| IVR      |         0.36 |    8.62 |      2.7305e+06 |            23536910 |      4.18 | False        | True           |
+| FTEL     |         0.1  |    0.73 |      2.6459e+06 |             1931507 |     13.7  | True         | False          |
+| AIO      |         1.19 |   23.17 | 216600          |             5018622 |      5.14 | True         | True           |
 
-## YGLD
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |      -0.4 |      -0.6 |      -0.8 |        -1 |         4 |
-| mit  |       nan |     nan   |     nan   |     nan   |       nan |         0 |
-
-### Ohne Filter
-![image info](./data/YGLD_box_all.png)
-![image info](./data/YGLD_median_all.png)
-
-### Mit Filter
-![image info](./data/YGLD_box_filtered.png)
-![image info](./data/YGLD_median_filtered.png)
-
-## XV
+## USEA
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0.1 |      -0.1 |      -0.2 |         0 |         7 |
-| mit  |       nan |     nan   |     nan   |     nan   |       nan |         0 |
+| ohne |       0.1 |         0 |       0.3 |       0.4 |       0.5 |        12 |
+| mit  |     nan   |       nan |     nan   |     nan   |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/XV_box_all.png)
-![image info](./data/XV_median_all.png)
+![image info](./data/USEA_box_all.png)
+![image info](./data/USEA_median_all.png)
 
 ### Mit Filter
-![image info](./data/XV_box_filtered.png)
-![image info](./data/XV_median_filtered.png)
+![image info](./data/USEA_box_filtered.png)
+![image info](./data/USEA_median_filtered.png)
 
-## TESL
+## TWN
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       4.1 |       3.9 |       6.1 |         7 |         0 |         4 |
-| mit  |     nan   |     nan   |     nan   |       nan |       nan |         0 |
+| ohne |       0.1 |       0.1 |      -0.1 |      -0.4 |      -0.2 |        14 |
+| mit  |       0.1 |       0.1 |       0.1 |       0.1 |       0   |         1 |
 
 ### Ohne Filter
-![image info](./data/TESL_box_all.png)
-![image info](./data/TESL_median_all.png)
+![image info](./data/TWN_box_all.png)
+![image info](./data/TWN_median_all.png)
 
 ### Mit Filter
-![image info](./data/TESL_box_filtered.png)
-![image info](./data/TESL_median_filtered.png)
+![image info](./data/TWN_box_filtered.png)
+![image info](./data/TWN_median_filtered.png)
 
-## RWT
+## TIMB
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0   |      -0.2 |      -0.1 |      -0.3 |        93 |
-| mit  |       0.1 |      -0.1 |      -0.2 |      -0   |      -0.2 |        14 |
+| ohne |        -0 |       0.1 |       0.1 |       0.4 |      -0.5 |        25 |
+| mit  |       nan |     nan   |     nan   |     nan   |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/RWT_box_all.png)
-![image info](./data/RWT_median_all.png)
+![image info](./data/TIMB_box_all.png)
+![image info](./data/TIMB_median_all.png)
 
 ### Mit Filter
-![image info](./data/RWT_box_filtered.png)
-![image info](./data/RWT_median_filtered.png)
+![image info](./data/TIMB_box_filtered.png)
+![image info](./data/TIMB_median_filtered.png)
 
-## PFIX
+## SRV
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |      -0.2 |        -0 |      -0.7 |        -1 |        46 |
-| mit  |       0   |       0   |         0 |       0   |        -0 |         1 |
+| ohne |       0.1 |         0 |         0 |        -0 |      -0.1 |       170 |
+| mit  |     nan   |       nan |       nan |       nan |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/PFIX_box_all.png)
-![image info](./data/PFIX_median_all.png)
+![image info](./data/SRV_box_all.png)
+![image info](./data/SRV_median_all.png)
 
 ### Mit Filter
-![image info](./data/PFIX_box_filtered.png)
-![image info](./data/PFIX_median_filtered.png)
+![image info](./data/SRV_box_filtered.png)
+![image info](./data/SRV_median_filtered.png)
 
-## MRCC
+## SPE
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0.3 |       0.3 |       0.4 |       0.5 |        52 |
-| mit  |       0.3 |       1.4 |       1.1 |       1.3 |       1.6 |         7 |
+| ohne |       0.1 |         0 |       0.1 |      -0   |       0   |       120 |
+| mit  |       0   |         0 |      -0   |      -0.1 |      -0.2 |         1 |
 
 ### Ohne Filter
-![image info](./data/MRCC_box_all.png)
-![image info](./data/MRCC_median_all.png)
+![image info](./data/SPE_box_all.png)
+![image info](./data/SPE_median_all.png)
 
 ### Mit Filter
-![image info](./data/MRCC_box_filtered.png)
-![image info](./data/MRCC_median_filtered.png)
+![image info](./data/SPE_box_filtered.png)
+![image info](./data/SPE_median_filtered.png)
 
-## KF
+## PSBD
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |         0 |         0 |      -0.1 |      -0.1 |        18 |
-| mit  |         0 |        -0 |        -0 |      -0.1 |      -0.1 |         1 |
+| ohne |       0.1 |       0   |       0.1 |       0.2 |        -0 |        14 |
+| mit  |       0.1 |      -0.1 |      -0   |       0   |        -0 |         1 |
 
 ### Ohne Filter
-![image info](./data/KF_box_all.png)
-![image info](./data/KF_median_all.png)
+![image info](./data/PSBD_box_all.png)
+![image info](./data/PSBD_median_all.png)
 
 ### Mit Filter
-![image info](./data/KF_box_filtered.png)
-![image info](./data/KF_median_filtered.png)
+![image info](./data/PSBD_box_filtered.png)
+![image info](./data/PSBD_median_filtered.png)
 
-## CAS
+## PDX
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |       0.4 |      -0.5 |        -1 |        -1 |         3 |
-| mit  |       nan |     nan   |     nan   |       nan |       nan |         0 |
+| ohne |       0.3 |       0.2 |       0.2 |        -0 |       0.2 |        29 |
+| mit  |     nan   |     nan   |     nan   |       nan |     nan   |         0 |
 
 ### Ohne Filter
-![image info](./data/CAS_box_all.png)
-![image info](./data/CAS_median_all.png)
+![image info](./data/PDX_box_all.png)
+![image info](./data/PDX_median_all.png)
 
 ### Mit Filter
-![image info](./data/CAS_box_filtered.png)
-![image info](./data/CAS_median_filtered.png)
+![image info](./data/PDX_box_filtered.png)
+![image info](./data/PDX_median_filtered.png)
+
+## IVR
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0.1 |       0.1 |       0.2 |       0.2 |       0.2 |        65 |
+| mit  |       0.2 |       0.1 |      -0.1 |       0.1 |       0.2 |        14 |
+
+### Ohne Filter
+![image info](./data/IVR_box_all.png)
+![image info](./data/IVR_median_all.png)
+
+### Mit Filter
+![image info](./data/IVR_box_filtered.png)
+![image info](./data/IVR_median_filtered.png)
+
+## FTEL
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       nan |       nan |       nan |       nan |       nan |         0 |
+| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
+
+### Ohne Filter
+![image info](./data/FTEL_box_all.png)
+![image info](./data/FTEL_median_all.png)
+
+### Mit Filter
+![image info](./data/FTEL_box_filtered.png)
+![image info](./data/FTEL_median_filtered.png)
+
+## AIO
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0   |      -0   |       0.1 |       0   |      -0.1 |        75 |
+| mit  |      -0.2 |      -0.1 |      -0.1 |      -0.1 |      -0.4 |         2 |
+
+### Ohne Filter
+![image info](./data/AIO_box_all.png)
+![image info](./data/AIO_median_all.png)
+
+### Mit Filter
+![image info](./data/AIO_box_filtered.png)
+![image info](./data/AIO_median_filtered.png)
 
