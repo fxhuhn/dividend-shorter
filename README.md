@@ -1,43 +1,43 @@
 # dividend-shorter
 
-bet on falling prices on payday **2026-01-22**.
+bet on falling prices on payday **2026-02-12**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |     Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|-----------:|--------------------:|----------:|:-------------|:---------------|
-| USA      |         0.18 |    6.31 | 1.2027e+06 |             7589037 |      2.85 | False        | True           |
-| OCG      |         0.05 |    1.8  | 1.4733e+06 |             2651940 |      2.78 | False        | False          |
+| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
+| MVRL     |         0.5  |   15.42 |    17900 |              276018 |      3.25 | False        | True           |
+| HSNGY    |        19.75 |   19.7  |     8100 |              159570 |    100.25 | True         | True           |
 
-## USA
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0.1 |       0   |       0.1 |      -0.1 |        70 |
-| mit  |      -0.1 |      -0.1 |      -0.1 |      -0.3 |      -0.5 |         4 |
-
-### Ohne Filter
-![image info](./data/USA_box_all.png)
-![image info](./data/USA_median_all.png)
-
-### Mit Filter
-![image info](./data/USA_box_filtered.png)
-![image info](./data/USA_median_filtered.png)
-
-## OCG
+## MVRL
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       nan |       nan |       nan |       nan |       nan |         0 |
-| mit  |       nan |       nan |       nan |       nan |       nan |         0 |
+| ohne |       0.1 |      -0.1 |      -0.1 |      -0.3 |      -0.4 |        67 |
+| mit  |      -0.5 |      -0.2 |      -0.5 |      -0.5 |      -1   |         1 |
 
 ### Ohne Filter
-![image info](./data/OCG_box_all.png)
-![image info](./data/OCG_median_all.png)
+![image info](./data/MVRL_box_all.png)
+![image info](./data/MVRL_median_all.png)
 
 ### Mit Filter
-![image info](./data/OCG_box_filtered.png)
-![image info](./data/OCG_median_filtered.png)
+![image info](./data/MVRL_box_filtered.png)
+![image info](./data/MVRL_median_filtered.png)
+
+## HSNGY
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |      -0.1 |      -0   |      -0.1 |      -0.2 |      -0.5 |        79 |
+| mit  |      -0   |      -0.1 |      -0.1 |      -0.2 |      -0.2 |         1 |
+
+### Ohne Filter
+![image info](./data/HSNGY_box_all.png)
+![image info](./data/HSNGY_median_all.png)
+
+### Mit Filter
+![image info](./data/HSNGY_box_filtered.png)
+![image info](./data/HSNGY_median_filtered.png)
 
