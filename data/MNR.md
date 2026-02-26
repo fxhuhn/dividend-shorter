@@ -1,15 +1,3 @@
-# dividend-shorter
-
-bet on falling prices on payday **2026-02-26**.
-
-## Signale
-
-| Ticker   |   Divid Rate |   Close |   Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|---------:|--------------------:|----------:|:-------------|:---------------|
-| MNR      |         0.53 |   13.49 |   634900 |             8564801 |      3.93 | False        | True           |
-
-## MNR
-
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
@@ -23,4 +11,3 @@ bet on falling prices on payday **2026-02-26**.
 ### Mit Filter
 ![image info](./data/MNR_box_filtered.png)
 ![image info](./data/MNR_median_filtered.png)
-
