@@ -1,15 +1,3 @@
-# dividend-shorter
-
-bet on falling prices on payday **2026-03-19**.
-
-## Signale
-
-| Ticker   |   Divid Rate |   Close |      Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|------------:|--------------------:|----------:|:-------------|:---------------|
-| UWMC     |          0.1 |    3.69 | 1.74966e+07 |            64562598 |      2.71 | False        | False          |
-
-## UWMC
-
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
@@ -23,4 +11,3 @@ bet on falling prices on payday **2026-03-19**.
 ### Mit Filter
 ![image info](./data/UWMC_box_filtered.png)
 ![image info](./data/UWMC_median_filtered.png)
-
