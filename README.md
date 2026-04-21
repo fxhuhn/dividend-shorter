@@ -1,77 +1,111 @@
 # dividend-shorter
 
-bet on falling prices on payday **2026-04-17**.
+bet on falling prices on payday **2026-04-21**.
 
 ## Signale
 
-| Ticker   |   Divid Rate |   Close |         Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
-|:---------|-------------:|--------:|---------------:|--------------------:|----------:|:-------------|:---------------|
-| WB       |         0.61 |    9.27 |     1.1682e+06 |            10829214 |      6.58 | True         | False          |
-| SGBLY    |         0.52 |   20    | 29400          |              588000 |      2.58 | False        | True           |
-| ING      |         0.88 |   29.24 |     2.181e+06  |            63772440 |      3.01 | True         | True           |
-| GOFPY    |         0.46 |    8.64 | 75900          |              655776 |      5.36 | True         | False          |
+| Ticker   |   Divid Rate |   Close |          Volume |   last_close_volume |   Divid % | 5_Days_pos   | above_SMA_50   |
+|:---------|-------------:|--------:|----------------:|--------------------:|----------:|:-------------|:---------------|
+| SEVN     |         0.28 |    8.47 | 262600          |             2224222 |      3.31 | False        | False          |
+| RMR      |         0.45 |   17.06 | 364200          |             6213252 |      2.64 | True         | True           |
+| NSRGY    |         4.01 |  101.35 | 285000          |            28884750 |      3.95 | False        | True           |
+| MDIBY    |         0.73 |   24.05 |   4700          |              113035 |      3.04 | True         | True           |
+| BVN      |         0.99 |   35.08 |      1.2578e+06 |            44123624 |      2.82 | False        | False          |
+| AHEXY    |         0.65 |   12.53 |   9100          |              114023 |      5.16 | True         | False          |
 
-## WB
-
-### Erwartung in R
-|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
-|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |       0.1 |       0.4 |        -0 |       0.3 |       0.4 |         3 |
-| mit  |       0.1 |       0.4 |        -0 |       0.3 |       0.4 |         3 |
-
-### Ohne Filter
-![image info](./data/WB_box_all.png)
-![image info](./data/WB_median_all.png)
-
-### Mit Filter
-![image info](./data/WB_box_filtered.png)
-![image info](./data/WB_median_filtered.png)
-
-## SGBLY
+## SEVN
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |        -0 |       0.1 |       0.1 |         0 |      -0.4 |        27 |
-| mit  |       nan |     nan   |     nan   |       nan |     nan   |         0 |
+| ohne |       0.1 |       0.4 |       0.7 |       0.7 |       0.6 |        17 |
+| mit  |       0.3 |       0.9 |       1   |       0.9 |       0.8 |         2 |
 
 ### Ohne Filter
-![image info](./data/SGBLY_box_all.png)
-![image info](./data/SGBLY_median_all.png)
+![image info](./data/SEVN_box_all.png)
+![image info](./data/SEVN_median_all.png)
 
 ### Mit Filter
-![image info](./data/SGBLY_box_filtered.png)
-![image info](./data/SGBLY_median_filtered.png)
+![image info](./data/SEVN_box_filtered.png)
+![image info](./data/SEVN_median_filtered.png)
 
-## ING
+## RMR
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0.1 |      -0   |      -0.1 |      -0.1 |        34 |
-| mit  |         0 |      -0.1 |      -0.2 |      -0.1 |       0   |        10 |
+| ohne |       0.2 |      -0.1 |       0.1 |       0.1 |      -0.4 |        42 |
+| mit  |       0.2 |       0.3 |       0.5 |       0.4 |       0   |         4 |
 
 ### Ohne Filter
-![image info](./data/ING_box_all.png)
-![image info](./data/ING_median_all.png)
+![image info](./data/RMR_box_all.png)
+![image info](./data/RMR_median_all.png)
 
 ### Mit Filter
-![image info](./data/ING_box_filtered.png)
-![image info](./data/ING_median_filtered.png)
+![image info](./data/RMR_box_filtered.png)
+![image info](./data/RMR_median_filtered.png)
 
-## GOFPY
+## NSRGY
 
 ### Erwartung in R
 |      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
 |:-----|----------:|----------:|----------:|----------:|----------:|----------:|
-| ohne |         0 |      -0.1 |      -0.3 |      -0.5 |      -0.5 |        33 |
-| mit  |       nan |     nan   |     nan   |     nan   |     nan   |         0 |
+| ohne |        -0 |      -0.1 |      -0.2 |         0 |      -0.1 |        19 |
+| mit  |         0 |      -0.1 |      -0.2 |         0 |      -0.1 |        14 |
 
 ### Ohne Filter
-![image info](./data/GOFPY_box_all.png)
-![image info](./data/GOFPY_median_all.png)
+![image info](./data/NSRGY_box_all.png)
+![image info](./data/NSRGY_median_all.png)
 
 ### Mit Filter
-![image info](./data/GOFPY_box_filtered.png)
-![image info](./data/GOFPY_median_filtered.png)
+![image info](./data/NSRGY_box_filtered.png)
+![image info](./data/NSRGY_median_filtered.png)
+
+## MDIBY
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0   |       0.1 |       0.1 |       0.1 |       0.1 |         9 |
+| mit  |       0.3 |       0.9 |       0.7 |       0.5 |      -0.3 |         1 |
+
+### Ohne Filter
+![image info](./data/MDIBY_box_all.png)
+![image info](./data/MDIBY_median_all.png)
+
+### Mit Filter
+![image info](./data/MDIBY_box_filtered.png)
+![image info](./data/MDIBY_median_filtered.png)
+
+## BVN
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |       0   |      -0.5 |      -0.2 |      -0.8 |      -0.8 |        38 |
+| mit  |       0.1 |       0.5 |      -0   |      -0.3 |       0   |         1 |
+
+### Ohne Filter
+![image info](./data/BVN_box_all.png)
+![image info](./data/BVN_median_all.png)
+
+### Mit Filter
+![image info](./data/BVN_box_filtered.png)
+![image info](./data/BVN_median_filtered.png)
+
+## AHEXY
+
+### Erwartung in R
+|      |   Day_r_0 |   Day_r_1 |   Day_r_2 |   Day_r_3 |   Day_r_4 |   Treffer |
+|:-----|----------:|----------:|----------:|----------:|----------:|----------:|
+| ohne |      -0.1 |      -0.1 |      -0.2 |      -0.1 |      -0.3 |        15 |
+| mit  |      -0   |      -0.2 |      -0.2 |      -0.1 |      -0.4 |         3 |
+
+### Ohne Filter
+![image info](./data/AHEXY_box_all.png)
+![image info](./data/AHEXY_median_all.png)
+
+### Mit Filter
+![image info](./data/AHEXY_box_filtered.png)
+![image info](./data/AHEXY_median_filtered.png)
 
